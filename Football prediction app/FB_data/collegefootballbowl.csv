@@ -1,0 +1,1528 @@
+id,year,date,day,winner_tie,winner_rank,winner_points,loser_tie,loser_rank,loser_points,attendance,mvp,sponsor,bowl_name
+1,2021,12/29/2021,Wed,Oklahoma,14,47,Oregon,15,32,59121,"Oklahoma RB Kennedy Brooks, Oklahoma S Pat Fields",Valero,Alamo Bowl
+2,2020,12/29/2020,Tue,Texas,20,55,Colorado,,23,10822,"Texas RB Bijan Robinson, Texas LB DeMarvion Overshown",Valero,Alamo Bowl
+3,2019,12/31/2019,Tue,Texas,,38,Utah,12,10,60147,"Texas QB Sam Ehlinger, Texas LB Joseph Ossai",Valero,Alamo Bowl
+4,2018,12/28/2018,Fri,Washington State,12,28,Iowa State,25,26,60675,"Washington State QB Gardner Minshew, Washington State LB Peyton Pelluer",Valero,Alamo Bowl
+5,2017,12/28/2017,Thu,Texas Christian,13,39,Stanford,15,37,57653,"TCU QB Kenny Hill, TCU LB Travin Howard",Valero,Alamo Bowl
+6,2016,12/29/2016,Thu,Oklahoma State,13,38,Colorado,11,8,59815,"OSU WR James Washington, OSU DT Vincent Taylor",Valero,Alamo Bowl
+7,2015,1/2/2016,Sat,Texas Christian,11,47,Oregon,15,41,64569,"TCU QB Brian Kohlhausen, TCU S Travin Howard",Valero,Alamo Bowl
+8,2014,1/2/2015,Fri,UCLA,14,40,Kansas State,11,35,60517,"RB Paul Perkins (UCLA), LB Eric Kendricks (UCLA)",Valero,Alamo Bowl
+9,2013,12/30/2013,Mon,Oregon,10,30,Texas,,7,65918,"QB Marcus Mariota (Oregon), SS Avery Patterson (Oregon)",Valero Energy Corporation,Alamo Bowl
+10,2012,12/29/2012,Sat,Texas,,31,Oregon State,15,27,65277,"WR Marquise Goodwin (Texas), DL Alex Okafor (Texas)",Valero Energy Corporation,Alamo Bowl
+11,2011,12/29/2011,Thu,Baylor,15,67,Washington,,56,65256,"RB Terrance Ganaway (Baylor), LB Elliot Coffey (Baylor)",Valero Energy Corporation,Alamo Bowl
+12,2010,12/29/2010,Wed,Oklahoma State,16,36,Arizona,,10,57593,"WR Justin Blackmon (Oklahoma State), DB Markelle Martin (Oklahoma State)",Valero Energy Corporation,Alamo Bowl
+13,2009,1/2/2010,Sat,Texas Tech,,41,Michigan State,,31,64757,"QB Taylor Potts (Texas Tech), DB Jamar Wall (Texas Tech)",Valero Energy Corporation,Alamo Bowl
+14,2008,12/29/2008,Mon,Missouri,25,30,Northwestern,22,23,55986,"WR Jeremy Maclin (Missouri), LB Sean Witherspoon (Missouri)",Valero Energy Corporation,Alamo Bowl
+15,2007,12/29/2007,Sat,Penn State,,24,Texas A&M,,17,66166,"RB Rodney Kinlaw (Penn State), LB Sean Lee (Penn State)",Valero Energy Corporation,Alamo Bowl
+16,2006,12/30/2006,Sat,Texas,18,26,Iowa,,24,65875,"QB Colt McCoy (Texas), DB Aaron Ross (Texas)",,Alamo Bowl
+17,2005,12/28/2005,Wed,Nebraska,,32,Michigan,20,28,62000,"RB Cory Ross (Nebraska), DB Leon Hall (Michigan)",MasterCard,Alamo Bowl
+18,2004,12/29/2004,Wed,Ohio State,24,33,Oklahoma State,,7,65265,"WR Ted Ginn Jr. (Ohio State), DL Simon Fraser (Ohio State)",MasterCard,Alamo Bowl
+19,2003,12/29/2003,Mon,Nebraska,22,17,Michigan State,,3,56226,"QB Jammal Lord (Nebraska), DL Trevor Johnson (Nebraska)",MasterCard,Alamo Bowl
+20,2002,12/28/2002,Sat,Wisconsin,,31,Colorado,14,28,50690,"QB Brooks Bollinger (Wisconsin), LB Jeff Mack (Wisconsin)",MasterCard,Alamo Bowl
+21,2001,12/29/2001,Sat,Iowa,,19,Texas Tech,,16,65232,"RB Aaron Greving (Iowa), DL Derrick Pickens (Iowa)",Sylvania,Alamo Bowl
+22,2000,12/30/2000,Sat,Nebraska,9,66,Northwestern,18,17,60028,"RB Dan Alexander (Nebraska), DL Kyle Vanden Bosch (Nebraska)",Sylvania,Alamo Bowl
+23,1999,12/28/1999,Tue,Penn State,13,24,Texas A&M,18,0,65380,"QB Rashard Casey (Penn State), LB LaVar Arrington (Penn State)",Sylvania,Alamo Bowl
+24,1998,12/29/1998,Tue,Purdue,,37,Kansas State,4,34,60780,"QB Drew Brees (Purdue), DL Rosevelt Colvin (Purdue)",Builders Square,Alamo Bowl
+25,1997,12/30/1997,Tue,Purdue,17,33,Oklahoma State,24,20,55552,"QB Billy Dicken (Purdue), DB Adrian Beasley (Purdue)",Builders Square,Alamo Bowl
+26,1996,12/29/1996,Sun,Iowa,21,27,Texas Tech,,0,55677,"RB Sedrick Shaw (Iowa), DL Jared DeVries (Iowa)",Builders Square,Alamo Bowl
+27,1995,12/28/1995,Thu,Texas A&M,19,22,Michigan,14,20,64597,"K Kyle Bryant (Texas A&M), LB Keith Mitchell (Texas A&M)",Builders Square,Alamo Bowl
+28,1994,12/31/1994,Sat,Washington State,24,10,Baylor,,3,44106,"QB Chad Davis (Washington State), LB Ron Childs (Washington State)",Builders Square,Alamo Bowl
+29,1993,12/31/1993,Fri,California,,37,Iowa,,3,45716,"QB Dave Barr (California), LB Jerrot Willard (California)",Builders Square,Alamo Bowl
+30,2021,12/22/2021,Wed,Army,,24,Missouri,,22,34888,"Missouri QB Brady Cook, Army LB Arik Smith",Lockheed Martin,Armed Forces Bowl
+31,2020,12/31/2020,Thu,Mississippi State,,28,Tulsa,22,26,9000,"Mississippi State WR Lideatrick Griffin, Tulsa DB Christian Williams",Lockheed Martin,Armed Forces Bowl
+32,2019,1/4/2020,Sat,Tulane,,30,Southern Mississippi,,13,38513,"Tulane QB Justin McMillan, Southern Miss WR Quez Watkins",Lockheed Martin,Armed Forces Bowl
+33,2018,12/22/2018,Sat,Army,22,70,Houston,,14,44738,"Army QB Kelvin Hopkins, Houston TE Romello Brooker",Lockhee Martin,Armed Forces Bowl
+34,2017,12/23/2017,Sat,Army,,42,San Diego State,,35,35986,"Army QB Ahmad Bradshaw, San Diego State RB Rashaad Perry",Lockheed Martin,Armed Forces Bowl
+35,2016,12/23/2016,Fri,Louisiana Tech,,48,Navy,,45,40542,"Lousiana Tech WR Trent Taylor, Navy QB Zach Abey",Lockheed Martin,Armed Forces Bowl
+36,2015,12/29/2015,Tue,California,,55,Air Force,,36,38915,"Cal QB Jared Goff, Air Force QB Karson Roberts",Lockheed Martin,Armed Forces Bowl
+37,2014,1/2/2015,Fri,Houston,,35,Pittsburgh,,34,37888,"RB Kenneth Farrow (Houston), QB Chad Voytik (Pitt)",Lockheed Martin,Armed Forces Bowl
+38,2013,12/30/2013,Mon,Navy,,24,Middle Tennessee State,,6,39246,"QB Keenan Reynolds (Navy), LB T.T. Barber (Middle Tennessee)",Bell Helicopter,Armed Forces Bowl
+39,2012,12/29/2012,Sat,Rice,,33,Air Force,,14,40754,"WR Jordan Taylor (Rice), LB Austin Niklaas (Air Force)",Bell Helicopter,Armed Forces Bowl
+40,2011,12/30/2011,Fri,Brigham Young,,24,Tulsa,,21,30258,"WR Cody Hoffman (Brigham Young), DB Dexter McCoil (Tulsa)",Bell Helicopter,Armed Forces Bowl
+41,2010,12/30/2010,Thu,Army,,16,Southern Methodist,,14,36742,"LB Stephen Anderson (Army), WR Darius Johnson (Southern Methodist)",Bell Helicopter,Armed Forces Bowl
+42,2009,12/31/2009,Thu,Air Force,,47,Houston,,20,41414,"RB Asher Clark (Air Force), WR Tyron Carrier (Houston)",Bell Helicopter,Armed Forces Bowl
+43,2008,12/31/2008,Wed,Houston,,34,Air Force,,28,41127,"RB Bryce Beall (Houston), RB Jared Tew (Air Force)",Bell Helicopter,Armed Forces Bowl
+44,2007,12/31/2007,Mon,California,,42,Air Force,,36,44009,QB Kevin Riley (California),Bell Helicopter,Armed Forces Bowl
+45,2006,12/23/2006,Sat,Utah,,25,Tulsa,,13,32412,K Louie Sakoda (Utah),Bell Helicopter,Armed Forces Bowl
+46,2005,12/23/2005,Fri,Kansas,,42,Houston,,13,33505,QB Jason Swanson (Kansas),,Armed Forces Bowl
+47,2004,12/23/2004,Thu,Cincinnati,,32,Marshall,,14,27902,QB Gino Guidugli (Cincinnati),PlainsCapital Bank,Armed Forces Bowl
+48,2003,12/23/2003,Tue,Boise State,18,34,Texas Christian,19,31,38028,QB Ryan Dinwiddie (Boise State),PlainsCapital Bank,Armed Forces Bowl
+49,2021,12/17/2021,Fri,Middle Tennessee State,,31,Toledo,,24,13596,"MTSU QB Nicholas Vattiato, MTSU LB DQ Thomas",,Bahamas Bowl
+50,2019,12/20/2019,Fri,Buffalo,,31,Charlotte,,9,13547,"Buffalo RB Jaret Patterson, Buffalo DE Malcolm Koonce",Makers Wanted,Bahamas Bowl
+51,2018,12/21/2018,Fri,Florida International,,35,Toledo,,32,13510,"FIU QB Christian Alexander, FIU LB Edwin Freeman",Makers Wanted,Bahamas Bowl
+52,2017,12/22/2017,Fri,Ohio,,41,Alabama-Birmingham,,6,13585,"Ohio RB Dorian Brown, Ohio FS Javon Hagan",,Bahamas Bowl
+53,2016,12/23/2016,Fri,Old Dominion,,24,Eastern Michigan,,20,13422,"Old Dominion RB Ray Lawry, Old Dominion LB T.J. Ricks",Popeyes,Bahamas Bowl
+54,2015,12/24/2015,Thu,Western Michigan,,45,Middle Tennessee State,,31,13123,"Western Michigan RB Jamauri Bogan, Western Michigan LB Grant DePalma",Popeyes,Bahamas Bowl
+55,2014,12/24/2014,Wed,Western Kentucky,,49,Central Michigan,,48,13667,"QB Brandon Doughty (Western Kentucky), DL Derik Overstreet (Western Kentucky)",Popeyes,Bahamas Bowl
+56,2021,12/23/2021,Thu,Central Florida,,29,Florida,,17,63669,UCF WR Ryan O'Keefe,Union Home Mortgage,Union Home Mortgage Gasparilla Bowl
+57,2019,12/23/2019,Mon,Central Florida,,48,Marshall,,25,28987,Central Florida QB Dillon Gabriel,Gasparilla Bowl,Union Home Mortgage Gasparilla Bowl
+58,2018,12/20/2018,Thu,Marshall,,38,South Florida,,20,14135,Marshall RB Keion Davis,Bad Boy Mowers,Union Home Mortgage Gasparilla Bowl
+59,2017,12/21/2017,Thu,Temple,,28,Florida International,,3,16363,Temple QB Frank Nutile,Bad Boy Mowers,Union Home Mortgage Gasparilla Bowl
+60,2016,12/26/2016,Mon,Mississippi State,,17,Miami,,16,15717,MSU QB Nick Fitzgerald,,Union Home Mortgage Gasparilla Bowl
+61,2015,12/26/2015,Sat,Marshall,,16,Connecticut,,10,14652,Marshall WR Deandre Reaves,,Union Home Mortgage Gasparilla Bowl
+62,2014,12/26/2014,Fri,North Carolina State,,34,Central Florida,,27,26675,QB Jacoby Brissett (N.C. State),Bitcoin,Union Home Mortgage Gasparilla Bowl
+63,2013,12/23/2013,Mon,East Carolina,,37,Ohio,,20,20053,RB Vintavious Cooper (East Carolina),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+64,2012,12/21/2012,Fri,Central Florida,,38,Ball State,,17,21759,QB Blake Bortles (Central Florida),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+65,2011,12/20/2011,Tue,Marshall,,20,Florida International,,10,20072,WR Aaron Dobson (Marshall),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+66,2010,12/21/2010,Tue,Louisville,,31,Southern Mississippi,,28,20017,RB Jeremy Wright (Louisville),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+67,2009,12/19/2009,Sat,Rutgers,,45,Central Florida,,24,29763,WR Mohamed Sanu (Rutgers),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+68,2008,12/20/2008,Sat,South Florida,,41,Memphis,,14,25205,QB Matt Grothe (South Florida),magicJack,Union Home Mortgage Gasparilla Bowl
+69,2021,12/28/2021,Tue,Houston,21,17,Auburn,,13,47100,Houston QB Clayton Tune,TicketSmarter,Birmingham Bowl
+70,2019,1/2/2020,Thu,Cincinnati,23,38,Boston College,,6,27193,Cincinnati QB Desmond Ridder,TicketSmarter,Birmingham Bowl
+71,2018,12/22/2018,Sat,Wake Forest,,37,Memphis,,34,25717,Wake Forest QB Jamie Newman,Jared,Birmingham Bowl
+72,2017,12/23/2017,Sat,South Florida,23,38,Texas Tech,,34,28623,South Florida QB Quinton Flowers,,Birmingham Bowl
+73,2016,12/29/2016,Thu,South Florida,25,46,South Carolina,,39,31229,USF QB Quinton Flowers,,Birmingham Bowl
+74,2015,12/30/2015,Wed,Auburn,,31,Memphis,,10,59430,Auburn RB Jovon Robinson,,Birmingham Bowl
+75,2014,1/3/2015,Sat,Florida,,28,East Carolina,,20,30083,RB Adam Lane (Florida),,Birmingham Bowl
+76,2013,1/4/2014,Sat,Vanderbilt,,41,Houston,,24,42717,WR Jordan Matthews (Vanderbilt),BBVA Compass,Birmingham Bowl
+77,2012,1/5/2013,Sat,Mississippi,,38,Pittsburgh,,17,59135,QB Bo Wallace (Mississippi),BBVA Compass,Birmingham Bowl
+78,2011,1/7/2012,Sat,Southern Methodist,,28,Pittsburgh,,6,29726,WR Darius Johnson (Southern Methodist),BBVA Compass,Birmingham Bowl
+79,2010,1/8/2011,Sat,Pittsburgh,,27,Kentucky,,10,41207,RB Dion Lewis (Pittsurgh),BBVA Compass,Birmingham Bowl
+80,2009,1/2/2010,Sat,Connecticut,,20,South Carolina,,7,45254,RB Andre Dixon (Connecticut),Papa John's,Birmingham Bowl
+81,2008,12/29/2008,Mon,Rutgers,,29,North Carolina State,,23,38582,QB Mike Teel (Rutgers),Papa John's,Birmingham Bowl
+82,2007,12/22/2007,Sat,Cincinnati,20,31,Southern Mississippi,,21,35258,QB Ben Mauk (Cincinnati),Papa John's,Birmingham Bowl
+83,2006,12/23/2006,Sat,South Florida,,24,East Carolina,,7,32023,RB Benjamin Williams (South Florida),Papa John's,Birmingham Bowl
+84,2021,12/18/2021,Sat,Western Kentucky,,59,Appalachian State,,38,15429,"WKU QB Bailey Zappe, WKU DB Antwon Kincaid,, WKU P John Haggerty III",RoofClaim,Boca Raton Bowl
+85,2020,12/22/2020,Tue,Brigham Young,13,49,Central Florida,,23,6000,"BYU QB Zach Wilson, BYU LB Keenan Pili, BYU KR Caleb Christensen",RoofClaim,Boca Raton Bowl
+86,2019,12/21/2019,Sat,Florida Atlantic,,52,Southern Methodist,,28,23187,"FAU QB Chris Robison, FAU CB Rashad Smith, FAU P Matt Hayball",Cheribundi,Boca Raton Bowl
+87,2018,12/18/2018,Tue,Alabama-Birmingham,,37,Northern Illinois,,13,22614,"UAB WR Xavier Ubosi, UAB NT Anthony Rush",Cheribundi,Boca Raton Bowl
+88,2017,12/19/2017,Tue,Florida Atlantic,,50,Akron,,3,25912,"Florida Atlantic QB Jason Driskel, Florida Atlantic QB Azeez Al-Shaair",Cheribundi Tart Cherry,Boca Raton Bowl
+89,2016,12/20/2016,Tue,Western Kentucky,,51,Memphis,,31,24726,"Western Kentucky RB Anthony Wales, Western Kentucky LB Keith Brown",,Boca Raton Bowl
+90,2015,12/22/2015,Tue,Toledo,,32,Temple,24,17,25908,"Toledo QB Philip Ely, Toledo LB Ju'Wuan Woodley",Marmot,Boca Raton Bowl
+91,2014,12/23/2014,Tue,Marshall,,52,Northern Illinois,,23,29419,QB Rakeem Cato (Marshall),,Boca Raton Bowl
+92,2021,12/28/2021,Tue,Minnesota,,18,West Virginia,,6,21220,"Minnesota RB Ky Thomas, Minnesota S Tyler Nubin",Guaranteed Rate,Guaranteed Rate Bowl
+93,2019,12/27/2019,Fri,Air Force,24,31,Washington State,,21,34105,"Air Force RB Kadin Remsberg, Air Force LB Grant Donaldson",Cheez-It,Guaranteed Rate Bowl
+94,2018,12/26/2018,Wed,Texas Christian,,10,California,,7,33121,"TCU RB Sewo Olonilua, California S Jaylinn Hawkins",Cheez-It,Guaranteed Rate Bowl
+95,2017,12/26/2017,Tue,Kansas State,,35,UCLA,,17,32859,"Kansas State QB Alex Delton, Kansas State S Denzel Goolsby",,Guaranteed Rate Bowl
+96,2016,12/27/2016,Tue,Baylor,,31,Boise State,,12,33328,"Baylor WR KD Cannon, Baylor DE Tyrone Hunt",Motel 6,Guaranteed Rate Bowl
+97,2015,1/2/2016,Sat,West Virginia,,43,Arizona State,,42,39321,"West Virginia QB Skyler Howard, West Virginia LB Shaq Petteway",Motel 6,Guaranteed Rate Bowl
+98,2014,1/2/2015,Fri,Oklahoma State,,30,Washington,,22,35409,"RB Desmond Roland (Oklahoma State), LB Seth Jacobs (Oklahoma State)",,Guaranteed Rate Bowl
+99,2013,12/28/2013,Sat,Kansas State,,31,Michigan,,14,53284,"QB Jake Waters (KSU), WR Tyler Lockett (KSU), and S Dante Barnett (KSU)",Buffalo Wild Wings,Guaranteed Rate Bowl
+100,2012,12/29/2012,Sat,Michigan State,,17,Texas Christian,,16,44617,"RB Le'Veon Bell (Michigan State), DL William Gholston (Michigan State)",Buffalo Wild Wings,Guaranteed Rate Bowl
+101,2011,12/30/2011,Fri,Oklahoma,19,31,Iowa,,14,54247,"QB Blake Bell (Oklahoma), DB Jamell Fleming (Oklahoma)",Insight Enterprises,Guaranteed Rate Bowl
+102,2010,12/28/2010,Tue,Iowa,,27,Missouri,14,24,53453,"RB Marcus Coker (Iowa), DB Micah Hyde (Iowa)",Insight Enterprises,Guaranteed Rate Bowl
+103,2009,12/31/2009,Thu,Iowa State,,14,Minnesota,,13,45090,"RB Alexander Robinson (Iowa State), DL Christopher Lyle (Iowa State)",Insight Enterprises,Guaranteed Rate Bowl
+104,2008,12/31/2008,Wed,Kansas,,42,Minnesota,,21,49103,"WR Dezmon Briscoe (Kansas), LB James Holt (Kansas)",Insight Enterprises,Guaranteed Rate Bowl
+105,2007,12/31/2007,Mon,Oklahoma State,,49,Indiana,,33,48892,"QB Zac Robinson (Oklahoma State), DB Donovan Woods (Oklahoma State)",Insight Enterprises,Guaranteed Rate Bowl
+106,2006,12/29/2006,Fri,Texas Tech,,44,Minnesota,,41,48391,"QB Graham Harrell (Texas Tech), DB Antonio Huffman (Texas Tech)",Insight Enterprises,Guaranteed Rate Bowl
+107,2005,12/27/2005,Tue,Arizona State,,45,Rutgers,,40,43536,"QB Rudy Carpenter (Arizona State), LB Jamar Williams (Arizona State)",Insight Enterprises,Guaranteed Rate Bowl
+108,2004,12/28/2004,Tue,Oregon State,,38,Notre Dame,,21,45917,"QB Derek Anderson (Oregon State), LB Trent Bray (Oregon State)",Insight Enterprises,Guaranteed Rate Bowl
+109,2003,12/26/2003,Fri,California,,52,Virginia Tech,,49,42364,"QB Aaron Rodgers (California), DB Ryan Gutierrez (California)",Insight Enterprises,Guaranteed Rate Bowl
+110,2002,12/26/2002,Thu,Pittsburgh,24,38,Oregon State,,13,40533,"RB Brandon Miree (Pittsburgh), DL Claude Harriott (Pittsburgh)",Insight Enterprises,Guaranteed Rate Bowl
+111,2001,12/29/2001,Sat,Syracuse,18,26,Kansas State,,3,40028,"RB James Mungro (Syracuse), LB Clifton Smith (Syracuse)",Insight Enterprises,Guaranteed Rate Bowl
+112,2000,12/28/2000,Thu,Iowa State,,37,Pittsburgh,,29,41813,"QB Sage Rosenfels (Iowa State), DL Reggie Hayward (Iowa State)",Insight Enterprises,Guaranteed Rate Bowl
+113,1999,12/31/1999,Fri,Colorado,,62,Boston College,25,28,35762,"RB Cortlen Johnson (Colorado), LB Jashon Sykes (Colorado)",Insight Enterprises,Guaranteed Rate Bowl
+114,1998,12/26/1998,Sat,Missouri,23,34,West Virginia,,31,36147,"QB Marc Bulger (West Virginia), DL Jeff Marriott (Missouri)",Insight Enterprises,Guaranteed Rate Bowl
+115,1997,12/27/1997,Sat,Arizona,,20,New Mexico,,14,49385,"RB Trung Canidate (Arizona), LB Jimmy Sprotte (Arizona)",Insight Enterprises,Guaranteed Rate Bowl
+116,1996,12/27/1996,Fri,Wisconsin,,38,Utah,,10,42122,"RB Ron Dayne (Wisconsin), LB Tarek Saleh (Wisconsin)",,Guaranteed Rate Bowl
+117,1995,12/27/1995,Wed,Texas Tech,,55,Air Force,,41,41004,"RB Byron Hanspard (Texas Tech), DB Mickey Dalton (Air Force)",Weiser Lock,Guaranteed Rate Bowl
+118,1994,12/29/1994,Thu,Brigham Young,22,31,Oklahoma,,6,45122,"QB John Walsh (Brigham Young), LB Broderick Simpson (Oklahoma)",Weiser Lock,Guaranteed Rate Bowl
+119,1993,12/29/1993,Wed,Kansas State,20,52,Wyoming,,17,49075,"WR Andre Coleman (Kansas State), DB Kenny McEntyre (Kansas State)",Weiser Lock,Guaranteed Rate Bowl
+120,1992,12/29/1992,Tue,Washington State,18,31,Utah,,28,40876,"QB Drew Bledsoe (Washington State), DB Kareem Leary (Utah)",Weiser Lock,Guaranteed Rate Bowl
+121,1991,12/31/1991,Tue,Indiana,,24,Baylor,,0,35752,"RB Vaughn Dunbar (Indiana), LB Mark Hagen (Indiana)",Weiser Lock,Guaranteed Rate Bowl
+122,1990,12/31/1990,Mon,California,,17,Wyoming,,15,36340,"QB Mike Pawlawski (California), LB Robert Midgett (Wyoming)",Domino's Pizza,Guaranteed Rate Bowl
+123,1989,12/31/1989,Sun,Arizona,,17,North Carolina State,,10,37237,"QB Shane Montgomery (North Carolina State), DB Scott Geyer (Arizona)",Domino's Pizza,Guaranteed Rate Bowl
+124,2021,12/25/2021,Sat,Georgia State,,51,Ball State,,20,,Georgia State QB Darren Grainger,TaxAct,Camellia Bowl
+125,2020,12/25/2020,Fri,Buffalo,,17,Marshall,,10,2512,Buffalo RB Kevin Marks,,Camellia Bowl
+126,2019,12/21/2019,Sat,Arkansas State,,34,Florida International,,26,16209,Arkansas State WR Omar Bayless,,Camellia Bowl
+127,2018,12/15/2018,Sat,Georgia Southern,,23,Eastern Michigan,,21,17710,Georgia Southern RB Shai Werts,Raycom Media,Camellia Bowl
+128,2017,12/16/2017,Sat,Middle Tennessee State,,35,Arkansas State,,30,20612,Middle Tennessee LB Darius Harris,Raycom Media,Camellia Bowl
+129,2016,12/17/2016,Sat,Appalachian State,,31,Toledo,,28,20300,Appalachian State QB Taylor Lamb,Raycom Media,Camellia Bowl
+130,2015,12/19/2015,Sat,Appalachian State,,31,Ohio,,29,21395,Appalachian State RB Marcus Cox,Raycom Media,Camellia Bowl
+131,2014,12/20/2014,Sat,Bowling Green State,,33,South Alabama,,28,20256,QB James Knapke (Bowling Green),Raycom Media,Camellia Bowl
+132,1948,12/30/1948,Thu,Hardin-Simmons,,49,Wichita State,,12,4500,,,Camellia Bowl
+133,2021,1/1/2022,Sat,Kentucky,25,20,Iowa,17,17,50769,Kentucky WR Wan'Dale Robinson,Vrbo,Citrus Bowl
+134,2020,1/1/2021,Fri,Northwestern,15,35,Auburn,,19,15698,Northwestern QB Peyton Ramsey,Vrbo,Citrus Bowl
+135,2019,1/1/2020,Wed,Alabama,9,35,Michigan,17,16,59746,Alabama WR Jerry Jeudy,Vrbo,Citrus Bowl
+136,2018,1/1/2019,Tue,Kentucky,16,27,Penn State,13,24,59167,Kentucky RB Benny Snell Jr.,VRBO,Citrus Bowl
+137,2017,1/1/2018,Mon,Notre Dame,14,21,Louisiana State,16,17,57726,Notre Dame WR Miles Boykin,Overton's,Citrus Bowl
+138,2016,12/31/2016,Sat,Louisiana State,19,29,Louisville,15,9,46063,LSU RB Derrius Grace,Buffalo Wild Wings,Citrus Bowl
+139,2015,1/1/2016,Fri,Michigan,17,41,Florida,19,7,63113,Michigan QB Jake Rudock,Buffalo Wild Wings,Citrus Bowl
+140,2014,1/1/2015,Thu,Missouri,16,33,Minnesota,,17,48624,DL Markus Golden (Missouri),Buffalo Wild Wings,Citrus Bowl
+141,2013,1/1/2014,Wed,South Carolina,8,34,Wisconsin,19,24,56629,QB Connor Shaw (South Carolina),Capital One,Citrus Bowl
+142,2012,1/1/2013,Tue,Georgia,6,45,Nebraska,23,31,59712,QB Aaron Murray (Georgia),Capital One,Citrus Bowl
+143,2011,1/2/2012,Mon,South Carolina,10,30,Nebraska,21,13,61351,WR Alshon Jeffery (South Carolina),Capital One,Citrus Bowl
+144,2010,1/1/2011,Sat,Alabama,15,49,Michigan State,7,7,61519,LB Courtney Upshaw (Alabama),Capital One,Citrus Bowl
+145,2009,1/1/2010,Fri,Penn State,11,19,Louisiana State,13,17,63025,QB Daryll Clark (Penn State),Capital One,Citrus Bowl
+146,2008,1/1/2009,Thu,Georgia,16,24,Michigan State,19,12,59681,QB Matt Stafford (Georgia),Capital One,Citrus Bowl
+147,2007,1/1/2008,Tue,Michigan,,41,Florida,9,35,69748,QB Chad Henne (Michigan),Capital One,Citrus Bowl
+148,2006,1/1/2007,Mon,Wisconsin,6,17,Arkansas,12,14,60774,QB John Stocco (Wisconsin),Capital One,Citrus Bowl
+149,2005,1/2/2006,Mon,Wisconsin,21,24,Auburn,7,10,57221,RB Brian Calhoun (Wisconsin),Capital One,Citrus Bowl
+150,2004,1/1/2005,Sat,Iowa,11,30,Louisiana State,12,25,70229,QB Drew Tate (Iowa),Capital One,Citrus Bowl
+151,2003,1/1/2004,Thu,Georgia,11,34,Purdue,12,27,64565,QB David Greene (Georgia),Capital One,Citrus Bowl
+152,2002,1/1/2003,Wed,Auburn,19,13,Penn State,10,9,66334,RB Ronnie Brown (Auburn),Capital One,Citrus Bowl
+153,2001,1/1/2002,Tue,Tennessee,8,45,Michigan,17,17,59693,QB Casey Clausen (Tennessee),Capital One,Citrus Bowl
+154,2000,1/1/2001,Mon,Michigan,17,31,Auburn,20,28,66928,RB Anthony Thomas (Michigan),Capital One,Citrus Bowl
+155,1999,1/1/2000,Sat,Michigan State,9,37,Florida,10,34,62011,WR Plaxico Burress (Michigan State),Ourhouse,Citrus Bowl
+156,1998,1/1/1999,Fri,Michigan,15,45,Arkansas,11,31,63584,RB Anthony Thomas (Michigan),CompUSA,Citrus Bowl
+157,1997,1/1/1998,Thu,Florida,6,21,Penn State,11,6,72940,RB Fred Taylor (Florida),CompUSA,Citrus Bowl
+158,1996,1/1/1997,Wed,Tennessee,9,48,Northwestern,11,28,63467,QB Peyton Manning (Tennessee),CompUSA,Citrus Bowl
+159,1995,1/1/1996,Mon,Tennessee,4,20,Ohio State,4,14,70797,RB Jay Graham (Tennessee),CompUSA,Citrus Bowl
+160,1994,1/2/1995,Mon,Alabama,6,24,Ohio State,13,17,71195,RB Sherman Williams (Alabama),CompUSA,Citrus Bowl
+161,1993,1/1/1994,Sat,Penn State,13,31,Tennessee,6,13,72456,WR Bobby Engram (Penn State),CompUSA,Citrus Bowl
+162,1992,1/1/1993,Fri,Georgia,8,21,Ohio State,15,14,65861,RB Garrison Hearst (Georgia),,Citrus Bowl
+163,1991,1/1/1992,Wed,California,14,37,Clemson,13,13,64192,QB Mike Pawlawski (California),,Citrus Bowl
+164,1990,1/1/1991,Tue,Georgia Tech,2,45,Nebraska,19,21,72328,QB Shawn Jones (Georgia Tech),,Citrus Bowl
+165,1989,1/1/1990,Mon,Illinois,11,31,Virginia,15,21,60016,QB Jeff George (Illinois),,Citrus Bowl
+166,1988,1/2/1989,Mon,Clemson,13,13,Oklahoma,10,6,53571,RB Terry Allen (Clemson),,Citrus Bowl
+167,1987,1/1/1988,Fri,Clemson,14,35,Penn State,20,10,53152,QB Rodney Williams (Clemson),,Citrus Bowl
+168,1986,1/1/1987,Thu,Auburn,10,16,Southern California,,7,51113,LB Aundray Bruce (Auburn),,Citrus Bowl
+169,1985,12/28/1985,Sat,Ohio State,17,10,Brigham Young,9,7,50920,LB Larry Kolic (Ohio State),,Citrus Bowl
+170,1984,12/22/1984,Sat,Georgia,,17,Florida State,15,17,51821,QB James Jackson (Georgia),,Citrus Bowl
+171,1983,12/17/1983,Sat,Tennessee,,30,Maryland,16,23,50183,RB Johnnie Jones (Tennessee),,Citrus Bowl
+172,1982,12/18/1982,Sat,Auburn,18,33,Boston College,,26,51296,QB Randy Campbell (Auburn),,Citrus Bowl
+173,1981,12/19/1981,Sat,Missouri,,19,Southern Mississippi,18,17,50045,LB Jeff Gaylord (Missouri),,Citrus Bowl
+174,1980,12/20/1980,Sat,Florida,,35,Maryland,,20,52541,WR Cris Collinsworth (Florida),,Citrus Bowl
+175,1979,12/22/1979,Sat,Louisiana State,,34,Wake Forest,,10,38666,QB David Woodley (Louisiana State),,Citrus Bowl
+176,1978,12/23/1978,Sat,North Carolina State,,30,Pittsburgh,16,17,31356,RB Ted Brown (North Carolina State),,Citrus Bowl
+177,1977,12/23/1977,Fri,Florida State,19,40,Texas Tech,,17,44502,QB Jimmy Jordan (Florida State),,Citrus Bowl
+178,1976,12/18/1976,Sat,Oklahoma State,14,49,Brigham Young,,21,37812,"RB Terry Miller (Oklahoma State), DL Phillip Dokes (Oklahoma State)",,Citrus Bowl
+179,1975,12/20/1975,Sat,Miami,,20,South Carolina,,7,20247,"RB Rob Carpenter (Miami (FL)), DL Jeff Kelly (Miami (OH))",,Citrus Bowl
+180,1974,12/21/1974,Sat,Miami,,21,Georgia,,10,20246,"RB Sherman Smith (Miami (FL)), LB Brad Cousino (Miami (OH))",,Citrus Bowl
+181,1973,12/22/1973,Sat,Miami,,16,Florida,,7,37234,"RB Chuck Varner (Miami (FL)), LB Brad Cousino (Miami (OH))",,Citrus Bowl
+182,1972,12/29/1972,Fri,Tampa,,21,Kent State,,18,20062,"RB Freddie Solomon (Tampa), LB Jack Lambert (Kent State)",,Citrus Bowl
+183,1971,12/28/1971,Tue,Toledo,14,28,Richmond,,3,16750,"QB Chuck Ealey (Toledo), DL Mel Long (Toledo)",,Citrus Bowl
+184,1970,12/28/1970,Mon,Toledo,15,40,William & Mary,,12,15164,"QB Chuck Ealey (Toledo), OL Vince Hubler (William & Mary)",,Citrus Bowl
+185,1969,12/26/1969,Fri,Toledo,20,56,Davidson,,33,16311,"QB Chuck Ealey (Toledo), OL Dan Crockett (Toledo)",,Citrus Bowl
+186,1968,12/27/1968,Fri,Richmond,,49,Ohio,15,42,16144,"RB Buster O'Brien (Richmond), WR Walker Gillette (Richmond)",,Citrus Bowl
+187,1967,12/16/1967,Sat,Tennessee-Martin,,25,West Chester,,8,5500,"QB Errol Hook (Tennessee-Martin), DL Gordon Lambert (Tennessee-Martin)",,Citrus Bowl
+188,1966,12/10/1966,Sat,Morgan State,,14,West Chester,,6,7138,LB Willie Lanier (Morgan State),,Citrus Bowl
+189,1965,12/11/1965,Sat,East Carolina,,31,Maine,,0,8350,RB Dave Alexander (East Carolina),,Citrus Bowl
+190,1964,12/12/1964,Sat,East Carolina,,14,Massachusetts,,13,8000,"QB Jerry Whelchel (Massachusetts), QB Bill Cline (East Carolina)",,Citrus Bowl
+191,1963,12/28/1963,Sat,Western Kentucky,,27,Coast Guard,,0,7500,QB Sharon Miller (Western Kentucky),,Citrus Bowl
+192,1962,12/22/1962,Sat,Houston,,49,Miami,,21,7500,"RB Joe Lopasky (Houston), QB Billy Roland (Houston)",,Citrus Bowl
+193,1961,12/29/1961,Fri,Lamar,,21,Middle Tennessee State,,14,6000,QB Windell Hebert (Lamar),,Citrus Bowl
+194,1960,12/30/1960,Fri,Citadel,,27,Tennessee Tech,,0,13000,QB Jerry Nettles (Citadel),,Citrus Bowl
+195,1959,1/1/1960,Fri,Middle Tennessee State,,21,Presbyterian,,12,12500,"RB Bucky Pitts (Middle Tennessee State), QB Bob Waters (Presbyterian)",,Citrus Bowl
+196,1958,12/27/1958,Sat,Texas A&M-Commerce,,26,Missouri Valley,,7,4000,QB Sam McCord (Texas A&M-Commerce),,Citrus Bowl
+197,1957,1/1/1958,Wed,Texas A&M-Commerce,,10,Southern Mississippi,,9,11000,"RB Garry Berry (Texas A&M-Commerce), RB Neal Hinson (Texas A&M-Commerce)",,Citrus Bowl
+198,1956,1/1/1957,Tue,West Texas A&M,,20,Southern Mississippi,,13,11000,RB Ron Mills (West Texas A&M),,Citrus Bowl
+199,1955,1/2/1956,Mon,Missouri Valley,,6,Juniata,,6,10000,RB Barry Drexler (Juniata),,Citrus Bowl
+200,1954,1/1/1955,Sat,Nebraska-Omaha,,7,Eastern Kentucky,,6,12759,QB Bill Englehardt (Nebraska-Omaha),,Citrus Bowl
+201,1953,1/1/1954,Fri,Texas A&M-Commerce,,7,Arkansas State,,7,12976,QB Bobby Spann (Arkansas State),,Citrus Bowl
+202,1952,1/1/1953,Thu,Texas A&M-Commerce,,33,Tennessee Tech,,0,12340,"RB Marvin Brown (Texas A&M-Commerce), RB Billy Ray Norris (Texas A&M-Commerce)",,Citrus Bowl
+203,1951,1/1/1952,Tue,Stetson,,35,Arkansas State,,20,12500,"QB Bill Johnson (Stetson), E Dave Laude (Stetson)",,Citrus Bowl
+204,1950,1/1/1951,Mon,Charleston,,35,Emory & Henry,,14,10000,"QB Pete Anania (Charleston), E Charles Hubbard (Charleston)",,Citrus Bowl
+205,1949,1/2/1950,Mon,St. Vincent's,Pennsylvania,7,Emory & Henry,,6,10000,"RB Don Henigan (St. Vincent's (Pennsylvania)), QB Chick Davis (Emory & Henry)",,Citrus Bowl
+206,1948,1/1/1949,Sat,Sul Ross State,,21,Murray State,,21,9000,"RB Dale McDaniels (Murray State), RB Ted Scown (Sul Ross State)",,Citrus Bowl
+207,1947,1/1/1948,Thu,Catawba College,20,7,Marshall,,0,9000,,,Citrus Bowl
+208,1946,1/1/1947,Wed,Catawba College,,31,Maryville,TN,0,9000,,,Citrus Bowl
+209,2021,1/10/2022,Mon,Georgia,3,33,Alabama,1,18,68311,"Georgia QB Stetson Bennett, Georgia S Lewis Cine",,College Football Championship
+210,2020,1/11/2021,Mon,Alabama,1,52,Ohio State,3,24,14926,"Alabama WR DeVonta Smith, Alabama DT Christian Barmore",,College Football Championship
+211,2019,1/13/2020,Mon,Louisiana State,1,42,Clemson,3,25,76885,"LSU QB Joe Burrow, LSU LB Patrick Queen",,College Football Championship
+212,2018,1/7/2019,Mon,Clemson,2,44,Alabama,1,16,74814,"Clemson QB Trevor Lawrence, Clemson CB Trayvon Mullen, Jr.",AT&T,College Football Championship
+213,2017,1/8/2018,Mon,Alabama,4,26,Georgia,3,23,77430,"Alabama QB Tua Tagovailoa, Alabama DT Da'Ron Payne",AT&T,College Football Championship
+214,2016,1/9/2017,Mon,Clemson,3,35,Alabama,1,31,74512,"Clemson QB Deshaun Watson, Clemson LB Ben Boulware",AT&T,College Football Championship
+215,2015,1/11/2016,Mon,Alabama,2,45,Clemson,1,40,75765,"Alabama TE OJ Howard, Alabama SS Eddie Jackson",,College Football Championship
+216,2014,1/12/2015,Mon,Ohio State,5,42,Oregon,3,20,85689,"RB Ezekiel Elliott, Ohio State, S Tyvis Powell, Ohio State",AT&T,College Football Championship
+217,2021,12/31/2021,Fri,Alabama,1,27,Cincinnati,4,6,76313,"Alabama RB Brian Robinson, Alabama LB Will Anderson Jr.",Goodyear,Cotton Bowl
+218,2020,12/30/2020,Wed,Oklahoma,8,55,Florida,10,20,17323,"Oklahoma RB Rhamondre Stevenson, Oklahoma DB Tre Norwood",Goodyear,Cotton Bowl
+219,2019,12/28/2019,Sat,Penn State,13,53,Memphis,15,39,54828,"Penn State RB Journey Brown, Penn State LB Micah Parsons",Goodyear,Cotton Bowl
+220,2018,12/29/2018,Sat,Clemson,2,30,Notre Dame,3,3,72183,"Clemson QB Trevor Lawrence, Clemson DE Austin Bryant",Goodyear,Cotton Bowl
+221,2017,12/29/2017,Fri,Ohio State,5,24,Southern California,8,7,67510,"Ohio State QB JT Barrett, Ohio State S Damon Webb",Goodyear,Cotton Bowl
+222,2016,1/2/2017,Mon,Wisconsin,8,24,Western Michigan,12,16,59615,"Wisconsin TE Troy Fumagalli, Wisconsin LB T.J. Edwards",Goodyear,Cotton Bowl
+223,2015,12/31/2015,Thu,Alabama,2,38,Michigan State,3,0,82812,"Alabama QB Jake Coker, Alabama CB Cyrus Jones",Goodyear,Cotton Bowl
+224,2014,1/1/2015,Thu,Michigan State,7,42,Baylor,4,41,71464,"QB Bryce Petter (Baylor), LB Taylor Young (Baylor)",Goodyear,Cotton Bowl
+225,2013,1/3/2014,Fri,Missouri,9,41,Oklahoma State,13,31,72690,RB Henry Josey (Missouri),AT&T,Cotton Bowl
+226,2012,1/4/2013,Fri,Texas A&M,10,41,Oklahoma,12,13,87025,"QB Johnny Manziel (Texas A&M), DB Dustin Harris (Texas A&M)",AT&T,Cotton Bowl
+227,2011,1/6/2012,Fri,Arkansas,7,29,Kansas State,11,16,80956,"QB Tyler Wilson (Arkansas), DL Jake Bequette (Arkansas)",AT&T,Cotton Bowl
+228,2010,1/7/2011,Fri,Louisiana State,11,41,Texas A&M,18,24,83514,"WR Terrence Toliver (Louisiana State), DB Tyrann Mathieu (Louisiana State)",AT&T,Cotton Bowl
+229,2009,1/2/2010,Sat,Mississippi,,21,Oklahoma State,21,7,77928,"WR Dexter McCluster (Mississippi), LB Andre Sexton (Oklahoma State)",AT&T,Cotton Bowl
+230,2008,1/2/2009,Fri,Mississippi,20,47,Texas Tech,8,34,88175,"WR Dexter McCluster (Mississippi), DB Marshay Green (Mississippi)",AT&T,Cotton Bowl
+231,2007,1/1/2008,Tue,Missouri,7,38,Arkansas,25,7,73114,"RB Tony Temple (Missouri), DB William Moore (Missouri)",AT&T,Cotton Bowl
+232,2006,1/1/2007,Mon,Auburn,10,17,Nebraska,22,14,66777,"WR Courtney Taylor (Auburn), LB Will Herring (Auburn)",AT&T,Cotton Bowl
+233,2005,1/2/2006,Mon,Alabama,13,13,Texas Tech,18,10,74222,"QB Brodie Croyle (Alabama), LB DeMeco Ryans (Alabama)",SBC Communications,Cotton Bowl
+234,2004,1/1/2005,Sat,Tennessee,15,38,Texas A&M,22,7,75704,"QB Rick Clausen (Tennessee), DL Justin Harrell (Tennessee)",SBC Communications,Cotton Bowl
+235,2003,1/2/2004,Fri,Mississippi,16,31,Oklahoma State,21,28,73928,"QB Eli Manning (Mississippi), DL Josh Cooper (Mississippi)",SBC Communications,Cotton Bowl
+236,2002,1/1/2003,Wed,Texas,9,35,Louisiana State,,20,70817,"WR Roy Williams (Texas), DL Cory Redding (Texas)",SBC Communications,Cotton Bowl
+237,2001,1/1/2002,Tue,Oklahoma,10,10,Arkansas,,3,72955,"RB Quentin Griffin (Oklahoma), DB Roy Williams (Oklahoma)",SBC Communications,Cotton Bowl
+238,2000,1/1/2001,Mon,Kansas State,11,35,Tennessee,21,21,63465,"QB Jonathan Beasley (Kansas State), DL Chris L. Johnson (Kansas State)",SBC Communications,Cotton Bowl
+239,1999,1/1/2000,Sat,Arkansas,24,27,Texas,14,6,72723,"RB Cedric Cobbs (Arkansas), LB D.J. Cooper (Arkansas)",Southwestern Bell,Cotton Bowl
+240,1998,1/1/1999,Fri,Texas,20,38,Mississippi State,25,11,72611,"RB Ricky Williams (Texas), LB Aaron Babino (Texas)",Southwestern Bell,Cotton Bowl
+241,1997,1/1/1998,Thu,UCLA,5,29,Texas A&M,20,23,59215,"QB Cade McNown (UCLA), LB Dat Nguyen (Texas A&M)",Southwestern Bell,Cotton Bowl
+242,1996,1/1/1997,Wed,Brigham Young,5,19,Kansas State,14,15,71928,"QB Steve Sarkisian (Brigham Young), WR Kevin Lockett (Kansas State)",Southwestern Bell,Cotton Bowl
+243,1995,1/1/1996,Mon,Colorado,7,38,Oregon,12,6,58214,"RB Herchell Troutman (Colorado), DB Marcus Washington (Colorado)",Mobil,Cotton Bowl
+244,1994,1/2/1995,Mon,Southern California,21,55,Texas Tech,,14,70218,"WR Keyshawn Johnson (Southern California), DB John Herpin (Southern California)",Mobil,Cotton Bowl
+245,1993,1/1/1994,Sat,Notre Dame,4,24,Texas A&M,7,21,69855,"RB Lee Becton (Notre Dame), LB Antonio Shorter (Texas A&M)",Mobil,Cotton Bowl
+246,1992,1/1/1993,Fri,Notre Dame,5,28,Texas A&M,4,3,71615,"QB Rick Mirer (Notre Dame), DL Devon McDonald (Notre Dame)",Mobil,Cotton Bowl
+247,1991,1/1/1992,Wed,Florida State,5,10,Texas A&M,9,2,73728,"RB Sean Jackson (Florida State), DB Chris Crooms (Texas A&M)",Mobil,Cotton Bowl
+248,1990,1/1/1991,Tue,Miami,,46,Texas,3,3,73521,"QB Craig Erickson (Miami (FL)), DL Russell Maryland (Miami (FL))",Mobil,Cotton Bowl
+249,1989,1/1/1990,Mon,Tennessee,8,31,Arkansas,10,27,74358,"DB Carl Pickens (Tennessee), RB Chuck Webb (Tennessee)",Mobil,Cotton Bowl
+250,1988,1/2/1989,Mon,UCLA,9,17,Arkansas,8,3,74304,"QB Troy Aikman (UCLA), LB LaSalle Harper (Arkansas)",Mobil,Cotton Bowl
+251,1987,1/1/1988,Fri,Texas A&M,13,35,Notre Dame,12,10,73006,"LB Adam Bob (Texas A&M), QB Bucky Richardson (Texas A&M)",,Cotton Bowl
+252,1986,1/1/1987,Thu,Ohio State,11,28,Texas A&M,8,12,74188,"LB Chris Spielman (Ohio State), RB Roger Vick (Texas A&M)",,Cotton Bowl
+253,1985,1/1/1986,Wed,Texas A&M,11,36,Auburn,16,16,73137,"DB Domingo Bryant (Texas A&M), RB Bo Jackson (Auburn)",,Cotton Bowl
+254,1984,1/1/1985,Tue,Boston College,8,45,Houston,,28,56522,"LB Bill Romanowski (Boston College), RB Steve Strachan (Boston College)",,Cotton Bowl
+255,1983,1/2/1984,Mon,Georgia,7,10,Texas,2,9,67891,"QB John Lastinger (Georgia), LB Jeff Leiding (Texas)",,Cotton Bowl
+256,1982,1/1/1983,Sat,Southern Methodist,4,7,Pittsburgh,6,3,60359,"DB Wes Hopkins (Southern Methodist), QB Lance McIlhenny (Southern Methodist)",,Cotton Bowl
+257,1981,1/1/1982,Fri,Texas,6,14,Alabama,3,12,73243,"QB Robert Brewer (Texas), LB Robbie Jones (Alabama)",,Cotton Bowl
+258,1980,1/1/1981,Thu,Alabama,9,30,Baylor,6,2,74281,"DL Warren Lyles (Alabama), RB Major Ogilvie (Alabama)",,Cotton Bowl
+259,1979,1/1/1980,Tue,Houston,8,17,Nebraska,7,14,72032,"QB Terry Elston (Houston), LB David Hodge (Houston)",,Cotton Bowl
+260,1978,1/1/1979,Mon,Notre Dame,10,35,Houston,9,34,32500,"QB Joe Montana (Notre Dame), LB David Hodge (Houston)",,Cotton Bowl
+261,1977,1/2/1978,Mon,Notre Dame,5,38,Texas,1,10,76601,"RB Vagas Ferguson (Notre Dame), LB Bob Golic (Notre Dame)",,Cotton Bowl
+262,1976,1/1/1977,Sat,Houston,6,30,Maryland,4,21,54500,"RB Alois Blackwell (Houston), DB Mark Mohr (Houston)",,Cotton Bowl
+263,1975,1/1/1976,Thu,Arkansas,18,31,Georgia,12,10,74500,"RB Ike Forte (Arkansas), LB Hal McAfee (Arkansas)",,Cotton Bowl
+264,1974,1/1/1975,Wed,Penn State,7,41,Baylor,12,20,67500,"QB Tom Shuman (Penn State), DB Ken Quesenberry (Baylor)",,Cotton Bowl
+265,1973,1/1/1974,Tue,Nebraska,12,19,Texas,8,3,67500,"RB Tony Davis (Nebraska), LB Wade Johnson (Texas)",,Cotton Bowl
+266,1972,1/1/1973,Mon,Texas,7,17,Alabama,4,13,72000,"LB Randy Braband (Texas), QB Alan Lowry (Texas)",,Cotton Bowl
+267,1971,1/1/1972,Sat,Penn State,10,30,Texas,12,6,72000,"DL Bruce Bannon (Penn State), RB Lydell Mitchell (Penn State)",,Cotton Bowl
+268,1970,1/1/1971,Fri,Notre Dame,6,24,Texas,1,11,72000,"DB Clarence Ellis (Notre Dame), QB Eddie Phillips (Texas)",,Cotton Bowl
+269,1969,1/1/1970,Thu,Texas,1,21,Notre Dame,9,17,73000,"RB Steve Worster (Texas), LB Bob Olson (Notre Dame)",,Cotton Bowl
+270,1968,1/1/1969,Wed,Texas,5,36,Tennessee,8,13,72000,"LB Tom Campbell (Texas), QB James Street (Texas)",,Cotton Bowl
+271,1967,1/1/1968,Mon,Texas A&M,,20,Alabama,9,16,75504,"DL Grady Allen (Texas A&M), LB Bill Hobbs (Texas A&M)",,Cotton Bowl
+272,1966,12/31/1966,Sat,Georgia,4,24,Southern Methodist,10,9,75400,"RB Kent Lawrence (Georgia), DL George Patton (Georgia)",,Cotton Bowl
+273,1965,1/1/1966,Sat,Louisiana State,,14,Arkansas,2,7,76200,"RB Joe Labruzzo (Louisiana State), OL David McCormick (Louisiana State)",,Cotton Bowl
+274,1964,1/1/1965,Fri,Arkansas,3,10,Nebraska,7,7,75504,"LB Ronnie Caveness (Arkansas), QB Fred Marshall (Arkansas)",,Cotton Bowl
+275,1963,1/1/1964,Wed,Texas,1,28,Navy,2,6,75504,"OL Scott Appleton (Texas), QB Duke Carlisle (Texas)",,Cotton Bowl
+276,1962,1/1/1963,Tue,Louisiana State,7,13,Texas,4,0,75504,"QB Lynn Amedee (Louisiana State), OL Johnny Treadwell (Texas)",,Cotton Bowl
+277,1961,1/1/1962,Mon,Texas,4,12,Mississippi,5,7,75504,"QB Mike Cotten (Texas), E Bob Moses (Texas)",,Cotton Bowl
+278,1960,1/2/1961,Mon,Duke,11,7,Arkansas,6,6,74000,"OL Dwight Bumgarner (Duke), RB Lance Alworth (Arkansas)",,Cotton Bowl
+279,1959,1/1/1960,Fri,Syracuse,1,23,Texas,4,14,75504,"RB Ernie Davis (Syracuse), OL Maurice Doke (Texas)",,Cotton Bowl
+280,1958,1/1/1959,Thu,Air Force,8,0,Texas Christian,7,0,75504,"OL Dave Phillips (Air Force), RB Jack Spikes (Texas Christian)",,Cotton Bowl
+281,1957,1/1/1958,Wed,Navy,8,20,Rice,9,7,75504,"QB Tom Forrestal (Navy), OL Tony Stremic (Navy)",,Cotton Bowl
+282,1956,1/1/1957,Tue,Texas Christian,14,28,Syracuse,8,27,68000,"OL Norman Hamilton (Texas Christian), RB Jim Brown (Syracuse)",,Cotton Bowl
+283,1955,1/2/1956,Mon,Mississippi,15,14,Texas Christian,7,13,75504,"OL Buddy Alliston (Mississippi), QB Eagle Day (Mississippi)",,Cotton Bowl
+284,1954,1/1/1955,Sat,Georgia Tech,,14,Arkansas,13,6,75504,"RB George Humphreys (Georgia Tech), OL Bud Brooks (Arkansas)",,Cotton Bowl
+285,1953,1/1/1954,Fri,Rice,8,28,Alabama,,6,75504,"OL Richard Chapman (Rice), RB Dickey Maegle (Rice)",,Cotton Bowl
+286,1952,1/1/1953,Thu,Texas,10,16,Tennessee,9,0,75504,"RB Richard Ochoa (Texas), LB Bob Griesbach (Tennessee)",,Cotton Bowl
+287,1951,1/1/1952,Tue,Kentucky,17,20,Texas Christian,11,7,75347,"RB Emery Clark (Kentucky), RB Keith Flowers (Texas Christian)",,Cotton Bowl
+288,1950,1/1/1951,Mon,Tennessee,9,20,Texas,5,14,75349,"RB Andy Kozar (Tennessee), OL Bud McFadin (Texas)",,Cotton Bowl
+289,1949,1/2/1950,Mon,Rice,7,27,North Carolina,19,13,75347,"RB Billy Burkhalter (Rice), E James Williams (Rice)",,Cotton Bowl
+290,1948,1/1/1949,Sat,Southern Methodist,8,21,Oregon,10,13,69000,"RB Kyle Rote (Southern Methodist), QB Norm Van Brocklin (Oregon)",,Cotton Bowl
+291,1947,1/1/1948,Thu,Penn State,5,13,Southern Methodist,4,13,43000,"OL Steve Suhey (Penn State), RB Doak Walker (Southern Methodist)",,Cotton Bowl
+292,1946,1/1/1947,Wed,Louisiana State,9,0,Arkansas,10,0,38000,"E Alton Baldwin (Arkansas), QB Y.A. Tittle (Louisiana State)",,Cotton Bowl
+293,1945,1/1/1946,Tue,Texas,10,40,Missouri,14,27,45000,"E Hub Bechtol (Texas), OL Jim Kekeris (Missouri)",,Cotton Bowl
+294,1944,1/1/1945,Mon,Oklahoma State,15,34,Texas Christian,,0,37000,"E Neill Armstrong (Oklahoma State), DL Ralph Foster (Oklahoma State)",,Cotton Bowl
+295,1943,1/1/1944,Sat,Texas,12,7,Randolph Field,18,7,32000,"OL Martin Ruby (Randolph Field), E Joe Parker (Texas)",,Cotton Bowl
+296,1942,1/1/1943,Fri,Texas,18,14,Georgia Tech,2,7,36000,"OL Jack Freeman (Texas), E Jack Marshall (Georgia Tech)",,Cotton Bowl
+297,1941,1/1/1942,Thu,Alabama,18,29,Texas A&M,2,21,38000,"RB Jimmy Nelson (Alabama), OL Martin Ruby (Texas A&M)",,Cotton Bowl
+298,1940,1/1/1941,Wed,Texas A&M,2,13,Fordham,14,12,45500,"OL Charles Henke (Texas A&M), OL Joe Ungerer (Fordham)",,Cotton Bowl
+299,1939,1/1/1940,Mon,Clemson,15,6,Boston College,14,3,20000,B Banks McFadden (Clemson),,Cotton Bowl
+300,1938,1/2/1939,Mon,Saint Mary's,,20,Texas Tech,14,13,40000,"OL Jerry Dowd (Saint Mary's (CA)), RB Elmer Tarbox (Texas Tech)",,Cotton Bowl
+301,1937,1/1/1938,Sat,Rice,,28,Colorado,16,14,37000,"RB Ernie Lain (Rice), QB Byron White (Colorado)",,Cotton Bowl
+302,1936,1/1/1937,Fri,Texas Christian,18,16,Marquette,15,6,17000,"OL Ki Aldrich (Texas Christian), QB Sammy Baugh (Texas Christian)",,Cotton Bowl
+303,2021,12/17/2021,Fri,Coastal Carolina,,47,Northern Illinois,,41,9784,Coastal Carolina QB Grayson McCall,Tailgreeter,Cure Bowl
+304,2020,12/26/2020,Sat,Liberty,23,37,Coastal Carolina,9,34,4488,Liberty QB Malik Willis,FBC Mortgage,Cure Bowl
+305,2019,12/21/2019,Sat,Liberty,,23,Georgia Southern,,16,18158,Liberty DE Jessie Lemonier,FBC Mortgage,Cure Bowl
+306,2018,12/15/2018,Sat,Tulane,,41,Louisiana,,24,19066,Tulane RB Darius Bradwell,AutoNation,Cure Bowl
+307,2017,12/16/2017,Sat,Georgia State,,27,Western Kentucky,,17,19585,Georgia State QB Conner Manning,AutoNation,Cure Bowl
+308,2016,12/17/2016,Sat,Arkansas State,,31,Central Florida,,13,27213,Arkansas St. WR Kendall Sanders,AutoNation,Cure Bowl
+309,2015,12/19/2015,Sat,San Jose State,,27,Georgia State,,16,18536,San Jose St. QB Kenny Potter,AutoNation,Cure Bowl
+310,2021,12/30/2021,Thu,South Carolina,,38,North Carolina,,21,45520,South Carolina WR Dakereon Joyner,Duke's Mayonnaise,Duke's Mayo Bowl
+311,2020,12/30/2020,Wed,Wisconsin,,42,Wake Forest,,28,1500,Wisconsin LB Jack Sanborn,,Duke's Mayo Bowl
+312,2021,12/21/2021,Tue,Wyoming,,52,Kent State,,38,10217,Wyoming QB Levi Williams,Idaho Potato Commission,Famous Idaho Potato Bowl
+313,2020,12/22/2020,Tue,Nevada,,38,Tulane,,27,0,Nevada QB Carson Strong,Idaho Potato Commission,Famous Idaho Potato Bowl
+314,2019,1/3/2020,Fri,Ohio,,30,Nevada,,21,13611,Ohio QB Nathan Rourke,Idaho Potato Commission,Famous Idaho Potato Bowl
+315,2018,12/21/2018,Fri,Brigham Young,,49,Western Michigan,,18,18711,BYU QB Zach Wilson,Idaho Potato Commission,Famous Idaho Potato Bowl
+316,2017,12/22/2017,Fri,Wyoming,,37,Central Michigan,,14,16512,Wyoming QB Josh Allen,Idaho Potato Commission,Famous Idaho Potato Bowl
+317,2016,12/22/2016,Thu,Idaho,,61,Colorado State,,50,24975,Idaho QB Matt Linehan,Idaho Potato Commission,Famous Idaho Potato Bowl
+318,2015,12/22/2015,Tue,Akron,,23,Utah State,,21,18876,Akron K Robert Stein,Idaho Potato Commission,Famous Idaho Potato Bowl
+319,2014,12/20/2014,Sat,Air Force,,38,Western Michigan,,24,18223,"RB Shayne Davern (Air Force), WR Corey Davis (Western Michigan)",Idaho Potato Commission,Famous Idaho Potato Bowl
+320,2013,12/21/2013,Sat,San Diego State,,49,Buffalo,,24,21951,"RB Adam Muema (San Diego State), RB Branden Oliver (Buffalo)",Idaho Potato Commission,Famous Idaho Potato Bowl
+321,2012,12/15/2012,Sat,Utah State,18,41,Toledo,,15,29243,"RB Kerwynn Williams (Utah State), WR Bernard Reedy (Toledo)",Idaho Potato Commission,Famous Idaho Potato Bowl
+322,2011,12/17/2011,Sat,Ohio,,24,Utah State,,23,28076,"WR LaVon Brazill (Ohio), RB Michael Smith (Utah State)",Idaho Potato Commission,Famous Idaho Potato Bowl
+323,2010,12/18/2010,Sat,Northern Illinois,,40,Fresno State,,17,25449,"QB Chandler Harnish (Northern Illinois), QB Ryan Colburn (Fresno State)",uDrove,Famous Idaho Potato Bowl
+324,2009,12/30/2009,Wed,Idaho,,43,Bowling Green State,,42,26726,"RB DeMaundray Woolridge (Idaho), WR Freddie Barnes (Bowling Green State)",Roady's Truck Stops,Famous Idaho Potato Bowl
+325,2008,12/30/2008,Tue,Maryland,,42,Nevada,,35,26781,"RB Da'Rel Scott (Maryland), QB Colin Kaepernick (Nevada)",Roady's Truck Stops,Famous Idaho Potato Bowl
+326,2007,12/31/2007,Mon,Fresno State,,40,Georgia Tech,,28,27062,"QB Tom Brandstater (Fresno State), RB Jonathan Dwyer (Georgia Tech)",Roady's Truck Stops,Famous Idaho Potato Bowl
+327,2006,12/31/2006,Sun,Miami,,21,Nevada,,20,28652,"QB Kirby Freeman (Miami (FL)), QB Jeff Rowe (Nevada)",MPC Computers,Famous Idaho Potato Bowl
+328,2005,12/28/2005,Wed,Boston College,19,27,Boise State,,21,30493,"QB Matt Ryan (Boston College), QB Jared Zabransky (Boise State)",MPC Computers,Famous Idaho Potato Bowl
+329,2004,12/27/2004,Mon,Fresno State,,37,Virginia,18,34,28516,"QB Paul Pinegar (Fresno State), QB Marques Hagans (Virginia)",MPC Computers,Famous Idaho Potato Bowl
+330,2003,1/3/2004,Sat,Georgia Tech,,52,Tulsa,,10,23118,"RB P.J. Daniels (Georgia Tech), P Cort Moffitt (Tulsa)",,Famous Idaho Potato Bowl
+331,2002,12/31/2002,Tue,Boise State,18,34,Iowa State,,16,30446,"DL Bobby Hammer (Boise State), DB Anthony Forrest (Iowa State)",Crucial,Famous Idaho Potato Bowl
+332,2001,12/31/2001,Mon,Clemson,,49,Louisiana Tech,,24,23472,"QB Woodrow Dantzler (Clemson), WR Delwyn Daigre (Louisiana Tech)",Crucial,Famous Idaho Potato Bowl
+333,2000,12/28/2000,Thu,Boise State,,38,Texas-El Paso,,23,26203,"QB Bart Hendricks (Boise State), RB Chris Porter (Texas-El Paso)",Crucial,Famous Idaho Potato Bowl
+334,1999,12/30/1999,Thu,Boise State,,34,Louisville,,31,29283,"RB Brock Forsey (Boise State), QB Chris Redman (Louisville)",Crucial,Famous Idaho Potato Bowl
+335,1998,12/30/1998,Wed,Idaho,,42,Southern Mississippi,,35,19664,"QB Lee Roberts (Southern Mississippi), QB John Welsh (Idaho)",,Famous Idaho Potato Bowl
+336,1997,12/29/1997,Mon,Cincinnati,,35,Utah State,,19,16131,"WR Steve Smith (Utah State), QB Chad Plummer (Cincinnati)",,Famous Idaho Potato Bowl
+337,2021,1/1/2022,Sat,Oklahoma State,9,37,Notre Dame,5,35,49550,"Oklahoma State QB Spencer Sanders, Oklahoma State LB Malcolm Rodriguez",PlayStation,Fiesta Bowl
+338,2020,1/2/2021,Sat,Iowa State,12,34,Oregon,25,17,0,"Iowa State QB Brock Purdy, Iowa State LB O'Rien Vance",PlayStation,Fiesta Bowl
+339,2019,12/28/2019,Sat,Clemson,3,29,Ohio State,2,23,71330,"Clemson QB Trevor Lawrence, Clemson LB Chad Smith",PlayStation,Fiesta Bowl
+340,2018,1/1/2019,Tue,Louisiana State,11,40,Central Florida,7,32,57246,"LSU QB Joe Burrow, LSU DL Rashard Lawrence",PlayStation,Fiesta Bowl
+341,2017,12/30/2017,Sat,Penn State,9,35,Washington,12,28,61842,"Penn State QB Trace McSorley, Penn State S Marcus Allen",PlayStation,Fiesta Bowl
+342,2016,12/31/2016,Sat,Clemson,3,31,Ohio State,2,0,71279,"Clemson QB Deshaun Watson, Clemson DE Clelin Ferrell",Playstation,Fiesta Bowl
+343,2015,1/1/2016,Fri,Ohio State,7,44,Notre Dame,8,28,71123,"OSU QB JT Barrett, OSU CB Eli Apple",BattleFrog,Fiesta Bowl
+344,2014,12/31/2014,Wed,Boise State,21,38,Arizona,12,30,66896,"WR Thomas Sperbeck (Boise State), LB Tanner Vallejo (Boise State)",Vizio,Fiesta Bowl
+345,2013,1/1/2014,Wed,Central Florida,15,52,Baylor,6,42,65172,"QB Blake Bortles (UCF), LB Terrance Plummer (UCF)",Tostitos,Fiesta Bowl
+346,2012,1/3/2013,Thu,Oregon,5,35,Kansas State,7,17,70242,"QB Marcus Mariota (Oregon), LB Michael Clay (Oregon)",Tostitos,Fiesta Bowl
+347,2011,1/2/2012,Mon,Oklahoma State,3,41,Stanford,4,38,69927,"WR Justin Blackmon (Oklahoma State), DB Justin Gilbert (Oklahoma State)",Tostitos,Fiesta Bowl
+348,2010,1/1/2011,Sat,Oklahoma,9,48,Connecticut,25,20,67232,"QB Landry Jones (Oklahoma), DB Jamell Fleming (Oklahoma)",Tostitos,Fiesta Bowl
+349,2009,1/4/2010,Mon,Boise State,6,17,Texas Christian,3,10,73227,"TE Kyle Efaw (Boise State), DB Brandyn Thompson (Boise State)",Tostitos,Fiesta Bowl
+350,2008,1/5/2009,Mon,Texas,3,24,Ohio State,10,21,72047,"QB Colt McCoy (Texas), DL Roy Miller (Texas)",Tostitos,Fiesta Bowl
+351,2007,1/2/2008,Wed,West Virginia,11,48,Oklahoma,3,28,70016,"QB Pat White (West Virginia), LB Reed Williams (West Virginia)",Tostitos,Fiesta Bowl
+352,2006,1/1/2007,Mon,Boise State,9,43,Oklahoma,7,42,73719,"QB Jarod Zabransky (Boise State), DB Marty Tadman (Boise State)",Tostitos,Fiesta Bowl
+353,2005,1/2/2006,Mon,Ohio State,4,34,Notre Dame,5,20,76196,"QB Troy Smith (Ohio State), LB AJ Hawk (Ohio State)",Tostitos,Fiesta Bowl
+354,2004,1/1/2005,Sat,Utah,5,35,Pittsburgh,19,7,73519,"QB Alex Smith (Utah), WR Paris Warren (Utah)",Tostitos,Fiesta Bowl
+355,2003,1/2/2004,Fri,Ohio State,7,35,Kansas State,8,28,73425,"QB Craig Krenzel (Ohio State), LB AJ Hawk (Ohio State)",Tostitos,Fiesta Bowl
+356,2002,1/3/2003,Fri,Ohio State,2,31,Miami,,24,77502,"QB Craig Krenzel (Ohio State), DB Mike Doss (Ohio State)",Tostitos,Fiesta Bowl
+357,2001,1/1/2002,Tue,Oregon,2,38,Colorado,3,16,74118,"QB Joey Harrington (Oregon), DB Steve Smith (Oregon)",Tostitos,Fiesta Bowl
+358,2000,1/1/2001,Mon,Oregon State,5,41,Notre Dame,10,9,75428,"QB Jonathan Smith (Oregon State), LB Darnell Robinson (Oregon State)",Tostitos,Fiesta Bowl
+359,1999,1/2/2000,Sun,Nebraska,3,31,Tennessee,6,21,71526,"QB Eric Crouch (Nebraska), DB Mike Brown (Nebraska)",Tostitos,Fiesta Bowl
+360,1998,1/4/1999,Mon,Tennessee,1,23,Florida State,2,16,80470,"WR Peerless Price (Tennessee), DB Dwayne Goodrich (Tennessee)",Tostitos,Fiesta Bowl
+361,1997,12/31/1997,Wed,Kansas State,10,35,Syracuse,14,18,69367,"QB Michael Bishop (Kansas State), LB Travis Ochs (Kansas State)",Tostitos,Fiesta Bowl
+362,1996,1/1/1997,Wed,Penn State,7,38,Texas,20,15,65106,"RB Curtis Enis (Penn State), LB Brandon Noble (Penn State)",Tostitos,Fiesta Bowl
+363,1995,1/2/1996,Tue,Nebraska,1,62,Florida,2,24,79864,"QB Tommie Frazier (Nebraska), DB Michael Booker (Nebraska)",Tostitos,Fiesta Bowl
+364,1994,1/2/1995,Mon,Colorado,4,41,Notre Dame,,24,73968,"QB Kordell Stewart (Colorado), DL Shannon Clavelle (Colorado)",IBM,Fiesta Bowl
+365,1993,1/1/1994,Sat,Arizona,16,29,Miami,,0,72260,"RB Chuck Levy (Arizona), LB Tedy Bruschi (Arizona)",IBM,Fiesta Bowl
+366,1992,1/1/1993,Fri,Syracuse,6,26,Colorado,10,22,70224,"QB Marvin Graves (Syracuse), DL Kevin Mitchell (Syracuse)",IBM,Fiesta Bowl
+367,1991,1/1/1992,Wed,Penn State,6,42,Tennessee,10,17,71133,"WR O.J. McDuffie (Penn State), OL Reggie Givens (Penn State)",Sunkist,Fiesta Bowl
+368,1990,1/1/1991,Tue,Louisville,18,34,Alabama,25,7,69098,"QB Browning Nagle (Louisville), DB Ray Buchanan (Louisville)",Sunkist,Fiesta Bowl
+369,1989,1/1/1990,Mon,Florida State,5,41,Nebraska,6,17,73953,"QB Peter Tom Willis (Florida State), DL Odell Haggins (Florida State)",Sunkist,Fiesta Bowl
+370,1988,1/2/1989,Mon,Notre Dame,1,34,West Virginia,3,21,74911,"QB Tony Rice (Notre Dame), DL Frank Stams (Notre Dame)",Sunkist,Fiesta Bowl
+371,1987,1/1/1988,Fri,Florida State,3,31,Nebraska,5,28,72112,"QB Danny McManus (Florida State), DL Neil Smith (Nebraska)",Sunkist,Fiesta Bowl
+372,1986,1/2/1987,Fri,Penn State,2,14,Miami,,10,73098,"RB D.J. Dozier (Penn State), LB Shane Conlan (Penn State)",Sunkist,Fiesta Bowl
+373,1985,1/1/1986,Wed,Michigan,5,27,Nebraska,7,23,72454,"RB Jamie Morris (Michigan), DL Mark Messner (Michigan)",Sunkist,Fiesta Bowl
+374,1984,1/1/1985,Tue,UCLA,14,39,Miami,,37,60310,"RB Gaston Green (UCLA), DB James Washington (UCLA)",,Fiesta Bowl
+375,1983,1/2/1984,Mon,Ohio State,14,28,Pittsburgh,15,23,66484,"QB John Congemi (Pittsburgh), LB Rowland Tatum (Ohio State)",,Fiesta Bowl
+376,1982,1/1/1983,Sat,Arizona State,11,32,Oklahoma,12,21,70533,"RB Marcus Dupree (Oklahoma), DL Jim Jeffcoat (Arizona State)",,Fiesta Bowl
+377,1981,1/1/1982,Fri,Penn State,7,26,Southern California,8,10,71053,"RB Curt Warner (Penn State), DL Leo Wisniewski (Penn State)",,Fiesta Bowl
+378,1980,12/26/1980,Fri,Penn State,10,31,Ohio State,11,19,66738,"RB Curt Warner (Penn State), DL Frank Case (Penn State)",,Fiesta Bowl
+379,1979,12/25/1979,Tue,Pittsburgh,10,16,Arizona,,10,55347,"K Mark Schubert (Pittsburgh), DB Dave Liggins (Arizona)",,Fiesta Bowl
+380,1978,12/25/1978,Mon,UCLA,15,10,Arkansas,8,10,55227,"RB James Owens (UCLA), DL Jimmy Walker (Arkansas)",,Fiesta Bowl
+381,1977,12/25/1977,Sun,Penn State,8,42,Arizona State,15,30,57727,"QB Dennis Sproul (Arizona State), LB Matt Millen (Penn State)",,Fiesta Bowl
+382,1976,12/25/1976,Sat,Oklahoma,8,41,Wyoming,,7,48174,"QB Thomas Lott (Oklahoma), DB Terry Peters (Oklahoma)",,Fiesta Bowl
+383,1975,12/26/1975,Fri,Arizona State,7,17,Nebraska,6,14,51396,"WR John Jefferson (Arizona State), LB Larry Gordon (Arizona State)",,Fiesta Bowl
+384,1974,12/28/1974,Sat,Oklahoma State,,16,Brigham Young,17,6,50878,"RB Kenny Walker (Oklahoma State), DL Phil Dokes (Oklahoma State)",,Fiesta Bowl
+385,1973,12/21/1973,Fri,Arizona State,10,28,Pittsburgh,,7,50878,"WR Greg Hudson (Arizona State), DB Mike Haynes (Arizona State)",,Fiesta Bowl
+386,1972,12/23/1972,Sat,Arizona State,15,49,Missouri,,35,51318,"RB Woody Green (Arizona State), DB Mike Fink (Missouri)",,Fiesta Bowl
+387,1971,12/27/1971,Mon,Arizona State,8,45,Florida State,,38,51089,"QB Gary Huff (Florida State), DL Junior Ah You (Arizona State)",,Fiesta Bowl
+388,2021,12/21/2021,Tue,San Diego State,,38,Texas-San Antonio,24,24,15801,"SDSU WR Jesse Matthews, SDSU S CJ Baskerville",Tropical Smoothie Cafe,Frisco Bowl
+389,2019,12/20/2019,Fri,Kent State,,51,Utah State,,41,12120,"Kent State QB Dustin Crum, Kent State DB Qwuantrezz Knight",Tropical Smoothie Cafe,Frisco Bowl
+390,2018,12/19/2018,Wed,Ohio,,27,San Diego State,,0,11029,"Ohio RB AJ Ouellette, Ohio LB Evan Croutch",DXL,Frisco Bowl
+391,2017,12/20/2017,Wed,Louisiana Tech,,51,Southern Methodist,,10,14419,"Louisiana Tech QB J'Mar Smith, Louisiana Tech CB Amik Robertson",DXL,Frisco Bowl
+392,2021,12/23/2021,Thu,Miami,,27,North Texas,,14,11721,"Miami QB Brett Gabbert, Miami DB Jacquez Warren",,Frisco Football Classic
+393,2021,12/31/2021,Fri,Wake Forest,20,38,Rutgers,,10,28508,"Wake Forest QB Sam Hartman, Rutgers QB Johnny Langan",TaxSlayer,Gator Bowl
+394,2020,1/2/2021,Sat,Kentucky,,23,North Carolina State,24,21,10422,"Kentucky RB Asim Rose Jr., NC State RB Zonovan Knight",TaxSlayer,Gator Bowl
+395,2019,1/2/2020,Thu,Tennessee,,23,Indiana,,22,61789,"Tennessee RB Eric Gray, Indiana QB Peyton Ramsey",TaxSlayer,Gator Bowl
+396,2018,12/31/2018,Mon,Texas A&M,21,52,North Carolina State,,13,38206,Texas A&M RB Trayveon Williams,TaxSlayer,Gator Bowl
+397,2017,12/30/2017,Sat,Mississippi State,24,31,Louisville,,27,41310,"Mississippi State S Mark McLaurin, Louisville QB Lamar Jackson",TaxSlayer,Gator Bowl
+398,2016,12/31/2016,Sat,Georgia Tech,,33,Kentucky,,18,43102,"Georgia Tech RB Dedrick Mills, Kentucky QB Stephen Johnson II",TaxSlayer,Gator Bowl
+399,2015,1/2/2016,Sat,Georgia,,24,Penn State,,17,58212,Georgia WR Terry Godwin,TaxSlayer,Gator Bowl
+400,2014,1/2/2015,Fri,Tennessee,,45,Iowa,,28,56310,QB Joshua Dobbs (Tennessee),,Gator Bowl
+401,2013,1/1/2014,Wed,Nebraska,,24,Georgia,23,19,60712,WR Quincy Enunwa (Nebraska),Taxslayer,Gator Bowl
+402,2012,1/1/2013,Tue,Northwestern,21,34,Mississippi State,,20,48612,DB Jared Carpenter (Northwestern),Taxslayer,Gator Bowl
+403,2011,1/2/2012,Mon,Florida,,24,Ohio State,,17,61312,WR Andre Debose (Florida),Taxslayer,Gator Bowl
+404,2010,1/1/2011,Sat,Mississippi State,21,52,Michigan,,14,68325,QB Chris Relf (Mississippi State),Progressive Insurance,Gator Bowl
+405,2009,1/1/2010,Fri,Florida State,,33,West Virginia,18,21,84129,"QB EJ Manuel (Florida State), RB Noel Devine (West Virginia)",Konica Minolta,Gator Bowl
+406,2008,1/1/2009,Thu,Nebraska,,26,Clemson,,21,67282,QB Joe Ganz (Nebraska),Konica Minolta,Gator Bowl
+407,2007,1/1/2008,Tue,Texas Tech,,31,Virginia,21,28,60243,"QB Graham Harrell (Texas Tech), RB Mikell Simpson (Virginia)",Konica Minolta,Gator Bowl
+408,2006,1/1/2007,Mon,West Virginia,13,38,Georgia Tech,,35,67704,"QB Pat White (West Virginia), WR Calvin Johnson (Georgia Tech)",Toyota,Gator Bowl
+409,2005,1/2/2006,Mon,Virginia Tech,12,35,Louisville,15,24,63780,"RB Cedric Humes (Virginia Tech), QB Hunter Cantwell (Louisville)",Toyota,Gator Bowl
+410,2004,1/1/2005,Sat,Florida State,17,30,West Virginia,,18,70112,"RB Leon Washington (Florida State), RB Kay-Jay Harris (West Virginia)",Toyota,Gator Bowl
+411,2003,1/1/2004,Thu,Maryland,23,41,West Virginia,20,7,78892,"QB Scott McBrien (Maryland), DB Brian King (West Virginia)",Toyota,Gator Bowl
+412,2002,1/1/2003,Wed,North Carolina State,17,28,Notre Dame,11,6,73491,"QB Philip Rivers (North Carolina State), DL Cedric Hillard (Notre Dame)",Toyota,Gator Bowl
+413,2001,1/1/2002,Tue,Florida State,24,30,Virginia Tech,15,17,72202,"WR Javon Walker (Florida State), WR Andre Davis (Virginia Tech)",Toyota,Gator Bowl
+414,2000,1/1/2001,Mon,Virginia Tech,6,41,Clemson,16,20,68741,"QB Michael Vick (Virginia Tech), WR Rod Gardner (Clemson)",Toyota,Gator Bowl
+415,1999,1/1/2000,Sat,Miami,,28,Georgia Tech,17,13,43416,"LB Nate Webster (Miami (FL)), QB Joe Hamilton (Georgia Tech)",Toyota,Gator Bowl
+416,1998,1/1/1999,Fri,Georgia Tech,12,35,Notre Dame,17,28,70791,"WR Dez White (Georgia Tech), RB Autry Denson (Notre Dame)",Toyota,Gator Bowl
+417,1997,1/1/1998,Thu,North Carolina,7,42,Virginia Tech,,3,54116,"QB Chris Keldorf (North Carolina), QB Nick Sorensen (Virginia Tech)",Toyota,Gator Bowl
+418,1996,1/1/1997,Wed,North Carolina,12,20,West Virginia,25,13,52103,"QB Oscar Davenport (North Carolina), WR David Saunders (West Virginia)",Toyota,Gator Bowl
+419,1995,1/1/1996,Mon,Syracuse,,41,Clemson,23,0,45202,"QB Donovan McNabb (Syracuse), DB Peter Ford (Clemson)",Toyota,Gator Bowl
+420,1994,12/30/1994,Fri,Tennessee,,45,Virginia Tech,17,23,62200,"RB James Stewart (Tennessee), QB Maurice DeShazo (Virginia Tech)",Outback Steakhouse,Gator Bowl
+421,1993,12/31/1993,Fri,Alabama,18,24,North Carolina,12,10,67205,"QB Brian Burgdorf (Alabama), WR Corey Holliday (North Carolina)",Outback Steakhouse,Gator Bowl
+422,1992,12/31/1992,Thu,Florida,14,27,North Carolina State,12,10,71233,"RB Errict Rhett (Florida), WR Reggie Lawrence (North Carolina State)",Outback Steakhouse,Gator Bowl
+423,1991,12/29/1991,Sun,Oklahoma,20,48,Virginia,19,14,62003,"QB Cale Gundy (Oklahoma), DB Tyrone Davis (Virginia)",,Gator Bowl
+424,1990,1/1/1991,Tue,Michigan,12,35,Mississippi,15,3,68927,"OL Offensive Line (Michigan), DB Tyrone Ashley (Mississippi)",Mazda,Gator Bowl
+425,1989,12/30/1989,Sat,Clemson,14,27,West Virginia,17,7,82911,"LB Levon Kirkland (Clemson), DL Mike Fox (West Virginia)",Mazda,Gator Bowl
+426,1988,1/1/1989,Sun,Georgia,19,34,Michigan State,,27,76236,"QB Wayne Johnson (Georgia), WR Andre Rison (Michigan State)",Mazda,Gator Bowl
+427,1987,12/31/1987,Thu,Louisiana State,7,30,South Carolina,9,13,82119,"WR Wendell Davis (Louisiana State), RB Harold Green (South Carolina)",Mazda,Gator Bowl
+428,1986,12/27/1986,Sat,Clemson,,27,Stanford,20,21,80104,"QB Rodney Williams (Clemson), RB Brad Muster (Stanford)",Mazda,Gator Bowl
+429,1985,12/30/1985,Mon,Florida State,18,34,Oklahoma State,19,23,79417,"QB Chip Ferguson (Florida State), RB Thurman Thomas (Oklahoma State)",,Gator Bowl
+430,1984,12/28/1984,Fri,Oklahoma State,9,21,South Carolina,7,14,82138,"RB Thurman Thomas (Oklahoma State), QB Mike Hold (South Carolina)",,Gator Bowl
+431,1983,12/30/1983,Fri,Florida,11,14,Iowa,10,6,81293,"DB Tony Lilly (Florida), RB Owen Gill (Iowa)",,Gator Bowl
+432,1982,12/30/1982,Thu,Florida State,,31,West Virginia,10,12,80913,"RB Greg Allen (Florida State), K Paul Woodside (West Virginia)",,Gator Bowl
+433,1981,12/28/1981,Mon,North Carolina,11,31,Arkansas,,27,71009,"RB Kelvin Bryant (North Carolina), RB Gary Anderson (Arkansas)",,Gator Bowl
+434,1980,12/29/1980,Mon,Pittsburgh,3,37,South Carolina,18,9,72297,"QB Rick Trocano (Pittsburgh), RB George Rogers (South Carolina)",,Gator Bowl
+435,1979,12/28/1979,Fri,North Carolina,,17,Michigan,14,15,70407,"QB Matt Kupec (North Carolina), WR Anthony Carter (Michigan)",,Gator Bowl
+436,1978,12/29/1978,Fri,Clemson,7,17,Ohio State,20,15,72011,"QB Steve Fuller (Clemson), QB Art Schlichter (Ohio State)",,Gator Bowl
+437,1977,12/30/1977,Fri,Pittsburgh,10,34,Clemson,11,3,72289,"QB Matt Cavanaugh (Pittsburgh), WR Jerry Butler (Clemson)",,Gator Bowl
+438,1976,12/27/1976,Mon,Notre Dame,15,20,Penn State,20,9,67827,"RB Al Hunter (Notre Dame), WR Jimmy Cefalo (Penn State)",,Gator Bowl
+439,1975,12/29/1975,Mon,Maryland,17,13,Florida,13,0,64012,"RB Steve Atkins (Maryland), LB Sammy Green (Florida)",,Gator Bowl
+440,1974,12/30/1974,Mon,Auburn,6,27,Texas,11,3,63811,"QB Phil Gargis (Auburn), RB Earl Campbell (Texas)",,Gator Bowl
+441,1973,12/29/1973,Sat,Texas Tech,11,28,Tennessee,20,19,62109,"QB Joe Barnes (Texas Tech), RB Haskel Stanback (Tennessee)",,Gator Bowl
+442,1972,12/30/1972,Sat,Auburn,6,24,Colorado,13,3,71114,"QB Wade Whatley (Auburn), LB Mark Cooney (Colorado)",,Gator Bowl
+443,1971,12/31/1971,Fri,Georgia,6,7,North Carolina,,3,71208,"RB Jimmy Poulos (Georgia), LB James Webster (North Carolina)",,Gator Bowl
+444,1970,1/2/1971,Sat,Auburn,10,35,Mississippi,,28,71136,"QB Pat Sullivan (Auburn), QB Archie Manning (Mississippi)",,Gator Bowl
+445,1969,12/27/1969,Sat,Florida,15,14,Tennessee,11,13,72248,"LB Mike Kelley (Florida), RB Curt Watson (Tennessee)",,Gator Bowl
+446,1968,12/28/1968,Sat,Missouri,16,35,Alabama,12,10,68011,"QB Terry McMillan (Missouri), LB Mike Hall (Alabama)",,Gator Bowl
+447,1967,12/30/1967,Sat,Penn State,,17,Florida State,,17,68019,"QB Kim Hammond (Florida State), QB Tom Sherman (Penn State)",,Gator Bowl
+448,1966,12/31/1966,Sat,Tennessee,,18,Syracuse,,12,60312,"QB Dewey Warren (Tennessee), RB Floyd Little (Syracuse)",,Gator Bowl
+449,1965,12/31/1965,Fri,Georgia Tech,,31,Texas Tech,10,21,60127,"RB Lenny Snow (Georgia Tech), RB Donny Anderson (Texas Tech)",,Gator Bowl
+450,1964,1/2/1965,Sat,Florida State,10,36,Oklahoma,,19,50408,"WR Fred Biletnikoff (Florida State), LB Carl McAdams (Oklahoma)",,Gator Bowl
+451,1963,12/28/1963,Sat,North Carolina,,35,Air Force,,0,50018,"RB Ken Willard (North Carolina), OL David Sicks (Air Force)",,Gator Bowl
+452,1962,12/29/1962,Sat,Florida,,17,Penn State,9,7,50026,"QB Tom Shannon (Florida), E Dave Robinson (Penn State)",,Gator Bowl
+453,1961,12/30/1961,Sat,Penn State,,30,Georgia Tech,,15,50202,"QB Galen Hall (Penn State), RB Joe Auer (Georgia Tech)",,Gator Bowl
+454,1960,12/31/1960,Sat,Florida,19,13,Baylor,19,12,50122,"QB Larry Libertore (Florida), QB Bobby Ply (Baylor)",,Gator Bowl
+455,1959,1/2/1960,Sat,Arkansas,9,14,Georgia Tech,,7,45104,"RB Jim Mooty (Arkansas), LB Maxie Baughan (Georgia Tech)",,Gator Bowl
+456,1958,12/27/1958,Sat,Mississippi,13,7,Florida,14,3,41312,"QB Bobby Franklin (Mississippi), E Dave Hudson (Florida)",,Gator Bowl
+457,1957,12/28/1957,Sat,Tennessee,18,3,Texas A&M,4,0,41160,"RB Bobby Gordon (Tennessee), RB John David Crow (Texas A&M)",,Gator Bowl
+458,1956,12/29/1956,Sat,Georgia Tech,4,21,Pittsburgh,12,14,36256,"QB Wade Mitchell (Georgia Tech), QB Corny Salvaterra (Pittsburgh)",,Gator Bowl
+459,1955,12/31/1955,Sat,Vanderbilt,19,25,Auburn,10,13,32174,"QB Don Orr (Vanderbilt), RB Joe Childress (Auburn)",,Gator Bowl
+460,1954,12/31/1954,Fri,Auburn,15,33,Baylor,9,13,28426,"RB Joe Childress (Auburn), QB Billy Hooper (Baylor)",,Gator Bowl
+461,1953,1/1/1954,Fri,Texas Tech,14,35,Auburn,16,13,28641,"RB Bobby Cavazos (Texas Tech), QB Vince Dooley (Auburn)",,Gator Bowl
+462,1952,1/1/1953,Thu,Florida,17,14,Tulsa,11,13,30015,"RB John Hall (Florida), OL Marv Matuszak (Tulsa)",,Gator Bowl
+463,1951,1/1/1952,Tue,Miami,,14,Clemson,,0,34577,RB Jim Dooley (Miami (FL)),,Gator Bowl
+464,1950,1/1/1951,Mon,Wyoming,12,20,Washington & Lee,19,7,19834,RB Eddie Talboom (Wyoming),,Gator Bowl
+465,1949,1/2/1950,Mon,Maryland,15,20,Missouri,,7,18409,OL Bob Ward (Maryland),,Gator Bowl
+466,1948,1/1/1949,Sat,Clemson,9,24,Missouri,,23,32939,RB Bobby Gage (Clemson),,Gator Bowl
+467,1947,1/1/1948,Thu,Maryland,,20,Georgia,,20,16666,RB Lu Gambino (Maryland),,Gator Bowl
+468,1946,1/1/1947,Wed,Oklahoma,17,34,North Carolina State,,13,10134,RB Joe Golding (Oklahoma),,Gator Bowl
+469,1945,1/1/1946,Tue,Wake Forest,,26,South Carolina,,14,7362,QB Nick Sacrinty (Wake Forest),,Gator Bowl
+470,2021,12/18/2021,Sat,Liberty,,56,Eastern Michigan,,20,15186,Liberty QB Malik Willis,LendingTree,LendingTree Bowl
+471,2020,12/26/2020,Sat,Georgia State,,39,Western Kentucky,,21,5128,Georgia State QB Cornelious Brown IV,,LendingTree Bowl
+472,2019,1/6/2020,Mon,Louisiana,,27,Miami,,17,29212,Louisiana QB Levi Lewis,LendingTree,LendingTree Bowl
+473,2018,12/22/2018,Sat,Troy,,42,Buffalo,,32,31818,Troy QB Sawyer Smith,Dollar General,LendingTree Bowl
+474,2017,12/23/2017,Sat,Appalachian State,,34,Toledo,,0,28706,Appalachian State RB Jalin Moore,Dollar General,LendingTree Bowl
+475,2016,12/23/2016,Fri,Troy,,28,Ohio,,23,32377,Troy LB Justin Lucas,Dollar General,LendingTree Bowl
+476,2015,12/23/2015,Wed,Georgia Southern,,58,Bowling Green,,27,28656,Georgia Southern QB Favian Upshaw,GoDaddy,LendingTree Bowl
+477,2014,1/4/2015,Sun,Toledo,,63,Arkansas State,,44,36811,RB Kareem Hunt (Toledo),GoDaddy,LendingTree Bowl
+478,2013,1/5/2014,Sun,Arkansas State,,23,Ball State,,20,36119,QB Fredi Knighten (Arkansas State),GoDaddy,LendingTree Bowl
+479,2012,1/6/2013,Sun,Arkansas State,,17,Kent State,25,13,37913,QB Ryan Aplin (Arkansas State),GoDaddy,LendingTree Bowl
+480,2011,1/8/2012,Sun,Northern Illinois,,38,Arkansas State,,20,38734,QB Chandler Harnish (Northern Illinois),GoDaddy,LendingTree Bowl
+481,2010,1/6/2011,Thu,Miami,,35,Middle Tennessee State,,21,38168,QB Austin Boucher (Miami (OH)),GoDaddy,LendingTree Bowl
+482,2009,1/6/2010,Wed,Central Michigan,25,44,Troy,,41,34486,QB Dan LeFevour (Central Michigan),GMAC,LendingTree Bowl
+483,2008,1/6/2009,Tue,Tulsa,,45,Ball State,23,13,32816,RB Tarrion Adams (Tulsa),GMAC,LendingTree Bowl
+484,2007,1/6/2008,Sun,Tulsa,,63,Bowling Green,,7,36932,QB Paul Smith (Tulsa),GMAC,LendingTree Bowl
+485,2006,1/7/2007,Sun,Southern Mississippi,,28,Ohio,,7,38751,RB Damion Fletcher (Southern Mississippi),GMAC,LendingTree Bowl
+486,2005,12/21/2005,Wed,Toledo,,45,Texas-El Paso,,13,35422,QB Bruce Gradkowski (Toledo),GMAC,LendingTree Bowl
+487,2004,12/22/2004,Wed,Bowling Green,,52,Memphis,,35,40160,QB Omar Jacobs (Bowling Green State),GMAC,LendingTree Bowl
+488,2003,12/18/2003,Thu,Miami,,49,Louisville,,28,40620,QB Ben Roethlisberger (Miami (OH)),GMAC,LendingTree Bowl
+489,2002,12/18/2002,Wed,Marshall,,38,Louisville,,15,40646,QB Byron Leftwich (Marshall),GMAC,LendingTree Bowl
+490,2001,12/19/2001,Wed,Marshall,,64,East Carolina,,61,40139,QB Byron Leftwich (Marshall),GMAC,LendingTree Bowl
+491,2000,12/20/2000,Wed,Southern Mississippi,,28,Texas Christian,13,21,40300,RB LaDainian Tomlinson (Texas Christian),,LendingTree Bowl
+492,1999,12/22/1999,Wed,Texas Christian,,28,East Carolina,20,14,34200,QB Casey Printers (Texas Christian),,LendingTree Bowl
+493,2021,12/28/2021,Tue,Air Force,,31,Louisville,,28,15251,Air Force QB Haaziq Daniels,Servpro,First Responder Bowl
+494,2020,12/26/2020,Sat,Louisiana,16,31,Texas-San Antonio,,24,3512,Louisiana RB Elijah Mitchell,Servpro,First Responder Bowl
+495,2019,12/30/2019,Mon,Western Kentucky,,23,Western Michigan,,20,13164,Western Kentucky WR Lucky Jackson,Servpro,First Responder Bowl
+496,2017,12/26/2017,Tue,Utah,,30,West Virginia,,14,20507,Utah CB Julian Blackmon,Zaxby's,First Responder Bowl
+497,2016,12/27/2016,Tue,Army,,38,North Texas,,31,39117,Army QB Ahmad Bradshaw,Zaxby's,First Responder Bowl
+498,2015,12/26/2015,Sat,Washington,,44,Southern Mississippi,,31,20229,Washington RB Myles Gaskin,Zaxby's,First Responder Bowl
+499,2014,12/26/2014,Fri,Louisiana Tech,,35,Illinois,,18,31297,LB Houston Bates (Louisiana Tech),Zaxby's,First Responder Bowl
+500,2013,1/1/2014,Wed,North Texas,,36,Nevada-Las Vegas,,14,38380,QB Derek Thompson (North Texas),PlainsCapital Bank,First Responder Bowl
+501,2012,1/1/2013,Tue,Oklahoma State,,58,Purdue,,14,48313,QB Clint Chelf (Oklahoma State),PlainsCapital Bank,First Responder Bowl
+502,2011,1/2/2012,Mon,Houston,20,30,Penn State,24,14,46817,QB Case Keenum (Houston),TicketCity,First Responder Bowl
+503,2010,1/1/2011,Sat,Texas Tech,,45,Northwestern,,38,40121,QB Taylor Potts (Texas Tech),TicketCity,First Responder Bowl
+504,2021,12/18/2021,Sat,Alabama-Birmingham,,31,Brigham Young,12,28,26276,BYU RB Tyler Allgeier,Radiance Technologies,Independence Bowl
+505,2019,12/26/2019,Thu,Louisiana Tech,,14,Miami,,0,33129,"Louisiana Tech RB Justin Henderson, Louisiana Tech LB Connor Taylor",Walk-On's,Independence Bowl
+506,2018,12/27/2018,Thu,Duke,,56,Temple,,27,27492,"Duke QB Daniel Jones, Temple DB Delvon Randall",Walk-On's,Independence Bowl
+507,2017,12/27/2017,Wed,Florida State,,42,Southern Mississippi,,13,33601,"Florida State QB James Blackman, Florida State DB Nate Andrews",Walk-On's,Independence Bowl
+508,2016,12/26/2016,Mon,North Carolina State,,41,Vanderbilt,,17,28995,"NC State FB Jaylen Samuels, NC State LB Airius Moore",Camping World,Independence Bowl
+509,2015,12/26/2015,Sat,Virginia Tech,,55,Tulsa,,52,31289,"Virginia Tech WR Isaiah Ford, Virginia Tech S Jerey Brady",Camping World,Independence Bowl
+510,2014,12/27/2014,Sat,South Carolina,,24,Miami,,21,38242,"WR Pharoh Cooper (South Carolina), LB Skai Moore (South Carolina",Duck Commander,Independence Bowl
+511,2013,12/31/2013,Tue,Arizona,,42,Boston College,,19,36917,"QB BJ Denker (Arizona), S William Parks (Arizona)",AdvoCare,Independence Bowl
+512,2012,12/28/2012,Fri,Ohio,,45,Louisiana-Monroe,,14,41853,"QB Tyler Tettleton (Ohio), RB Beau Blankenship (Ohio), LB Keith Moore (Ohio)",AdvoCare,Independence Bowl
+513,2011,12/26/2011,Mon,Missouri,,41,North Carolina,,24,41728,"QB James Franklin (Missouri), LB Andrew Wilson (Missouri)",AdvoCare,Independence Bowl
+514,2010,12/27/2010,Mon,Air Force,,14,Georgia Tech,,7,39362,"RB Jared Tew (Air Force), DL Rick Ricketts (Air Force)",AdvoCare,Independence Bowl
+515,2009,12/28/2009,Mon,Georgia,,44,Texas A&M,,20,49653,"TE Aron White (Georgia), DL Geno Atkins (Georgia)",,Independence Bowl
+516,2008,12/28/2008,Sun,Louisiana Tech,,17,Northern Illinois,,10,41567,"WR Phillip Livas (Louisiana Tech), DB Weldon Brown (Louisiana Tech)",,Independence Bowl
+517,2007,12/30/2007,Sun,Alabama,,30,Colorado,,24,47043,"QB John Parker Wilson (Alabama), DL Wallace Gilberry (Alabama)",PetroSun,Independence Bowl
+518,2006,12/28/2006,Thu,Oklahoma State,,34,Alabama,,31,45054,"RB Dantrell Savage (Oklahoma State), LB Jeremy Nethon (Oklahoma State)",PetroSun,Independence Bowl
+519,2005,12/30/2005,Fri,Missouri,,38,South Carolina,,31,41332,"QB Brad Smith (Missouri), DB Marcus King (Missouri)",,Independence Bowl
+520,2004,12/28/2004,Tue,Iowa State,,17,Miami,,13,43000,"QB Bret Meyer (Iowa State), DB Nick Moser (Iowa State)",,Independence Bowl
+521,2003,12/31/2003,Wed,Arkansas,,27,Missouri,,14,49625,"RB Cedric Cobbs (Arkansas), LB Caleb Miller (Arkansas)",MainStay Investments,Independence Bowl
+522,2002,12/27/2002,Fri,Mississippi,,27,Nebraska,,23,46096,"QB Eli Manning (Mississippi), DL Chris Kelsay (Nebraska)",MainStay Investments,Independence Bowl
+523,2001,12/27/2001,Thu,Alabama,,14,Iowa State,,13,45627,"QB Seneca Wallace (Iowa State), DB Waine Bacon (Alabama)",MainStay Investments,Independence Bowl
+524,2000,12/31/2000,Sun,Mississippi State,,43,Texas A&M,,41,36974,"RB Ja'Mar Toombs (Texas A&M), DL Willie Blade (Mississippi State)",Sanford,Independence Bowl
+525,1999,12/31/1999,Fri,Mississippi,,27,Oklahoma,,25,49873,"DB Tim Strickland (Mississippi), QB Josh Heupel (Oklahoma)",Sanford,Independence Bowl
+526,1998,12/31/1998,Thu,Mississippi,,35,Texas Tech,,18,46862,"QB Romaro Miller (Mississippi), DL Kendrick Clancy (Mississippi)",Sanford,Independence Bowl
+527,1997,12/28/1997,Sun,Louisiana State,15,27,Notre Dame,,9,50459,"RB Rondell Mealey (Louisiana State), DL Arnold Miller (Louisiana State)",,Independence Bowl
+528,1996,12/31/1996,Tue,Auburn,,32,Army,24,29,41366,"QB Dameyune Craig (Auburn), LB Rickey Neal (Auburn)",Poulan Weedeater,Independence Bowl
+529,1995,12/29/1995,Fri,Louisiana State,,45,Michigan State,,26,48835,"RB Kevin Faulk (Louisiana State), DL Gabe Northern (Louisiana State)",Poulan Weedeater,Independence Bowl
+530,1994,12/28/1994,Wed,Virginia,18,20,Texas Christian,,10,27242,"QB Mike Groh (Virginia), DL Mike Frederick (Virginia)",Poulan Weedeater,Independence Bowl
+531,1993,12/31/1993,Fri,Virginia Tech,22,45,Indiana,21,20,33819,"DB Maurice DeShazo (Virginia Tech), DB Antonio Banks (Virginia Tech)",Poulan Weedeater,Independence Bowl
+532,1992,12/31/1992,Thu,Wake Forest,,39,Oregon,,35,31337,"WR Todd Dixon (Wake Forest), DB Herman O'Berry (Oregon)",Poulan Weedeater,Independence Bowl
+533,1991,12/29/1991,Sun,Georgia,24,24,Arkansas,,15,46932,"WR Andre Hastings (Georgia), LB Torray Evans (Georgia)",Poulan Weedeater,Independence Bowl
+534,1990,12/15/1990,Sat,Maryland,,34,Louisiana Tech,,34,48325,"RB Mike Richardson (Louisiana Tech), LB Lorenza Baker (Louisiana Tech)",Poulan Weedeater,Independence Bowl
+535,1989,12/16/1989,Sat,Oregon,,27,Tulsa,,24,30333,"QB Bill Musgrave (Oregon), DB Chris Oldham (Oregon)",,Independence Bowl
+536,1988,12/23/1988,Fri,Southern Mississippi,,38,Texas-El Paso,,18,20242,PR James Henry (Southern Mississippi),,Independence Bowl
+537,1987,12/19/1987,Sat,Washington,,24,Tulane,,12,41683,"QB Chris Chandler (Washington), LB David Rill (Washington)",,Independence Bowl
+538,1986,12/20/1986,Sat,Mississippi,,20,Texas Tech,,17,46369,"QB Mark Young (Mississippi), DL James Mosley (Texas Tech)",,Independence Bowl
+539,1985,12/21/1985,Sat,Minnesota,,20,Clemson,,13,42800,"QB Rickey Foggie (Minnesota), LB Bruce Holmes (Minnesota)",,Independence Bowl
+540,1984,12/15/1984,Sat,Air Force,,23,Virginia Tech,,7,41000,"QB Bart Weiss (Air Force), DB Scott Thomas (Air Force)",,Independence Bowl
+541,1983,12/10/1983,Sat,Air Force,16,9,Mississippi,,3,41274,"QB Marty Louthan (Air Force), DL Andre Townsend (Mississippi)",,Independence Bowl
+542,1982,12/11/1982,Sat,Wisconsin,,14,Kansas State,,3,49503,"QB Randy Wright (Wisconsin), DL Tim Krumrie (Wisconsin)",,Independence Bowl
+543,1981,12/12/1981,Sat,Texas A&M,,33,Oklahoma State,,16,47300,"QB Gary Kubiak (Texas A&M), LB Mike Green (Oklahoma State)",,Independence Bowl
+544,1980,12/13/1980,Sat,Southern Mississippi,,16,McNeese State,,14,45000,"QB Stephen Starring (McNeese State), DL Jerald Baylis (Southern Mississippi)",,Independence Bowl
+545,1979,12/15/1979,Sat,Syracuse,,31,McNeese State,,7,27234,"RB Joe Morris (Syracuse), DL Clay Carroll (McNeese State)",,Independence Bowl
+546,1978,12/16/1978,Sat,East Carolina,,35,Louisiana Tech,,13,18200,"RB Theodore Sutton (East Carolina), DL Zack Valentine (East Carolina)",,Independence Bowl
+547,1977,12/17/1977,Sat,Louisiana Tech,,24,Louisville,,14,18500,"QB Keith Thibodeaux (Louisiana Tech), LB Otis Wilson (Louisville)",,Independence Bowl
+548,1976,12/13/1976,Mon,McNeese State,,20,Tulsa,,16,15542,"QB Terry McFarland (McNeese State), DB Terry Clark (Tulsa)",,Independence Bowl
+549,2021,12/18/2021,Sat,Utah State,,24,Oregon State,,13,29896,"Utah State DE Nick Heninger, Utah State WR Deven Thompkins",Jimmy Kimmel,LA Bowl
+550,2021,12/30/2021,Thu,Wisconsin,,20,Arizona State,,13,32515,Wisconsin RB Braelon Allen,SRS Distribution,Las Vegas Bowl
+551,2019,12/21/2019,Sat,Washington,,38,Boise State,18,7,34197,Washington DB Elijah Molden,Mitsubishi Motors,Las Vegas Bowl
+552,2018,12/15/2018,Sat,Fresno State,19,31,Arizona State,,20,37146,Fresno State RB Ronnie Rivers,Mitsubishi Motors,Las Vegas Bowl
+553,2017,12/16/2017,Sat,Boise State,25,38,Oregon,,28,36432,Boise State WR Cedric Wilson,,Las Vegas Bowl
+554,2016,12/17/2016,Sat,San Diego State,,34,Houston,,10,29286,San Diego State RB Donnel Pumphrey,GEICO,Las Vegas Bowl
+555,2015,12/19/2015,Sat,Utah,20,35,Brigham Young,,28,42213,Utah DB Tevin Carter,Royal Purple,Las Vegas Bowl
+556,2014,12/20/2014,Sat,Utah,23,45,Colorado State,,10,33067,QB Travis Wilson (Utah),Royal Purple,Las Vegas Bowl
+557,2013,12/21/2013,Sat,Southern California,,45,Fresno State,21,20,42178,QB Cody Kessler (USC),Maaco,Las Vegas Bowl
+558,2012,12/22/2012,Sat,Boise State,20,28,Washington,,26,33217,RB Bishop Sankey (Washington),Maaco,Las Vegas Bowl
+559,2011,12/22/2011,Thu,Boise State,8,56,Arizona State,,24,35720,RB Doug Martin (Boise State),Maaco,Las Vegas Bowl
+560,2010,12/22/2010,Wed,Boise State,10,26,Utah,20,3,41923,QB Kellen Moore (Boise State),Maaco,Las Vegas Bowl
+561,2009,12/22/2009,Tue,Brigham Young,15,44,Oregon State,16,20,40018,QB Max Hall (Brigham Young),Maaco,Las Vegas Bowl
+562,2008,12/20/2008,Sat,Arizona,,31,Brigham Young,17,21,40047,QB Willie Tuitama (Arizona),Pioneer,Las Vegas Bowl
+563,2007,12/22/2007,Sat,Brigham Young,19,17,UCLA,,16,40712,WR Austin Collie (Brigham Young),Pioneer,Las Vegas Bowl
+564,2006,12/21/2006,Thu,Brigham Young,19,38,Oregon,,8,44615,TE Jonny Harline (Brigham Young),Pioneer,Las Vegas Bowl
+565,2005,12/22/2005,Thu,California,,35,Brigham Young,,28,40053,RB Marshawn Lynch (California),Pioneer,Las Vegas Bowl
+566,2004,12/23/2004,Thu,Wyoming,,24,UCLA,,21,29062,QB Corey Bramlet (Wyoming),Pioneer,Las Vegas Bowl
+567,2003,12/24/2003,Wed,Oregon State,,55,New Mexico,,14,25437,RB Steven Jackson (Oregon State),,Las Vegas Bowl
+568,2002,12/25/2002,Wed,UCLA,,27,New Mexico,,13,30324,WR Craig Bragg (UCLA),Sega,Las Vegas Bowl
+569,2001,12/25/2001,Tue,Utah,,10,Southern California,,6,30894,RB Dameon Hunter (Utah),Sega,Las Vegas Bowl
+570,2000,12/21/2000,Thu,Nevada-Las Vegas,,31,Arkansas,,14,29113,QB Jason Thomas (Nevada-Las Vegas),,Las Vegas Bowl
+571,1999,12/18/1999,Sat,Utah,,17,Fresno State,,16,28227,RB Mike Anderson (Utah),EA Sports,Las Vegas Bowl
+572,1998,12/19/1998,Sat,North Carolina,,20,San Diego State,,13,21429,QB Ronald Curry (North Carolina),,Las Vegas Bowl
+573,1997,12/20/1997,Sat,Oregon,,41,Air Force,23,13,21514,WR Pat Johnson (Oregon),,Las Vegas Bowl
+574,1996,12/19/1996,Thu,Nevada,,18,Ball State,,15,10118,LB Mike Crawford (Nevada),,Las Vegas Bowl
+575,1995,12/14/1995,Thu,Toledo,25,40,Nevada,,37,11127,RB Wasean Tait (Toledo),,Las Vegas Bowl
+576,1994,12/15/1994,Thu,Nevada-Las Vegas,,52,Central Michigan,,24,17562,WR Henry Bailey (Nevada-Las Vegas),,Las Vegas Bowl
+577,1993,12/17/1993,Fri,Utah State,,42,Ball State,,33,15508,QB Anthony Calvillo (Utah State),,Las Vegas Bowl
+578,1992,12/18/1992,Fri,Bowling Green,,35,Nevada,,34,15476,QB Erik White (Bowling Green State),,Las Vegas Bowl
+579,2021,12/28/2021,Tue,Texas Tech,,34,Mississippi State,,7,48615,Texas Tech QB Donovan Smith,AutoZone,Liberty Bowl
+580,2020,12/31/2020,Thu,West Virginia,,24,Army,,21,8187,West Virginia WR T.J. Simmons,AutoZone,Liberty Bowl
+581,2019,12/31/2019,Tue,Navy,21,20,Kansas State,,17,50515,Navy QB Malcolm Perry,AutoZone,Liberty Bowl
+582,2018,12/31/2018,Mon,Oklahoma State,,38,Missouri,24,33,51587,Oklahoma State QB Taylor Cornelius,AutoZone,Liberty Bowl
+583,2017,12/30/2017,Sat,Iowa State,,21,Memphis,19,20,57266,Iowa State WR Allen Lazard,AutoZone,Liberty Bowl
+584,2016,12/30/2016,Fri,Georgia,,31,Texas Christian,,23,51087,Georgia DT Trenton Thompson,AutoZone,Liberty Bowl
+585,2015,1/2/2016,Sat,Arkansas,,45,Kansas State,,23,61136,Arkansas RB Alex Collins,AutoZone,Liberty Bowl
+586,2014,12/29/2014,Mon,Texas A&M,,45,West Virginia,,37,51282,QB Kyle Allen (Texas A&M),Autozone,Liberty Bowl
+587,2013,12/31/2013,Tue,Mississippi State,,44,Rice,,7,57846,QB Dak Prescott (Mississippi State),AutoZone,Liberty Bowl
+588,2012,12/31/2012,Mon,Tulsa,,31,Iowa State,,17,53687,RB Trey Watts (Tulsa),AutoZone,Liberty Bowl
+589,2011,12/31/2011,Sat,Cincinnati,,31,Vanderbilt,,24,57103,RB Isaiah Pead (Cincinnati),AutoZone,Liberty Bowl
+590,2010,12/31/2010,Fri,Central Florida,,10,Georgia,,6,51231,RB Latavius Murray (Central Florida),AutoZone,Liberty Bowl
+591,2009,1/2/2010,Sat,Arkansas,,20,East Carolina,,17,62742,QB Ryan Mallett (Arkansas),AutoZone,Liberty Bowl
+592,2008,1/2/2009,Fri,Kentucky,,25,East Carolina,,19,56125,DL Ventrell Jenkins (Kentucky),AutoZone,Liberty Bowl
+593,2007,12/29/2007,Sat,Mississippi State,,10,Central Florida,,3,63816,DB Derek Pegues (Mississippi State),AutoZone,Liberty Bowl
+594,2006,12/29/2006,Fri,South Carolina,,44,Houston,,36,56103,QB Blake Mitchell (South Carolina),AutoZone,Liberty Bowl
+595,2005,12/31/2005,Sat,Tulsa,,31,Fresno State,,24,54894,QB Paul Smith (Tulsa),AutoZone,Liberty Bowl
+596,2004,12/31/2004,Fri,Louisville,7,44,Boise State,10,40,58355,QB Stefan LeFors (Louisville),AutoZone,Liberty Bowl
+597,2003,12/31/2003,Wed,Utah,25,17,Southern Mississippi,,0,55989,RB Brandon Warfield (Utah),AXA Financial,Liberty Bowl
+598,2002,12/31/2002,Tue,Texas Christian,,17,Colorado State,23,3,55207,WR LaTarence Dunbar (Texas Christian),AXA Financial,Liberty Bowl
+599,2001,12/31/2001,Mon,Louisville,23,28,Brigham Young,19,10,58968,QB Dave Ragone (Louisville),AXA Financial,Liberty Bowl
+600,2000,12/29/2000,Fri,Colorado State,23,22,Louisville,22,17,58302,RB Cecil Sapp (Colorado State),AXA Financial,Liberty Bowl
+601,1999,12/31/1999,Fri,Southern Mississippi,16,23,Colorado State,,17,54866,DL Adalius Thomas (Southern Mississippi),AXA Financial,Liberty Bowl
+602,1998,12/31/1998,Thu,Tulane,10,41,Brigham Young,,27,52192,QB Shaun King (Tulane),AXA Financial,Liberty Bowl
+603,1997,12/31/1997,Wed,Southern Mississippi,22,41,Pittsburgh,,7,50209,WR Sherrod Gideon (Southern Mississippi),AXA Financial,Liberty Bowl
+604,1996,12/27/1996,Fri,Syracuse,23,30,Houston,,17,49163,RB Malcolm Thomas (Syracuse),,Liberty Bowl
+605,1995,12/30/1995,Sat,East Carolina,,19,Stanford,,13,47398,K Chad Holcomb (East Carolina),,Liberty Bowl
+606,1994,12/31/1994,Sat,Illinois,,30,East Carolina,,0,33280,QB Johnny Johnson (Illinois),,Liberty Bowl
+607,1993,12/28/1993,Tue,Louisville,25,18,Michigan State,,7,21097,QB Jeff Brohm (Louisville),,Liberty Bowl
+608,1992,12/31/1992,Thu,Mississippi,20,13,Air Force,,0,32107,LB Cassius Ware (Mississippi),,Liberty Bowl
+609,1991,12/29/1991,Sun,Air Force,,38,Mississippi State,,15,61497,QB Rob Perez (Air Force),,Liberty Bowl
+610,1990,12/27/1990,Thu,Air Force,,23,Ohio State,24,11,13144,QB Rob Perez (Air Force),,Liberty Bowl
+611,1989,12/28/1989,Thu,Mississippi,,42,Air Force,,29,60128,RB Randy Baldwin (Mississippi),,Liberty Bowl
+612,1988,12/28/1988,Wed,Indiana,,34,South Carolina,,10,39210,QB Dave Schnell (Indiana),,Liberty Bowl
+613,1987,12/29/1987,Tue,Georgia,15,20,Arkansas,,17,53249,QB Greg Thomas (Arkansas),,Liberty Bowl
+614,1986,12/29/1986,Mon,Tennessee,,21,Minnesota,,14,51327,QB Jeff Francis (Tennessee),,Liberty Bowl
+615,1985,12/27/1985,Fri,Baylor,,21,Louisiana State,12,7,40186,QB Cody Carlson (Baylor),,Liberty Bowl
+616,1984,12/27/1984,Thu,Auburn,16,21,Arkansas,,15,50108,RB Bo Jackson (Auburn),,Liberty Bowl
+617,1983,12/29/1983,Thu,Notre Dame,,19,Boston College,13,18,38229,QB Doug Flutie (Boston College),,Liberty Bowl
+618,1982,12/29/1982,Wed,Alabama,,21,Illinois,,15,54123,DB Jeremiah Castille (Alabama),,Liberty Bowl
+619,1981,12/30/1981,Wed,Ohio State,15,31,Navy,,28,43216,RB Eddie Myers (Navy),,Liberty Bowl
+620,1980,12/27/1980,Sat,Purdue,,28,Missouri,,25,53667,QB Mark Herrmann (Purdue),,Liberty Bowl
+621,1979,12/22/1979,Sat,Penn State,,9,Tulane,15,6,50021,QB Roch Hontas (Tulane),,Liberty Bowl
+622,1978,12/23/1978,Sat,Missouri,18,20,Louisiana State,,15,53064,RB James Wilder (Missouri),,Liberty Bowl
+623,1977,12/19/1977,Mon,Nebraska,12,21,North Carolina,14,17,49456,QB Matt Kupec (North Carolina),,Liberty Bowl
+624,1976,12/20/1976,Mon,Alabama,16,36,UCLA,7,6,52736,LB Barry Krauss (Alabama),,Liberty Bowl
+625,1975,12/22/1975,Mon,Southern California,,20,Texas A&M,2,0,52129,RB Ricky Bell (Southern California),,Liberty Bowl
+626,1974,12/16/1974,Mon,Tennessee,,7,Maryland,10,3,51284,DL Randy White (Maryland),,Liberty Bowl
+627,1973,12/17/1973,Mon,North Carolina State,16,31,Kansas,19,18,50011,RB Stan Fritts (North Carolina State),,Liberty Bowl
+628,1972,12/18/1972,Mon,Georgia Tech,,31,Iowa State,,30,50021,QB Jim Stevens (Georgia Tech),,Liberty Bowl
+629,1971,12/20/1971,Mon,Tennessee,9,14,Arkansas,18,13,51410,QB Joe Ferguson (Arkansas),,Liberty Bowl
+630,1970,12/12/1970,Sat,Tulane,,17,Colorado,,3,44640,RB Dave Abercrombie (Tulane),,Liberty Bowl
+631,1969,12/13/1969,Sat,Colorado,,47,Alabama,,33,50042,RB Bobby Anderson (Colorado),,Liberty Bowl
+632,1968,12/14/1968,Sat,Mississippi,,34,Virginia Tech,,17,46206,RB Steve Hindman (Mississippi),,Liberty Bowl
+633,1967,12/16/1967,Sat,North Carolina State,,14,Georgia,,7,35045,QB Jim Donnan (North Carolina State),,Liberty Bowl
+634,1966,12/10/1966,Sat,Miami,,14,Virginia Tech,,7,39101,WR Jimmy Cox (Miami (FL)),,Liberty Bowl
+635,1965,12/18/1965,Sat,Mississippi,,13,Auburn,,7,38607,RB Tom Bryan (Auburn),,Liberty Bowl
+636,1964,12/19/1964,Sat,Utah,,32,West Virginia,,6,6059,QB Ernest Allen (Utah),,Liberty Bowl
+637,1963,12/21/1963,Sat,Mississippi State,,16,North Carolina State,,12,8309,RB Ode Burrell (Mississippi State),,Liberty Bowl
+638,1962,12/15/1962,Sat,Oregon State,,6,Villanova,,0,17048,QB Terry Baker (Oregon State),,Liberty Bowl
+639,1961,12/16/1961,Sat,Syracuse,,15,Miami,,14,15712,RB Ernie Davis (Syracuse),,Liberty Bowl
+640,1960,12/17/1960,Sat,Penn State,15,41,Oregon,,12,16624,RB Dick Hoak (Penn State),,Liberty Bowl
+641,1959,12/19/1959,Sat,Penn State,14,7,Alabama,11,0,36211,OL Jay Huffman (Penn State),,Liberty Bowl
+642,2021,1/4/2022,Tue,Kansas State,,42,Louisiana State,,20,52207,Kansas State QB Skylar Thompson,TaxAct,Texas Bowl
+643,2019,12/27/2019,Fri,Texas A&M,,24,Oklahoma State,25,21,68415,Texas A&M QB Kellen Mond,Academy Sports + Outdoors,Texas Bowl
+644,2018,12/27/2018,Thu,Baylor,,45,Vanderbilt,,38,51104,Baylor QB Charlie Brewer,Academy Sports + Outdoors,Texas Bowl
+645,2017,12/27/2017,Wed,Texas,,33,Missouri,,16,67820,Texas P Michael Dickson,Academy Sports + Outdoors,Texas Bowl
+646,2016,12/28/2016,Wed,Kansas State,,33,Texas A&M,,28,71054,KSU QB Jesse Ertz,AdvoCare V100,Texas Bowl
+647,2015,12/29/2015,Tue,Louisiana State,22,56,Texas Tech,,27,71054,LSU RB Leonard Fournette,AdvoCare V100,Texas Bowl
+648,2014,12/29/2014,Mon,Arkansas,,31,Texas,,7,71115,QB Brandon Allen (Arkansas),,Texas Bowl
+649,2012,12/28/2012,Fri,Texas Tech,,34,Minnesota,,31,50386,QB Seth Doege (Texas Tech),Meineke Car Care,Texas Bowl
+650,2011,12/31/2011,Sat,Texas A&M,,33,Northwestern,,22,68395,QB Ryan Tannehill (Texas A&M),Meineke Car Care,Texas Bowl
+651,2010,12/29/2010,Wed,Illinois,,38,Baylor,,14,68211,RB Mikel Leshoure (Illinois),,Texas Bowl
+652,2009,12/31/2009,Thu,Navy,,35,Missouri,,13,69441,QB Ricky Dobbs (Navy),,Texas Bowl
+653,2008,12/30/2008,Tue,Rice,,38,Western Michigan,,14,58880,QB Chase Clement (Rice),,Texas Bowl
+654,2007,12/28/2007,Fri,Texas Christian,,20,Houston,,13,62097,QB Andy Dalton (Texas Christian),,Texas Bowl
+655,2006,12/28/2006,Thu,Rutgers,16,37,Kansas State,,10,52210,RB Ray Rice (Rutgers),,Texas Bowl
+656,2021,12/30/2021,Thu,Purdue,,48,Tennessee,,45,69489,Purdue WR Broc Thompson,TransPerfect,Music City Bowl
+657,2019,12/30/2019,Mon,Louisville,,38,Mississippi State,,28,46850,Louisville QB Micale Cunningham,Franklin American Mortgage,Music City Bowl
+658,2018,12/28/2018,Fri,Auburn,,63,Purdue,,14,59024,Auburn QB Jarrett Stidham,Franklin American Mortgage,Music City Bowl
+659,2017,12/29/2017,Fri,Northwestern,20,24,Kentucky,,23,48675,Northwestern RB Justin Jackson,Franklin American Mortgage,Music City Bowl
+660,2016,12/30/2016,Fri,Tennessee,,38,Nebraska,24,24,68496,Tennessee QB Joshua Dobbs,Franklin American Mortgage,Music City Bowl
+661,2015,12/30/2015,Wed,Louisville,,27,Texas A&M,,21,50478,Louisville QB Lamar Jackson,Franklin American Mortgage,Music City Bowl
+662,2014,12/30/2014,Tue,Notre Dame,,31,Louisiana State,22,28,60149,QB Malik Zaire (Notre Dame),Franklin Mortgage,Music City Bowl
+663,2013,12/30/2013,Mon,Mississippi,,25,Georgia Tech,,17,52125,QB Bo Wallace (Ole Miss),Franklin American Mortgage,Music City Bowl
+664,2012,12/31/2012,Mon,Vanderbilt,,38,North Carolina State,,24,55801,RB Zac Stacy (Vanderbilt),Franklin American Mortgage,Music City Bowl
+665,2011,12/30/2011,Fri,Mississippi State,,23,Wake Forest,,17,55208,RB Vick Ballard (Mississippi State),Franklin American Mortgage,Music City Bowl
+666,2010,12/30/2010,Thu,North Carolina,,30,Tennessee,,27,69143,RB Shaun Draughn (North Carolina),Franklin American Mortgage,Music City Bowl
+667,2009,12/27/2009,Sun,Clemson,,21,Kentucky,,13,57280,RB CJ Spiller (Clemson),Gaylord Hotels,Music City Bowl
+668,2008,12/31/2008,Wed,Vanderbilt,,16,Boston College,,14,54250,P Brett Upson (Vanderbilt),Gaylord Hotels,Music City Bowl
+669,2007,12/31/2007,Mon,Kentucky,,35,Florida State,,28,68661,QB Andre Woodson (Kentucky),Bridgestone,Music City Bowl
+670,2006,12/29/2006,Fri,Kentucky,,28,Clemson,,20,68024,QB Andre Woodson (Kentucky),Bridgestone,Music City Bowl
+671,2005,12/30/2005,Fri,Virginia,,34,Minnesota,,31,40519,QB Marques Hagans (Virginia),Bridgestone,Music City Bowl
+672,2004,12/31/2004,Fri,Minnesota,,20,Alabama,,16,66089,RB Marion Barber (Minnesota),Bridgestone,Music City Bowl
+673,2003,12/31/2003,Wed,Auburn,,28,Wisconsin,,14,55109,QB Jason Campbell (Auburn),Bridgestone,Music City Bowl
+674,2002,12/30/2002,Mon,Minnesota,,29,Arkansas,25,14,39183,K Dan Nystrom (Minnesota),,Music City Bowl
+675,2001,12/28/2001,Fri,Boston College,,20,Georgia,16,16,46125,RB William Green (Boston College),,Music City Bowl
+676,2000,12/28/2000,Thu,West Virginia,,49,Mississippi,,38,47119,QB Brad Lewis (West Virginia),,Music City Bowl
+677,1999,12/29/1999,Wed,Syracuse,,20,Kentucky,,13,59221,RB James Mungro (Syracuse),homepoint,Music City Bowl
+678,1998,12/29/1998,Tue,Virginia Tech,,38,Alabama,,7,41248,DL Corey Moore (Virginia Tech),American General Life and Accident,Music City Bowl
+679,2021,12/20/2021,Mon,Tulsa,,30,Old Dominion,,17,6557,Tulsa QB Davis Brin,,Myrtle Beach Bowl
+680,2020,12/21/2020,Mon,Appalachian State,,56,North Texas,,28,5000,Appalachian State RB Camerun Peoples,,Myrtle Beach Bowl
+681,2021,12/18/2021,Sat,Fresno State,,31,Texas-El Paso,,24,16422,"Fresno State RB Jordan Mims, Fresno State DB Elijah Gates",PUBG Mobile,New Mexico Bowl
+682,2020,12/24/2020,Thu,Hawaii,,28,Houston,,14,2060,"Hawaii WR Calvin Turner, Hawaii LB Darius Muasau",,New Mexico Bowl
+683,2019,12/21/2019,Sat,San Diego State,,48,Central Michigan,,11,18823,"SDSU RB Jordan Byrd, SDSU WR Jesse Matthews, SDSU LB Kyahva Tezino",,New Mexico Bowl
+684,2018,12/15/2018,Sat,Utah State,,52,North Texas,,13,25387,"Utah State QB Jordan Love, Utah State DB DJ Williams",,New Mexico Bowl
+685,2017,12/16/2017,Sat,Marshall,,31,Colorado State,,28,26087,"Marshall WR Tyre Brady, Marshall LB Channing Hames",Gildan,New Mexico Bowl
+686,2016,12/17/2016,Sat,New Mexico,,23,Texas-San Antonio,,20,29688,"New Mexico QB Lamar Jordan, New Mexico LB Dakota Cox",Gildan,New Mexico Bowl
+687,2015,12/19/2015,Sat,Arizona,,45,New Mexico,,37,30289,"Arizona QB Anu Solomon, Arizona LB Scooby Wright III",Gildan,New Mexico Bowl
+688,2014,12/20/2014,Sat,Utah State,,21,Texas-El Paso,,6,28725,"QB Kent Myers (Utah State), LB Zach Vigil (Utah State)",Gildan,New Mexico Bowl
+689,2013,12/21/2013,Sat,Colorado State,,48,Washington State,,45,27104,"QB Connor Halliday (WSU), DE Shaquil Barrett (CSU)",Gildan,New Mexico Bowl
+690,2012,12/15/2012,Sat,Arizona,,49,Nevada,,48,24610,"QB Matt Scott (Arizona), LB Marquis Flowers (Arizona)",Gildan,New Mexico Bowl
+691,2011,12/17/2011,Sat,Temple,,37,Wyoming,,15,25762,"QB Chris Coyer (Temple), LB Tahir Whitehead (Temple)",Gildan,New Mexico Bowl
+692,2010,12/18/2010,Sat,Brigham Young,,52,Texas-El Paso,,24,32424,"QB Jake Heaps (Brigham Young), DB Andrew Rich (Brigham Young)",,New Mexico Bowl
+693,2009,12/19/2009,Sat,Wyoming,,35,Fresno State,,28,24898,"QB Austyn Carta-Samuels (Wyoming), DL Mitch Unrein (Wyoming)",,New Mexico Bowl
+694,2008,12/20/2008,Sat,Colorado State,,40,Fresno State,,35,24735,"RB Gartrell Johnson (Colorado State), DL Tommie Hill (Colorado State)",,New Mexico Bowl
+695,2007,12/22/2007,Sat,New Mexico,,23,Nevada,,0,30233,"QB Donovan Porterie (New Mexico), LB Brett Madsen (New Mexico)",,New Mexico Bowl
+696,2006,12/23/2006,Sat,San Jose State,,20,New Mexico,,12,34111,"WR James Jones (San Jose State), LB Matt Castelo (San Jose State)",,New Mexico Bowl
+697,2021,12/18/2021,Sat,Louisiana,16,36,Marshall,,21,21642,Louisiana QB Levi Lewis,R+L Carriers,New Orleans Bowl
+698,2020,12/23/2020,Wed,Georgia Southern,,38,Louisiana Tech,,3,3000,Georgia Southern QB Shai Werts,R+L Carriers,New Orleans Bowl
+699,2019,12/21/2019,Sat,Appalachian State,20,31,Alabama-Birmingham,,17,21202,Appalachian State RB Darrynton Evans,R+L Carriers,New Orleans Bowl
+700,2018,12/15/2018,Sat,Appalachian State,,45,Middle Tennessee State,,13,23942,Appalachian State QB Zac Thomas,R+L Carriers,New Orleans Bowl
+701,2017,12/16/2017,Sat,Troy,,50,North Texas,,30,24904,Troy QB Brandon Silvers,R+L Carriers,New Orleans Bowl
+702,2016,12/17/2016,Sat,Southern Mississippi,,28,Louisiana,,21,35061,Southern Miss WR Allenzae Staggers,R+L Carriers,New Orleans Bowl
+703,2015,12/19/2015,Sat,Louisiana Tech,,47,Arkansas State,,28,32487,Louisiana Tech RB Kenneth Dixon,R+L Carriers,New Orleans Bowl
+704,2014,12/20/2014,Sat,Louisiana,,16,Nevada,,3,34014,QB Terrance Broadway (Louisiana-Lafayette),R+L Carriers,New Orleans Bowl
+705,2013,12/21/2013,Sat,Louisiana,,24,Tulane,,21,54728,RB Orleans Darkwa (Tulane),R+L Carriers,New Orleans Bowl
+706,2012,12/22/2012,Sat,Louisiana,,43,East Carolina,,34,48828,QB Terrance Broadway (Louisiana-Lafayette),R+L Carriers,New Orleans Bowl
+707,2011,12/17/2011,Sat,Louisiana,,32,San Diego State,,30,42841,QB Blaine Gautier (Louisiana-Lafayette),R+L Carriers,New Orleans Bowl
+708,2010,12/18/2010,Sat,Troy,,48,Ohio,,21,29159,QB Corey Robinson (Troy),R+L Carriers,New Orleans Bowl
+709,2009,12/20/2009,Sun,Middle Tennessee State,,42,Southern Mississippi,,32,30228,QB Dwight Dasher (Middle Tennessee State),R+L Carriers,New Orleans Bowl
+710,2008,12/21/2008,Sun,Southern Mississippi,,30,Troy,,27,30197,QB Austin Davis (Southern Mississippi),R+L Carriers,New Orleans Bowl
+711,2007,12/21/2007,Fri,Florida Atlantic,,44,Memphis,,27,25146,QB Rusty Smith (Florida Atlantic),R+L Carriers,New Orleans Bowl
+712,2006,12/22/2006,Fri,Troy,,41,Rice,,17,24791,QB Omar Haugabook (Troy),R+L Carriers,New Orleans Bowl
+713,2005,12/20/2005,Tue,Southern Mississippi,,31,Arkansas State,,19,18338,TE Shawn Nelson (Southern Mississippi),,New Orleans Bowl
+714,2004,12/14/2004,Tue,Southern Mississippi,,31,North Texas,,10,27253,LB Michael Boley (Southern Mississippi),Wyndham Hotels & Resorts,New Orleans Bowl
+715,2003,12/16/2003,Tue,Memphis,,27,North Texas,,17,25184,QB Danny Wimprine (Memphis),Wyndham Hotels & Resorts,New Orleans Bowl
+716,2002,12/17/2002,Tue,North Texas,,24,Cincinnati,,19,19024,RB Kevin Galbreath (North Texas),Wyndham Hotels & Resorts,New Orleans Bowl
+717,2001,12/18/2001,Tue,Colorado State,,45,North Texas,,20,27004,DB Justin Gallimore (Colorado State),,New Orleans Bowl
+718,2021,12/31/2021,Fri,Georgia,3,34,Michigan,2,11,66839,"Georgia QB Stetson Bennett, Georgia CB Derion Kendrick",Capital One,Orange Bowl
+719,2020,1/2/2021,Sat,Texas A&M,5,41,North Carolina,14,27,13737,Texas A&M RB Devon Achane,Capital One,Orange Bowl
+720,2019,12/30/2019,Mon,Florida,6,36,Virginia,,28,65157,Florida RB Lamical Perine,Capital One,Orange Bowl
+721,2018,12/29/2018,Sat,Alabama,1,45,Oklahoma,4,34,66203,"Alabama QB Tua Tagovailoa, Alabama S Xavier McKinney",Capital One,Orange Bowl
+722,2017,12/30/2017,Sat,Wisconsin,6,34,Miami,,24,65326,Wisconsin QB Alex Hornibrook,Capital One,Orange Bowl
+723,2016,12/30/2016,Fri,Florida State,10,33,Michigan,6,32,65326,FSU RB Dalvin Cook,Capital One,Orange Bowl
+724,2015,12/31/2015,Thu,Clemson,1,37,Oklahoma,4,17,67615,"Clemson QB Deshaun Watson, Clemson LB Ben Boulware",Capital One,Orange Bowl
+725,2014,12/31/2014,Wed,Georgia Tech,10,49,Mississippi State,8,34,58211,QB Justin Thomas (Georgia Tech),Capital One,Orange Bowl
+726,2013,1/3/2014,Fri,Clemson,12,40,Ohio State,7,35,72080,WR Sammy Watkins (Clemson),Discover Financial,Orange Bowl
+727,2012,1/1/2013,Tue,Florida State,13,31,Northern Illinois,16,10,72073,RB Lonnie Pryor (Florida State),Discover Financial,Orange Bowl
+728,2011,1/4/2012,Wed,West Virginia,23,70,Clemson,14,33,67563,QB Geno Smith (West Virginia),Discover Financial,Orange Bowl
+729,2010,1/3/2011,Mon,Stanford,5,40,Virginia Tech,12,12,65453,QB Andrew Luck (Stanford),Discover Financial,Orange Bowl
+730,2009,1/5/2010,Tue,Iowa,10,24,Georgia Tech,9,14,66131,DL Adrian Clayborn (Iowa),FedEx,Orange Bowl
+731,2008,1/1/2009,Thu,Virginia Tech,21,20,Cincinnati,12,7,73602,RB Darren Evans (Virginia Tech),FedEx,Orange Bowl
+732,2007,1/3/2008,Thu,Kansas,8,24,Virginia Tech,5,21,74111,DB Aqib Talib (Kansas),FedEx,Orange Bowl
+733,2006,1/2/2007,Tue,Louisville,5,24,Wake Forest,15,13,74470,QB Brian Brohm (Louisville),FedEx,Orange Bowl
+734,2005,1/3/2006,Tue,Penn State,3,26,Florida State,22,23,77773,WR Willie Reid (Florida State),FedEx,Orange Bowl
+735,2004,1/4/2005,Tue,Southern California,1,55,Oklahoma,2,19,77912,QB Matt Leinart (Southern California),FedEx,Orange Bowl
+736,2003,1/1/2004,Thu,Miami,,16,Florida State,9,14,76739,RB Jarrett Payton (Miami (FL)),FedEx,Orange Bowl
+737,2002,1/2/2003,Thu,Southern California,5,38,Iowa,3,17,75971,QB Carson Palmer (Southern California),FedEx,Orange Bowl
+738,2001,1/2/2002,Wed,Florida,5,56,Maryland,6,23,73640,WR Taylor Jacobs (Florida),FedEx,Orange Bowl
+739,2000,1/3/2001,Wed,Oklahoma,1,13,Florida State,3,2,76835,LB Torrance Marshall (Oklahoma),FedEx,Orange Bowl
+740,1999,1/1/2000,Sat,Michigan,8,35,Alabama,5,34,70461,WR David Terrell (Michigan),FedEx,Orange Bowl
+741,1998,1/2/1999,Sat,Florida,7,31,Syracuse,18,10,67919,WR Travis Taylor (Florida),FedEx,Orange Bowl
+742,1997,1/2/1998,Fri,Nebraska,2,42,Tennessee,3,17,74002,RB Ahman Green (Nebraska),FedEx,Orange Bowl
+743,1996,12/31/1996,Tue,Nebraska,6,41,Virginia Tech,10,21,63297,"RB Damon Benning (Nebraska), RB Ken Oxendine (Virginia Tech)",FedEx,Orange Bowl
+744,1995,1/1/1996,Mon,Florida State,8,31,Notre Dame,6,26,72198,"WR Andre Cooper (Florida State), WR Derrick Mayes (Notre Dame)",FedEx,Orange Bowl
+745,1994,1/1/1995,Sun,Nebraska,1,24,Miami,,17,81753,"QB Tommie Frazier (Nebraska), WR Chris T. Jones (Miami (FL))",FedEx,Orange Bowl
+746,1993,1/1/1994,Sat,Florida State,1,18,Nebraska,2,16,81536,"QB Charlie Ward (Florida State), QB Tommie Frazier (Nebraska)",FedEx,Orange Bowl
+747,1992,1/1/1993,Fri,Florida State,3,27,Nebraska,11,14,57324,"QB Charlie Ward (Florida State), WR Corey Dixon (Nebraska)",FedEx,Orange Bowl
+748,1991,1/1/1992,Wed,Miami,,22,Nebraska,11,0,77747,"RB Larry Jones (Miami (FL)), DB Tyrone Leggette (Nebraska)",FedEx,Orange Bowl
+749,1990,1/1/1991,Tue,Colorado,1,10,Notre Dame,5,9,77062,"QB Charles S. Johnson (Colorado), DL Chris Zorich (Notre Dame)",FedEx,Orange Bowl
+750,1989,1/1/1990,Mon,Notre Dame,4,21,Colorado,1,6,81190,"WR Raghib Ismail (Notre Dame), QB Darian Hagan (Colorado)",FedEx,Orange Bowl
+751,1988,1/2/1989,Mon,Miami,,23,Nebraska,6,3,79480,"QB Steve Walsh (Miami (FL)), DB Charles Fryer (Nebraska)",FedEx,Orange Bowl
+752,1987,1/1/1988,Fri,Miami,,20,Oklahoma,1,14,74760,"LB Bernard Clark (Miami (FL)), DL Darrell Reed (Oklahoma)",,Orange Bowl
+753,1986,1/1/1987,Thu,Oklahoma,3,42,Arkansas,9,8,52717,"RB Spencer Tillman (Oklahoma), LB Dante Jones (Oklahoma)",,Orange Bowl
+754,1985,1/1/1986,Wed,Oklahoma,3,25,Penn State,1,10,74178,"K Tim Lasher (Oklahoma), DB Sonny Brown (Oklahoma)",,Orange Bowl
+755,1984,1/1/1985,Tue,Washington,4,28,Oklahoma,2,17,56294,"RB Jacque Robinson (Washington), DL Ron Holmes (Washington)",,Orange Bowl
+756,1983,1/2/1984,Mon,Miami,,31,Nebraska,1,30,72549,"QB Bernie Kosar (Miami (FL)), LB Jack Fernandez (Miami (FL))",,Orange Bowl
+757,1982,1/1/1983,Sat,Nebraska,3,21,Louisiana State,13,20,68713,"QB Turner Gill (Nebraska), OL Dave Rimington (Nebraska)",,Orange Bowl
+758,1981,1/1/1982,Fri,Clemson,1,22,Nebraska,4,15,72748,"QB Homer Jordan (Clemson), LB Jeff Davis (Clemson)",,Orange Bowl
+759,1980,1/1/1981,Thu,Oklahoma,4,18,Florida State,2,17,71043,"QB J. C. Watts (Oklahoma), DL Jarvis Coursey (Florida State)",,Orange Bowl
+760,1979,1/1/1980,Tue,Oklahoma,5,24,Florida State,4,7,66714,"QB J. C. Watts (Oklahoma), DB Bud Hebert (Oklahoma)",,Orange Bowl
+761,1978,1/1/1979,Mon,Oklahoma,4,31,Nebraska,6,24,66365,"RB Billy Sims (Oklahoma), DL Reggie Kinlaw (Oklahoma)",,Orange Bowl
+762,1977,1/2/1978,Mon,Arkansas,6,31,Oklahoma,2,6,60987,"RB Roland Sales (Arkansas), DL Reggie Freeman (Arkansas)",,Orange Bowl
+763,1976,1/1/1977,Sat,Ohio State,11,27,Colorado,12,10,65537,"QB Rod Gerald (Ohio State), LB Tom Cousineau (Ohio State)",,Orange Bowl
+764,1975,1/1/1976,Thu,Oklahoma,3,14,Michigan,5,6,76799,"QB Steve Davis (Oklahoma), OL Lee Roy Selmon (Oklahoma)",,Orange Bowl
+765,1974,1/1/1975,Wed,Notre Dame,9,13,Alabama,2,11,71801,"RB Wayne Bullock (Notre Dame), DL Leroy Cook (Alabama)",,Orange Bowl
+766,1973,1/1/1974,Tue,Penn State,6,16,Louisiana State,13,9,60477,"QB Tom Shuman (Penn State), DL Randy Crowder (Penn State)",,Orange Bowl
+767,1972,1/1/1973,Mon,Nebraska,9,40,Notre Dame,12,6,80010,"WB Johnny Rodgers (Nebraska), DL Rich Glover (Nebraska)",,Orange Bowl
+768,1971,1/1/1972,Sat,Nebraska,1,38,Alabama,2,6,78151,"QB Jerry Tagge (Nebraska), DL Willie Harper (Nebraska)",,Orange Bowl
+769,1970,1/1/1971,Fri,Nebraska,3,17,Louisiana State,5,12,80699,"QB Jerry Tagge (Nebraska), DL Willie Harper (Nebraska)",,Orange Bowl
+770,1969,1/1/1970,Thu,Penn State,2,10,Missouri,6,3,77282,"QB Chuck Burkhart (Penn State), DL Mike Reid (Penn State)",,Orange Bowl
+771,1968,1/1/1969,Wed,Penn State,3,15,Kansas,6,14,77719,RB Donnie Shanklin (Kansas),,Orange Bowl
+772,1967,1/1/1968,Mon,Oklahoma,5,26,Tennessee,2,24,77993,QB Bob Warmack (Oklahoma),,Orange Bowl
+773,1966,1/2/1967,Mon,Florida,,27,Georgia Tech,8,12,72426,RB Larry Smith (Florida),,Orange Bowl
+774,1965,1/1/1966,Sat,Alabama,4,39,Nebraska,3,28,72214,QB Steve Sloan (Alabama),,Orange Bowl
+775,1964,1/1/1965,Fri,Texas,5,21,Alabama,2,17,72647,QB Joe Namath (Alabama),,Orange Bowl
+776,1963,1/1/1964,Wed,Nebraska,6,13,Auburn,5,7,72647,,,Orange Bowl
+777,1962,1/1/1963,Tue,Alabama,5,17,Oklahoma,8,0,72880,,,Orange Bowl
+778,1961,1/1/1962,Mon,Louisiana State,3,25,Colorado,6,7,68150,,,Orange Bowl
+779,1960,1/2/1961,Mon,Missouri,5,21,Navy,7,14,72212,,,Orange Bowl
+780,1959,1/1/1960,Fri,Georgia,5,14,Missouri,20,0,72186,,,Orange Bowl
+781,1958,1/1/1959,Thu,Oklahoma,3,21,Syracuse,10,6,75281,,,Orange Bowl
+782,1957,1/1/1958,Wed,Oklahoma,5,48,Duke,16,21,76561,,,Orange Bowl
+783,1956,1/1/1957,Tue,Colorado,19,27,Clemson,,21,73280,,,Orange Bowl
+784,1955,1/2/1956,Mon,Oklahoma,1,20,Maryland,3,6,76561,,,Orange Bowl
+785,1954,1/1/1955,Sat,Duke,20,34,Nebraska,,7,68750,,,Orange Bowl
+786,1953,1/1/1954,Fri,Oklahoma,4,7,Maryland,1,0,68840,,,Orange Bowl
+787,1952,1/1/1953,Thu,Alabama,8,61,Syracuse,16,6,66280,,,Orange Bowl
+788,1951,1/1/1952,Tue,Georgia Tech,6,17,Baylor,9,14,65839,,,Orange Bowl
+789,1950,1/1/1951,Mon,Clemson,11,15,Miami,,14,65181,,,Orange Bowl
+790,1949,1/2/1950,Mon,Santa Clara,14,21,Kentucky,20,13,64816,,,Orange Bowl
+791,1948,1/1/1949,Sat,Texas,,41,Georgia,12,28,60523,,,Orange Bowl
+792,1947,1/1/1948,Thu,Georgia Tech,9,20,Kansas,13,14,59578,,,Orange Bowl
+793,1946,1/1/1947,Wed,Rice,13,8,Tennessee,8,0,36152,,,Orange Bowl
+794,1945,1/1/1946,Tue,Miami,,13,Holy Cross,13,6,35709,,,Orange Bowl
+795,1944,1/1/1945,Mon,Tulsa,,26,Georgia Tech,,12,23279,,,Orange Bowl
+796,1943,1/1/1944,Sat,Louisiana State,,19,Texas A&M,16,14,25203,,,Orange Bowl
+797,1942,1/1/1943,Fri,Alabama,7,37,Boston College,1,21,25166,,,Orange Bowl
+798,1941,1/1/1942,Thu,Georgia,20,40,Texas Christian,,26,35786,WR Bruce Alford Sr. (Texas Christian),,Orange Bowl
+799,1940,1/1/1941,Wed,Mississippi State,11,14,Georgetown,9,7,29554,,,Orange Bowl
+800,1939,1/1/1940,Mon,Georgia Tech,13,21,Missouri,7,7,29278,,,Orange Bowl
+801,1938,1/2/1939,Mon,Tennessee,4,17,Oklahoma,5,0,32191,,,Orange Bowl
+802,1937,1/1/1938,Sat,Auburn,,6,Michigan State,,0,18972,,,Orange Bowl
+803,1936,1/1/1937,Fri,Duquesne,12,13,Mississippi State,,12,9210,,,Orange Bowl
+804,1935,1/1/1936,Wed,Catholic,,20,Mississippi,,19,6568,,,Orange Bowl
+805,1934,1/1/1935,Tue,Bucknell,,26,Miami,,0,5134,,,Orange Bowl
+806,2021,1/1/2022,Sat,Arkansas,22,24,Penn State,,10,49577,Arkansas QB K.J. Jefferson,Outback Steakhouse,Outback Bowl
+807,2020,1/2/2021,Sat,Mississippi,,26,Indiana,7,20,11025,Ole Miss QB Matt Corral,,Outback Bowl
+808,2019,1/1/2020,Wed,Minnesota,16,31,Auburn,9,24,45652,Minnesota WR Tyler Johnson,Outback Steakhouse,Outback Bowl
+809,2018,1/1/2019,Tue,Iowa,,27,Mississippi State,18,22,40518,Iowa WR Nick Easley,Outback Steakhouse,Outback Bowl
+810,2017,1/1/2018,Mon,South Carolina,,26,Michigan,,19,45687,South Carolina QB Jake Bentley,Outback Steakhouse,Outback Bowl
+811,2016,1/2/2017,Mon,Florida,20,30,Iowa,21,3,51119,Florida DB Chauncey Gardner,Outback Steakhouse,Outback Bowl
+812,2015,1/1/2016,Fri,Tennessee,,45,Northwestern,12,6,53202,Tennessee RB Jalen Hurd,,Outback Bowl
+813,2014,1/1/2015,Thu,Wisconsin,17,34,Auburn,19,31,44023,RB Melvin Gordon (Wisconsin),,Outback Bowl
+814,2013,1/1/2014,Wed,Louisiana State,14,21,Iowa,,14,51296,RB Jeremy Hill (LSU),Outback Steakhouse,Outback Bowl
+815,2012,1/1/2013,Tue,South Carolina,11,33,Michigan,19,28,54527,WR Ace Sanders (South Carolina),Outback Steakhouse,Outback Bowl
+816,2011,1/2/2012,Mon,Michigan State,12,33,Georgia,18,30,49429,DB Brandon Boykin (Georgia),Outback Steakhouse,Outback Bowl
+817,2010,1/1/2011,Sat,Florida,,37,Penn State,,24,60574,DB Ahmad Black (Florida),Outback Steakhouse,Outback Bowl
+818,2009,1/1/2010,Fri,Auburn,,38,Northwestern,,35,49383,WR Darvin Adams (Auburn),Outback Steakhouse,Outback Bowl
+819,2008,1/1/2009,Thu,Iowa,,31,South Carolina,,10,55117,RB Shonn Greene (Iowa),Outback Steakhouse,Outback Bowl
+820,2007,1/1/2008,Tue,Tennessee,16,21,Wisconsin,18,17,60121,QB Erik Ainge (Tennessee),Outback Steakhouse,Outback Bowl
+821,2006,1/1/2007,Mon,Penn State,,20,Tennessee,17,10,65601,RB Tony Hunt (Penn State),Outback Steakhouse,Outback Bowl
+822,2005,1/2/2006,Mon,Florida,16,31,Iowa,25,24,65881,WR Dallas Baker (Florida),Outback Steakhouse,Outback Bowl
+823,2004,1/1/2005,Sat,Georgia,8,24,Wisconsin,16,21,62414,DL David Pollack (Georgia),Outback Steakhouse,Outback Bowl
+824,2003,1/1/2004,Thu,Iowa,13,37,Florida,17,17,65372,RB Fred Russell (Iowa),Outback Steakhouse,Outback Bowl
+825,2002,1/1/2003,Wed,Michigan,12,38,Florida,22,30,65101,RB Chris Perry (Michigan),Outback Steakhouse,Outback Bowl
+826,2001,1/1/2002,Tue,South Carolina,14,31,Ohio State,22,28,66249,QB Phil Petty (South Carolina),Outback Steakhouse,Outback Bowl
+827,2000,1/1/2001,Mon,South Carolina,,24,Ohio State,19,7,65229,RB Ryan Brewer (South Carolina),Outback Steakhouse,Outback Bowl
+828,1999,1/1/2000,Sat,Georgia,21,28,Purdue,19,25,54059,QB Drew Brees (Purdue),Outback Steakhouse,Outback Bowl
+829,1998,1/1/1999,Fri,Penn State,22,26,Kentucky,,14,66005,DL Courtney Brown (Penn State),Outback Steakhouse,Outback Bowl
+830,1997,1/1/1998,Thu,Georgia,12,33,Wisconsin,,6,56186,QB Mike Bobo (Georgia),Outback Steakhouse,Outback Bowl
+831,1996,1/1/1997,Wed,Alabama,16,17,Michigan,15,14,53161,LB Dwayne Rudd (Alabama),Outback Steakhouse,Outback Bowl
+832,1995,1/1/1996,Mon,Penn State,15,43,Auburn,16,14,65313,WR Bobby Engram (Penn State),,Outback Bowl
+833,1994,1/2/1995,Mon,Wisconsin,,34,Duke,25,20,61384,RB Terrell Fletcher (Wisconsin),,Outback Bowl
+834,1993,1/1/1994,Sat,Michigan,23,42,North Carolina State,,7,52649,RB Tyrone Wheatley (Michigan),,Outback Bowl
+835,1992,1/1/1993,Fri,Tennessee,17,38,Boston College,16,23,52056,QB Heath Shuler (Tennessee),,Outback Bowl
+836,1991,1/1/1992,Wed,Syracuse,16,24,Ohio State,25,17,57789,QB Marvin Graves (Syracuse),,Outback Bowl
+837,1990,1/1/1991,Tue,Clemson,14,30,Illinois,16,0,63154,QB DeChane Cameron (Clemson),,Outback Bowl
+838,1989,1/1/1990,Mon,Auburn,9,31,Ohio State,21,14,52535,QB Reggie Slack (Auburn),,Outback Bowl
+839,1988,1/2/1989,Mon,Syracuse,17,23,Louisiana State,16,10,51112,RB Robert Drummond (Syracuse),,Outback Bowl
+840,1987,1/2/1988,Sat,Michigan,,28,Alabama,,24,60156,RB Jamie Morris (Michigan),,Outback Bowl
+841,1986,12/23/1986,Tue,Boston College,,27,Georgia,17,24,25368,"DB Garry Moss (Georgia), QB James Jackson (Georgia)",,Outback Bowl
+842,2021,12/30/2021,Thu,Michigan State,11,31,Pittsburgh,13,21,41230,"Michigan State WR Jayden Reed, Michigan State LB Cal Haladay",Chick-fil-A,Peach Bowl
+843,2020,1/1/2021,Fri,Georgia,11,24,Cincinnati,6,21,15301,"Georgia K Jack Podlesny, Georgia LB Azeez Ojulari",Chick-fil-A,Peach Bowl
+844,2019,12/28/2019,Sat,Louisiana State,1,63,Oklahoma,4,28,78347,"LSU QB Joe Burrow, LSU LB K'Lavon Chaisson",Chick-fil-A,Peach Bowl
+845,2018,12/29/2018,Sat,Florida,10,41,Michigan,8,15,74006,Florida QB Feleipe Franks,Chick-fil-A,Peach Bowl
+846,2017,1/1/2018,Mon,Central Florida,10,34,Auburn,7,27,71109,"Central Florida QB McKenzie Milton, Central Florida LB Shaquem Griffin",Chick-fil-A,Peach Bowl
+847,2016,12/31/2016,Sat,Alabama,1,24,Washington,4,7,75996,"Alabama RB Bo Scarbrough, Alabama LB Ryan Anderson",Chick-fil-A,Peach Bowl
+848,2015,12/31/2015,Thu,Houston,14,38,Florida State,9,24,71007,"Houston QB Greg Ward, Jr., Houston CB William Jackson III",Chick-fil-A,Peach Bowl
+849,2014,12/31/2014,Wed,Texas Christian,6,42,Mississippi,9,3,65706,"QB Trevone Boykin (TCU), DE James McFarland (TCU)",Chick-Fil-A,Peach Bowl
+850,2013,12/31/2013,Tue,Texas A&M,20,52,Duke,22,48,67496,"QB Johnny Manziel (Texas A&M), DB Toney Hurd Jr. (Texas A&M)",Chick-fil-A,Peach Bowl
+851,2012,12/31/2012,Mon,Clemson,14,25,Louisiana State,9,24,68027,QB Tajh Boyd (Clemson),Chick-fil-A,Peach Bowl
+852,2011,12/31/2011,Sat,Auburn,,43,Virginia,,24,72919,"RB Onterio McCalebb (Auburn), DB Chris Davis (Auburn)",Chick-fil-A,Peach Bowl
+853,2010,12/31/2010,Fri,Florida State,23,26,South Carolina,19,17,72217,"QB Chris Thompson (Florida State), DB Greg Reid (Florida State)",Chick-fil-A,Peach Bowl
+854,2009,12/31/2009,Thu,Virginia Tech,12,37,Tennessee,,14,73777,"RB Ryan Williams (Virginia Tech), LB Cody Grimm (Virginia Tech)",Chick-fil-A,Peach Bowl
+855,2008,12/31/2008,Wed,Louisiana State,,38,Georgia Tech,14,3,71423,"QB Jordan Jefferson (Louisiana State), LB Perry Riley (Louisiana State)",Chick-fil-A,Peach Bowl
+856,2007,12/31/2007,Mon,Auburn,22,23,Clemson,15,20,74413,"RB C.J. Spiller (Clemson), DL Pat Sims (Auburn)",Chick-fil-A,Peach Bowl
+857,2006,12/30/2006,Sat,Georgia,,31,Virginia Tech,14,24,75406,"QB Matthew Stafford (Georgia), LB Tony Taylor (Georgia)",Chick-fil-A,Peach Bowl
+858,2005,12/30/2005,Fri,Louisiana State,10,40,Miami,,3,65620,"QB Matt Flynn (Louisiana State), DL Jim Morris (Miami (FL))",Chick-fil-A,Peach Bowl
+859,2004,12/31/2004,Fri,Miami,,27,Florida,20,10,69322,"WR Roscoe Parrish (Miami (FL)), DB Devin Hester (Miami (FL))",Chick-fil-A,Peach Bowl
+860,2003,1/2/2004,Fri,Clemson,,27,Tennessee,6,14,75125,"RB Chad Jasmin (Clemson), LB Leroy Hill (Clemson)",Chick-fil-A,Peach Bowl
+861,2002,12/31/2002,Tue,Maryland,20,30,Tennessee,,3,68330,"QB Scott McBrien (Maryland), LB E.J. Henderson (Maryland)",Chick-fil-A,Peach Bowl
+862,2001,12/31/2001,Mon,North Carolina,,16,Auburn,,10,71827,"QB Ronald Curry (North Carolina), DL Ryan Sims (North Carolina)",Chick-fil-A,Peach Bowl
+863,2000,12/29/2000,Fri,Louisiana State,,28,Georgia Tech,15,14,73614,"QB Rohan Davey (Louisiana State), LB Bradie James (Louisiana State)",Chick-fil-A,Peach Bowl
+864,1999,12/30/1999,Thu,Mississippi State,15,17,Clemson,,7,73315,"QB Wayne Madkin (Mississippi State), LB Keith Adams (Clemson)",Chick-fil-A,Peach Bowl
+865,1998,12/31/1998,Thu,Georgia,19,35,Virginia,13,33,72876,"RB Olandis Gary (Georgia), LB Wally Rainer (Virginia)",Chick-fil-A,Peach Bowl
+866,1997,1/2/1998,Fri,Auburn,13,21,Clemson,,17,71212,"QB Dameuyne Craig (Auburn), LB Anthony Simmons (Clemson)",,Peach Bowl
+867,1996,12/28/1996,Sat,Louisiana State,17,10,Clemson,,7,63622,"QB Herb Tyler (Louisiana State), LB Trevor Pryce (Clemson)",,Peach Bowl
+868,1995,12/30/1995,Sat,Virginia,18,34,Georgia,,27,70825,"RB Tiki Barber (Virginia), LB Whit Marshall (Georgia)",,Peach Bowl
+869,1994,1/1/1995,Sun,North Carolina State,23,28,Mississippi State,16,24,64902,"RB Tremayne Stephens (North Carolina State), DL Carl Reeves (North Carolina State)",,Peach Bowl
+870,1993,12/31/1993,Fri,Clemson,24,14,Kentucky,,13,63416,"RB Emory Smith (Clemson), LB Zane Beehn (Kentucky)",,Peach Bowl
+871,1992,1/2/1993,Sat,North Carolina,19,21,Mississippi State,24,17,69125,"RB Natrone Means (North Carolina), LB Marc Woodard (Mississippi State)",,Peach Bowl
+872,1991,1/1/1992,Wed,East Carolina,12,37,North Carolina State,21,34,59322,"QB Jeff Blake (East Carolina), DB Billy Ray Haynes (North Carolina State)",,Peach Bowl
+873,1990,12/29/1990,Sat,Auburn,,27,Indiana,,23,38912,"QB Stan White (Auburn), DB Mike Dumas (Indiana)",,Peach Bowl
+874,1989,12/30/1989,Sat,Syracuse,,19,Georgia,,18,44991,"RB Michael Owens (Syracuse), LB Morris Lewis (Georgia)",,Peach Bowl
+875,1988,12/31/1988,Sat,North Carolina State,,28,Iowa,,23,44635,"QB Shane Montgomery (North Carolina State), DB Michael Brooks (North Carolina State)",,Peach Bowl
+876,1987,1/2/1988,Sat,Tennessee,17,27,Indiana,,22,58737,"RB Reggie Cobb (Tennessee), LB Van Waiters (Indiana)",,Peach Bowl
+877,1986,12/31/1986,Wed,Virginia Tech,,25,North Carolina State,18,24,53668,"QB Erik Kramer (North Carolina State), DB Derrick Taylor (North Carolina State)",,Peach Bowl
+878,1985,12/31/1985,Tue,Army,,31,Illinois,,29,29857,"QB Rob Healy (Army), DB Peel Chronister (Army)",,Peach Bowl
+879,1984,12/31/1984,Mon,Virginia,,27,Purdue,,24,41107,"RB Howard Petty (Virginia), QB Ray Daly (Virginia)",,Peach Bowl
+880,1983,12/30/1983,Fri,Florida State,,28,North Carolina,,3,25648,"QB Eric Thomas (Florida State), DL Alphonso Carreker (Florida State)",,Peach Bowl
+881,1982,12/31/1982,Fri,Iowa,,28,Tennessee,,22,50134,"QB Chuck Long (Iowa), DL Clay Uhlenhake (Iowa)",,Peach Bowl
+882,1981,12/31/1981,Thu,West Virginia,,26,Florida,,6,37582,"RB Mickey Walczak (West Virginia), DB Don Stempie (West Virginia)",,Peach Bowl
+883,1980,1/2/1981,Fri,Miami,,20,Virginia Tech,,10,45384,"QB Jim Kelly (Miami (FL)), DL Jim Burt (Miami (FL))",,Peach Bowl
+884,1979,12/31/1979,Mon,Baylor,19,24,Clemson,18,18,57731,"QB Mike Brannan (Baylor), DL Andrew Melontree (Baylor)",,Peach Bowl
+885,1978,12/25/1978,Mon,Purdue,17,41,Georgia Tech,,21,20277,"QB Mark Herrmann (Purdue), DL Calvin Clark (Purdue)",,Peach Bowl
+886,1977,12/31/1977,Sat,North Carolina State,,24,Iowa State,,14,36733,"QB Johnny Evans (North Carolina State), DB Richard Carter (North Carolina State)",,Peach Bowl
+887,1976,12/31/1976,Fri,Kentucky,,21,North Carolina,19,0,54132,"RB Rod Stewart (Kentucky), LB Mike Martin (Kentucky)",,Peach Bowl
+888,1975,12/31/1975,Wed,West Virginia,,13,North Carolina State,,10,45134,"QB Dan Kendra (West Virginia), LB Ray Marshall (West Virginia)",,Peach Bowl
+889,1974,12/28/1974,Sat,Vanderbilt,,6,Texas Tech,,6,31695,"RB Larry Isaac (Texas Tech), DB Dennis Harrison (Vanderbilt)",,Peach Bowl
+890,1973,12/28/1973,Fri,Georgia,,17,Maryland,18,16,38107,"RB Louis Carter (Maryland), LB Sylvester Boler (Georgia)",,Peach Bowl
+891,1972,12/29/1972,Fri,North Carolina State,,49,West Virginia,18,13,52671,"QB Dave Buckey (North Carolina State), DL George Bell (North Carolina State)",,Peach Bowl
+892,1971,12/30/1971,Thu,Mississippi,17,41,Georgia Tech,,18,36711,"QB Norris Weese (Mississippi), LB Crowell Armstrong (Mississippi)",,Peach Bowl
+893,1970,12/30/1970,Wed,Arizona State,8,48,North Carolina,,26,52126,"RB Monroe Eley (Arizona State), DL Junior Ah You (Arizona State)",,Peach Bowl
+894,1969,12/30/1969,Tue,West Virginia,19,14,South Carolina,,3,48452,"RB Ed Williams (West Virginia), DL Carl Crennel (West Virginia)",,Peach Bowl
+895,1968,12/30/1968,Mon,Louisiana State,,31,Florida State,19,27,35545,"QB Mike Hillman (Louisiana State), DL Buddy Millican (Louisiana State)",,Peach Bowl
+896,2021,12/29/2021,Wed,Maryland,,54,Virginia Tech,,10,29653,Maryland QB Taulia Tagovailoa,New Era,Pinstripe Bowl
+897,2019,12/27/2019,Fri,Michigan State,,27,Wake Forest,,21,36895,Michigan State QB Brian Lewerke,New Era,Pinstripe Bowl
+898,2018,12/27/2018,Thu,Wisconsin,,35,Miami,,3,37821,Wisconsin RB Jonathan Taylor,New Era,Pinstripe Bowl
+899,2017,12/27/2017,Wed,Iowa,,27,Boston College,,20,37667,Iowa RB Akrum Wadley,New Era,Pinstripe Bowl
+900,2016,12/28/2016,Wed,Northwestern,,31,Pittsburgh,22,24,37918,Northwestern RB Justin Jackson,New Era,Pinstripe Bowl
+901,2015,12/26/2015,Sat,Duke,,44,Indiana,,41,37218,"Duke QB Thomas Sirk, Duke RB Shaun Wilson",New Era,Pinstripe Bowl
+902,2014,12/27/2014,Sat,Penn State,,31,Boston College,,30,49012,QB Christian Hackenberg (Penn State),New Era,Pinstripe Bowl
+903,2013,12/28/2013,Sat,Notre Dame,25,29,Rutgers,,16,47122,OT Zack Martin (Notre Dame),New Era,Pinstripe Bowl
+904,2012,12/29/2012,Sat,Syracuse,,38,West Virginia,,14,39098,RB Prince-Tyson Gulley (Syracuse),New Era,Pinstripe Bowl
+905,2011,12/30/2011,Fri,Rutgers,,27,Iowa State,,13,38328,RB Jawan Jamison (Rutgers),New Era,Pinstripe Bowl
+906,2010,12/30/2010,Thu,Syracuse,,36,Kansas State,,34,38274,RB Delon Carter (Syracuse),New Era,Pinstripe Bowl
+907,2021,12/27/2021,Mon,Western Michigan,,52,Nevada,,24,22321,Western Michigan RB Sean Tyler,Ford Motor Company,Quick Lane Bowl
+908,2019,12/26/2019,Thu,Pittsburgh,,34,Eastern Michigan,,30,34765,Pittsburgh QB Kenny Pickett,Quick Lane,Quick Lane Bowl
+909,2018,12/26/2018,Wed,Minnesota,,34,Georgia Tech,,10,27228,Minnesota RB Mohamed Ibrahim,Quick Lane,Quick Lane Bowl
+910,2017,12/26/2017,Tue,Duke,,36,Northern Illinois,,14,20211,Duke QB Daniel Jones,Quick Lane,Quick Lane Bowl
+911,2016,12/26/2016,Mon,Boston College,,36,Maryland,,30,19117,BC Defensive Line,Ford,Quick Lane Bowl
+912,2015,12/28/2015,Mon,Minnesota,,21,Central Michigan,,14,34217,Minnesota QB Mitch Leidner,,Quick Lane Bowl
+913,2014,12/26/2014,Fri,Rutgers,,40,North Carolina,,21,23876,RB Josh Hicks (MVP),,Quick Lane Bowl
+914,2021,1/1/2022,Sat,Ohio State,7,48,Utah,10,45,87842,Ohio State WR Jaxon Smith-Njigba,Capital One,Rose Bowl
+915,2020,1/1/2021,Fri,Alabama,1,31,Notre Dame,4,14,18373,"Alabama WR DeVonta Smith, Alabama CB Patrick Surtain II",Capital One,Rose Bowl
+916,2019,1/1/2020,Wed,Oregon,7,28,Wisconsin,11,27,90462,"Oregon QB Justin Herbert, Oregon S Brady Breeze",Northwestern Mutual,Rose Bowl
+917,2018,1/1/2019,Tue,Ohio State,5,28,Washington,9,23,91853,"Ohio State QB Dwayne Haskins, Ohio State S Brendon White",Northwestern Mutual,Rose Bowl
+918,2017,1/1/2018,Mon,Georgia,3,54,Oklahoma,2,48,92844,"Georgia RB Sony Michel, Georgia LB Roquan Smith",Northwestern Mutual,Rose Bowl
+919,2016,1/2/2017,Mon,Southern California,9,52,Penn State,5,49,95128,"USC QB Sam Darnold, USC DT Stevie Tu'ikolovatu",Northwestern Mutual,Rose Bowl
+920,2015,1/1/2016,Fri,Stanford,5,45,Iowa,6,16,94268,"Stanford RB Christian McCaffrey, Stanford DE Aziz Shittu",Northwestern Mutual,Rose Bowl
+921,2014,1/1/2015,Thu,Oregon,3,59,Florida State,2,20,91322,"QB Marcus Mariota (Oregon), LB Tony Washington (Oregon)",Northwestern Mutual,Rose Bowl
+922,2013,1/1/2014,Wed,Michigan State,4,24,Stanford,5,20,95173,QB Connor Cook (Michigan State),Vizio,Rose Bowl
+923,2012,1/1/2013,Tue,Stanford,8,20,Wisconsin,,14,93359,"RB Stepfan Taylor (Stanford), DB Usua Amanam (Stanford)",Vizio,Rose Bowl
+924,2011,1/2/2012,Mon,Oregon,6,45,Wisconsin,9,38,91245,"WR Lavasier Tuinei (Oregon), LB Kiko Alonso (Oregon)",Vizio,Rose Bowl
+925,2010,1/1/2011,Sat,Texas Christian,3,21,Wisconsin,4,19,94118,"QB Andy Dalton (Texas Christian), LB Tank Carder (Texas Christian)",Vizio,Rose Bowl
+926,2009,1/1/2010,Fri,Ohio State,8,26,Oregon,7,17,93963,"QB Terrelle Pryor (Ohio State), DL Kenny Rowe (Oregon)",Citi,Rose Bowl
+927,2008,1/1/2009,Thu,Southern California,5,38,Penn State,6,24,93293,"QB Mark Sanchez (Southern California), LB Kaluka Malava (Southern California)",Citi,Rose Bowl
+928,2007,1/1/2008,Tue,Southern California,6,49,Illinois,13,17,93923,"QB John David Booty (Southern California), LB Rey Maualuga (Southern California)",Citi,Rose Bowl
+929,2006,1/1/2007,Mon,Southern California,8,32,Michigan,3,18,93852,"WR Dwayne Jarrett (Southern California), OL Brian Cushing (Southern California)",Citi,Rose Bowl
+930,2005,1/4/2006,Wed,Texas,2,41,Southern California,1,38,93986,"QB Vince Young (Texas), DB Michael Huff (Texas)",Citi,Rose Bowl
+931,2004,1/1/2005,Sat,Texas,6,38,Michigan,13,37,93468,"QB Vince Young (Texas), LB LaMarr Woodley (Michigan)",Citi,Rose Bowl
+932,2003,1/1/2004,Thu,Southern California,1,28,Michigan,4,14,93849,QB Matt Leinart (Southern California),Citi,Rose Bowl
+933,2002,1/1/2003,Wed,Oklahoma,8,34,Washington State,7,14,86848,QB Nate Hybl (Oklahoma),Citi,Rose Bowl
+934,2001,1/3/2002,Thu,Miami,,37,Nebraska,4,14,93781,"QB Ken Dorsey (Miami (FL)), WR Andre Johnson (Miami (FL))",Sony/Playstation 2,Rose Bowl
+935,2000,1/1/2001,Mon,Washington,4,34,Purdue,14,24,94392,QB Marques Tuiasosopo (Washington),AT&T,Rose Bowl
+936,1999,1/1/2000,Sat,Wisconsin,4,17,Stanford,22,9,93731,RB Ron Dayne (Wisconsin),AT&T,Rose Bowl
+937,1998,1/1/1999,Fri,Wisconsin,9,38,UCLA,6,31,93872,RB Ron Dayne (Wisconsin),AT&T,Rose Bowl
+938,1997,1/1/1998,Thu,Michigan,1,21,Washington State,8,16,101219,QB Brian Griese (Michigan),,Rose Bowl
+939,1996,1/1/1997,Wed,Ohio State,4,20,Arizona State,2,17,100635,QB Joe Germaine (Ohio State),,Rose Bowl
+940,1995,1/1/1996,Mon,Southern California,17,41,Northwestern,3,32,100102,WR Keyshawn Johnson (Southern California),,Rose Bowl
+941,1994,1/2/1995,Mon,Penn State,2,38,Oregon,12,20,102247,"QB Danny O'Neil (Oregon), RB Ki-Jana Carter (Penn State)",,Rose Bowl
+942,1993,1/1/1994,Sat,Wisconsin,9,21,UCLA,14,16,101237,RB Brent Moss (Wisconsin),,Rose Bowl
+943,1992,1/1/1993,Fri,Michigan,7,38,Washington,9,31,94236,RB Tyrone Wheatley (Michigan),,Rose Bowl
+944,1991,1/1/1992,Wed,Washington,2,34,Michigan,4,14,103566,"DL Steve Emtman (Washington), QB Billy Joe Hobert (Washington)",,Rose Bowl
+945,1990,1/1/1991,Tue,Washington,8,46,Iowa,17,34,101273,DB Charles Mincy (Washington),,Rose Bowl
+946,1989,1/1/1990,Mon,Southern California,12,17,Michigan,3,10,103450,RB Ricky Ervins (Southern California),,Rose Bowl
+947,1988,1/2/1989,Mon,Michigan,11,22,Southern California,5,14,101688,RB Leroy Hoard (Michigan),,Rose Bowl
+948,1987,1/1/1988,Fri,Michigan State,8,20,Southern California,16,17,103847,LB Percy Snow (Michigan State),,Rose Bowl
+949,1986,1/1/1987,Thu,Arizona State,7,22,Michigan,4,15,103168,QB Jeff Van Raaphorst (Arizona State),,Rose Bowl
+950,1985,1/1/1986,Wed,UCLA,13,45,Iowa,4,28,103292,RB Eric Ball (UCLA),,Rose Bowl
+951,1984,1/1/1985,Tue,Southern California,18,20,Ohio State,6,17,102594,"QB Tim Green (Southern California), LB Jack Del Rio (Southern California)",,Rose Bowl
+952,1983,1/2/1984,Mon,UCLA,,45,Illinois,4,9,103217,QB Rick Neuheisel (UCLA),,Rose Bowl
+953,1982,1/1/1983,Sat,UCLA,5,24,Michigan,19,14,104991,"DB Don Rogers (UCLA), QB Tom Ramsey (UCLA)",,Rose Bowl
+954,1981,1/1/1982,Fri,Washington,12,28,Iowa,13,0,105611,RB Jacque Robinson (Washington),,Rose Bowl
+955,1980,1/1/1981,Thu,Michigan,5,23,Washington,16,6,104863,RB Butch Woolfolk (Michigan),,Rose Bowl
+956,1979,1/1/1980,Tue,Southern California,3,17,Ohio State,1,16,105526,RB Charles White (Southern California),,Rose Bowl
+957,1978,1/1/1979,Mon,Southern California,3,17,Michigan,5,10,105629,"RB Charles White (Southern California), QB Rick Leach (Michigan)",,Rose Bowl
+958,1977,1/2/1978,Mon,Washington,13,27,Michigan,4,20,105312,QB Warren Moon (Washington),,Rose Bowl
+959,1976,1/1/1977,Sat,Southern California,3,14,Michigan,2,6,106182,QB Vince Evans (Southern California),,Rose Bowl
+960,1975,1/1/1976,Thu,UCLA,11,23,Ohio State,1,10,105464,QB John Sciarra (UCLA),,Rose Bowl
+961,1974,1/1/1975,Wed,Southern California,5,18,Ohio State,3,17,106721,"QB Pat Haden (Southern California), WR John McKay (Southern California)",,Rose Bowl
+962,1973,1/1/1974,Tue,Ohio State,4,42,Southern California,7,21,105267,QB Cornelius Greene (Ohio State),,Rose Bowl
+963,1972,1/1/1973,Mon,Southern California,1,42,Ohio State,3,17,106869,RB Sam Cunningham (Southern California),,Rose Bowl
+964,1971,1/1/1972,Sat,Stanford,16,13,Michigan,4,12,103154,QB Don Bunce (Stanford),,Rose Bowl
+965,1970,1/1/1971,Fri,Stanford,12,27,Ohio State,2,17,103839,QB Jim Plunkett (Stanford),,Rose Bowl
+966,1969,1/1/1970,Thu,Southern California,5,10,Michigan,7,3,103878,WR Bob Chandler (Southern California),,Rose Bowl
+967,1968,1/1/1969,Wed,Ohio State,1,27,Southern California,2,16,102063,QB Rex Kern (Ohio State),,Rose Bowl
+968,1967,1/1/1968,Mon,Southern California,1,14,Indiana,,3,102946,RB O.J. Simpson (Southern California),,Rose Bowl
+969,1966,1/2/1967,Mon,Purdue,7,14,Southern California,,13,100807,DB John Charles (Purdue),,Rose Bowl
+970,1965,1/1/1966,Sat,UCLA,5,14,Michigan State,1,12,100087,DB Bob Stiles (UCLA),,Rose Bowl
+971,1964,1/1/1965,Fri,Michigan,4,34,Oregon State,8,7,100423,RB Mel Anthony (Michigan),,Rose Bowl
+972,1963,1/1/1964,Wed,Illinois,3,17,Washington,,7,96957,RB Jim Grabowski (Illinois),,Rose Bowl
+973,1962,1/1/1963,Tue,Southern California,1,42,Wisconsin,2,37,98698,"QB Pete Beathard (Southern California), QB Ron Vander Kelen (Wisconsin)",,Rose Bowl
+974,1961,1/1/1962,Mon,Minnesota,7,21,UCLA,,3,98214,QB Sandy Stephens (Minnesota),,Rose Bowl
+975,1960,1/2/1961,Mon,Washington,4,17,Minnesota,1,7,97314,QB Bob Schloredt (Washington),,Rose Bowl
+976,1959,1/1/1960,Fri,Washington,8,44,Wisconsin,6,8,100809,"QB Bob Schloredt (Washington), RB George Fleming (Washington)",,Rose Bowl
+977,1958,1/1/1959,Thu,Iowa,4,38,California,17,12,98297,RB Bob Jeter (Iowa),,Rose Bowl
+978,1957,1/1/1958,Wed,Ohio State,2,10,Oregon,,7,98202,QB Jack Crabtree (Oregon),,Rose Bowl
+979,1956,1/1/1957,Tue,Iowa,3,35,Oregon State,11,19,97126,QB Kenneth Ploen (Iowa),,Rose Bowl
+980,1955,1/2/1956,Mon,Michigan State,2,17,UCLA,4,14,100809,RB Walter Kowalczyk (Michigan State),,Rose Bowl
+981,1954,1/1/1955,Sat,Ohio State,1,20,Southern California,17,7,89191,QB Dave Leggett (Ohio State),,Rose Bowl
+982,1953,1/1/1954,Fri,Michigan State,3,28,UCLA,5,20,101000,RB Billy Wells (Michigan State),,Rose Bowl
+983,1952,1/1/1953,Thu,Southern California,2,7,Wisconsin,12,0,101500,QB Rudy Bukich (Southern California),,Rose Bowl
+984,1951,1/1/1952,Tue,Illinois,4,40,Stanford,8,7,96825,RB William Tate (Illinois),,Rose Bowl
+985,1950,1/1/1951,Mon,Michigan,,14,California,4,6,98939,RB Donald Dufek (Michigan),,Rose Bowl
+986,1949,1/2/1950,Mon,Ohio State,5,17,California,2,14,100963,RB Curly Morrison (Ohio State),,Rose Bowl
+987,1948,1/1/1949,Sat,Northwestern,7,20,California,5,14,93000,RB Frank Aschenbrenner (Northwestern),,Rose Bowl
+988,1947,1/1/1948,Thu,Michigan,2,49,Southern California,3,0,93000,RB Bob Chappuis (Michigan),,Rose Bowl
+989,1946,1/1/1947,Wed,Illinois,5,45,UCLA,4,14,93000,"RB Buddy Young (Illinois), RB Julius Rykovich (Illinois)",,Rose Bowl
+990,1945,1/1/1946,Tue,Alabama,3,34,Southern California,16,14,93000,RB Harry Gilmer (Alabama),,Rose Bowl
+991,1944,1/1/1945,Mon,Southern California,7,25,Tennessee,10,0,91000,QB Jim Hardy (Southern California),,Rose Bowl
+992,1943,1/1/1944,Sat,Southern California,,29,Washington,11,0,68000,OL Norman Verry (Southern California),,Rose Bowl
+993,1942,1/1/1943,Fri,Georgia,5,9,UCLA,11,0,93000,RB Charles Trippi (Georgia),,Rose Bowl
+994,1941,1/1/1942,Thu,Oregon State,17,20,Duke,3,16,56000,RB Donald Durdan (Oregon State),,Rose Bowl
+995,1940,1/1/1941,Wed,Stanford,3,21,Nebraska,8,13,91500,RB Peter Kmetovic (Stanford),,Rose Bowl
+996,1939,1/1/1940,Mon,Southern California,3,14,Tennessee,2,0,92200,QB Ambrose Schindler (Southern California),,Rose Bowl
+997,1938,1/2/1939,Mon,Southern California,8,7,Duke,3,3,89452,"QB Doyle Nave (Southern California), WR Al Krueger (Southern California)",,Rose Bowl
+998,1937,1/1/1938,Sat,California,2,13,Alabama,4,0,90000,RB Victor Bottari (California),,Rose Bowl
+999,1936,1/1/1937,Fri,Pittsburgh,4,21,Washington,6,0,87196,WR William Daddio (Pittsburgh),,Rose Bowl
+1000,1935,1/1/1936,Wed,Stanford,,7,Southern Methodist,,0,84474,"WR James Moscrip (Stanford), WR Keith Topping (Stanford)",,Rose Bowl
+1001,1934,1/1/1935,Tue,Alabama,,29,Stanford,,13,84474,RB Dixie Howell (Alabama),,Rose Bowl
+1002,1933,1/1/1934,Mon,Columbia,,7,Stanford,,0,35000,QB Cliff Montgomery (Columbia),,Rose Bowl
+1003,1932,1/2/1933,Mon,Southern California,,35,Pittsburgh,,0,78874,QB Homer Griffith (Southern California),,Rose Bowl
+1004,1931,1/1/1932,Fri,Southern California,,21,Tulane,,12,75562,RB Erny Pinckert (Southern California),,Rose Bowl
+1005,1930,1/1/1931,Thu,Alabama,,24,Washington State,,0,60000,QB John Campbell (Alabama),,Rose Bowl
+1006,1929,1/1/1930,Wed,Southern California,,47,Pittsburgh,,14,72000,QB Russell Saunders (Southern California),,Rose Bowl
+1007,1928,1/1/1929,Tue,Georgia Tech,,8,California,,7,66604,RB Benjamin Lom (California),,Rose Bowl
+1008,1927,1/2/1928,Mon,Stanford,,7,Pittsburgh,,6,65000,RB Clifford Hoffmann (Stanford),,Rose Bowl
+1009,1926,1/1/1927,Sat,Stanford,,7,Alabama,,7,57417,OL Fred Pickhard (Alabama),,Rose Bowl
+1010,1925,1/1/1926,Fri,Alabama,,20,Washington,,19,50000,"RB Johnny Mack Brown (Alabama), RB George Wilson (Washington)",,Rose Bowl
+1011,1924,1/1/1925,Thu,Notre Dame,,27,Stanford,,10,53000,"RB Elmer Layden (Notre Dame), RB Ernie Nevers (Stanford)",,Rose Bowl
+1012,1923,1/1/1924,Tue,Washington,,14,Navy,,14,40000,QB Ira McKee (Navy),,Rose Bowl
+1013,1922,1/1/1923,Mon,Southern California,,14,Penn State,,3,43000,OL Leo Calland (Southern California),,Rose Bowl
+1014,1921,1/2/1922,Mon,Washington & Jefferson,,0,California,,0,50000,OL Russell Stein (Washington & Jefferson),,Rose Bowl
+1015,1920,1/1/1921,Sat,California,,28,Ohio State,,0,42000,WR Harold Muller (California),,Rose Bowl
+1016,1919,1/1/1920,Thu,Harvard,,7,Oregon,,6,35000,RB Edward Casey (Harvard),,Rose Bowl
+1017,1918,1/1/1919,Wed,Great Lakes Navy,,17,Mare Island Marines,,0,,WR George Halas (Great Lakes Navy),,Rose Bowl
+1018,1917,1/1/1918,Tue,Mare Island Marines,,19,Fort Lewis,,7,,RB Hollis Huntington (Mare Island Marines),,Rose Bowl
+1019,1916,1/1/1917,Mon,Oregon,,14,Pennsylvania,,0,27000,OL John Beckett (Oregon),,Rose Bowl
+1020,1915,1/1/1916,Sat,Washington State,,14,Brown,,0,10000,RB Carl Dietz (Washington State),,Rose Bowl
+1021,1901,1/1/1902,Wed,Michigan,,49,Stanford,,0,8000,RB Neil Snow (Michigan),,Rose Bowl
+1022,2021,12/29/2021,Wed,Clemson,19,20,Iowa State,,13,39051,Clemson DB Mario Goodrich,Cheez-It,Cheez-It Bowl
+1023,2020,12/29/2020,Tue,Oklahoma State,,37,Miami,,34,0,Oklahoma State QB Spencer Sanders,Cheez-It,Cheez-It Bowl
+1024,2019,12/28/2019,Sat,Notre Dame,14,33,Iowa State,,9,46948,Notre Dame WR Chase Claypool,Camping World,Cheez-It Bowl
+1025,2018,12/28/2018,Fri,Syracuse,17,34,West Virginia,15,18,41125,Syracuse QB Eric Dungey,Camping World,Cheez-It Bowl
+1026,2017,12/28/2017,Thu,Oklahoma State,17,30,Virginia Tech,22,21,39610,Oklahoma State QB Mason Rudolph,Camping World,Cheez-It Bowl
+1027,2016,12/28/2016,Wed,Miami,,31,West Virginia,14,14,48625,Miami QB Brad Kaaya,Russell Athletic,Cheez-It Bowl
+1028,2015,12/29/2015,Tue,Baylor,18,49,North Carolina,10,38,40418,Baylor RB Johnny Jefferson,Russell Athletic,Cheez-It Bowl
+1029,2014,12/29/2014,Mon,Clemson,18,40,Oklahoma,,6,40071,QB Cole Stoudt (Clemson),Russell Athletic,Cheez-It Bowl
+1030,2013,12/28/2013,Sat,Louisville,18,36,Miami,,9,51100,QB Teddy Bridgewater (Louisville),Russell Athletic,Cheez-It Bowl
+1031,2012,12/28/2012,Fri,Virginia Tech,,13,Rutgers,,10,48127,DB Antone Exum (Virginia Tech),Russell Athletic,Cheez-It Bowl
+1032,2011,12/29/2011,Thu,Florida State,25,18,Notre Dame,,14,68305,WR Rashad Greene (Florida State),Champs Sports,Cheez-It Bowl
+1033,2010,12/28/2010,Tue,North Carolina State,,23,West Virginia,22,7,48962,QB Russell Wilson (North Carolina State),Champs Sports,Cheez-It Bowl
+1034,2009,12/29/2009,Tue,Wisconsin,24,20,Miami,,14,56747,RB John Clay (Wisconsin),Champs Sports,Cheez-It Bowl
+1035,2008,12/27/2008,Sat,Florida State,,42,Wisconsin,,13,52692,K Graham Gano (Florida State),Champs Sports,Cheez-It Bowl
+1036,2007,12/28/2007,Fri,Boston College,14,24,Michigan State,,21,46554,DB Jamie Silva (Boston College),Champs Sports,Cheez-It Bowl
+1037,2006,12/29/2006,Fri,Maryland,,24,Purdue,,7,40168,QB Sam Hollenbach (Maryland),Champs Sports,Cheez-It Bowl
+1038,2005,12/27/2005,Tue,Clemson,23,19,Colorado,,10,31470,RB James Davis (Clemson),Champs Sports,Cheez-It Bowl
+1039,2004,12/21/2004,Tue,Georgia Tech,,51,Syracuse,,14,28237,QB Reggie Ball (Georgia Tech),Champs Sports,Cheez-It Bowl
+1040,2003,12/22/2003,Mon,North Carolina State,,56,Kansas,,26,26482,QB Philip Rivers (North Carolina State),Mazda,Cheez-It Bowl
+1041,2002,12/23/2002,Mon,Texas Tech,,55,Clemson,,15,21689,QB Kliff Kingsbury (Texas Tech),Mazda,Cheez-It Bowl
+1042,2001,12/20/2001,Thu,Pittsburgh,,34,North Carolina State,,19,28562,WR Antonio Bryant (Pittsburgh),,Cheez-It Bowl
+1043,2000,12/28/2000,Thu,North Carolina State,,38,Minnesota,,30,28359,QB Philip Rivers (North Carolina State),Micron,Cheez-It Bowl
+1044,1999,12/30/1999,Thu,Illinois,,63,Virginia,,21,31089,QB Kurt Kittner (Illinois),Micron,Cheez-It Bowl
+1045,1998,12/29/1998,Tue,Miami,,46,North Carolina State,,23,44387,QB Scott Covington (Miami (FL)),Micron,Cheez-It Bowl
+1046,1997,12/29/1997,Mon,Georgia Tech,,35,West Virginia,,30,28262,QB Joe Hamilton (Georgia Tech),Carquest,Cheez-It Bowl
+1047,1996,12/27/1996,Fri,Miami,,31,Virginia,,21,46418,DB Tremain Mack (Miami (FL)),Carquest,Cheez-It Bowl
+1048,1995,12/30/1995,Sat,North Carolina,,20,Arkansas,24,10,34428,RB Leon Johnson (North Carolina),Carquest,Cheez-It Bowl
+1049,1994,1/2/1995,Mon,South Carolina,,24,West Virginia,,21,50833,QB Steve Taneyhill (South Carolina),Carquest,Cheez-It Bowl
+1050,1993,1/1/1994,Sat,Boston College,15,31,Virginia,,13,38516,QB Glenn Foley (Boston College),Blockbuster,Cheez-It Bowl
+1051,1992,1/1/1993,Fri,Stanford,13,24,Penn State,21,3,45554,DB Darrien Gordon (Stanford),Blockbuster,Cheez-It Bowl
+1052,1991,12/28/1991,Sat,Alabama,8,30,Colorado,15,25,52644,WR David Palmer (Alabama),Blockbuster,Cheez-It Bowl
+1053,1990,12/28/1990,Fri,Florida State,6,24,Penn State,7,17,74021,RB Amp Lee (Florida State),Blockbuster,Cheez-It Bowl
+1054,2021,1/1/2022,Sat,Baylor,6,21,Mississippi,8,7,66479,Baylor LB Ron Snodgrass,Allstate,Sugar Bowl
+1055,2020,1/1/2021,Fri,Ohio State,3,49,Clemson,2,28,3000,"Ohio State QB Justin Fields, Ohio State LB Tuf Borland",Allstate,Sugar Bowl
+1056,2019,1/1/2020,Wed,Georgia,5,26,Baylor,8,14,55211,Georgia WR George Pickens,Allstate,Sugar Bowl
+1057,2018,1/1/2019,Tue,Texas,14,28,Georgia,6,21,71449,Texas QB Sam Ehlinger,Allstate,Sugar Bowl
+1058,2017,1/1/2018,Mon,Alabama,4,24,Clemson,1,6,72360,"Alabama QB Jalen Hurts, Alabama DT Da'Ron Payne",Allstate,Sugar Bowl
+1059,2016,1/2/2017,Mon,Oklahoma,7,35,Auburn,17,19,54077,Oklahoma QB Baker Mayfield,Allstate,Sugar Bowl
+1060,2015,1/1/2016,Fri,Mississippi,16,48,Oklahoma State,13,20,72117,Mississippi QB Chad Kelly,Allstate,Sugar Bowl
+1061,2014,1/1/2015,Thu,Ohio State,5,42,Alabama,1,35,74682,"RB Ezekiel Elliott (Ohio State), LB Darron Lee (Ohio State)",Allstate,Sugar Bowl
+1062,2013,1/2/2014,Thu,Oklahoma,11,45,Alabama,3,31,70473,QB Trevor Knight (Oklahoma),Allstate,Sugar Bowl
+1063,2012,1/2/2013,Wed,Louisville,22,33,Florida,4,23,54178,QB Teddy Bridgewater (Louisville),Allstate,Sugar Bowl
+1064,2011,1/3/2012,Tue,Michigan,13,23,Virginia Tech,17,20,64512,WR Junior Hemingway (Michigan),Allstate,Sugar Bowl
+1065,2010,1/4/2011,Tue,Ohio State,6,31,Arkansas,8,26,73879,QB Terrelle Pryor (Ohio State),Allstate,Sugar Bowl
+1066,2009,1/1/2010,Fri,Florida,5,51,Cincinnati,4,24,65207,QB Tim Tebow (Florida),Allstate,Sugar Bowl
+1067,2008,1/2/2009,Fri,Utah,7,31,Alabama,4,17,71872,QB Brian Johnson (Utah),Allstate,Sugar Bowl
+1068,2007,1/1/2008,Tue,Georgia,4,41,Hawaii,10,10,74383,DL Marcus Howard (Georgia),Allstate,Sugar Bowl
+1069,2006,1/3/2007,Wed,Louisiana State,4,41,Notre Dame,11,14,77781,QB JaMarcus Russell (Louisiana State),Allstate,Sugar Bowl
+1070,2005,1/2/2006,Mon,West Virginia,11,38,Georgia,8,35,74456,RB Steve Slaton (West Virginia),Nokia,Sugar Bowl
+1071,2004,1/3/2005,Mon,Auburn,3,16,Virginia Tech,9,13,77349,QB Jason Campbell (Auburn),Nokia,Sugar Bowl
+1072,2003,1/4/2004,Sun,Louisiana State,2,21,Oklahoma,3,14,79342,RB Justin Vincent (Louisiana State),Nokia,Sugar Bowl
+1073,2002,1/1/2003,Wed,Georgia,4,26,Florida State,16,13,74269,RB Musa Smith (Georgia),Nokia,Sugar Bowl
+1074,2001,1/1/2002,Tue,Louisiana State,12,47,Illinois,7,34,77688,QB Rohan Davey (Louisiana State),Nokia,Sugar Bowl
+1075,2000,1/2/2001,Tue,Miami,,37,Florida,7,20,64407,QB Ken Dorsey (Miami (FL)),Nokia,Sugar Bowl
+1076,1999,1/4/2000,Tue,Florida State,1,46,Virginia Tech,2,29,79280,WR Peter Warrick (Florida State),Nokia,Sugar Bowl
+1077,1998,1/1/1999,Fri,Ohio State,3,24,Texas A&M,8,14,76503,WR David Boston (Ohio State),Nokia,Sugar Bowl
+1078,1997,1/1/1998,Thu,Florida State,4,31,Ohio State,9,14,67289,WR E. G. Green (Florida State),Nokia,Sugar Bowl
+1079,1996,1/2/1997,Thu,Florida,3,52,Florida State,1,20,78344,QB Danny Wuerffel (Florida),Nokia,Sugar Bowl
+1080,1995,12/31/1995,Sun,Virginia Tech,13,28,Texas,9,10,70283,WR Bryan Still (Virginia Tech),Nokia,Sugar Bowl
+1081,1994,1/2/1995,Mon,Florida State,7,23,Florida,5,17,76224,RB Warrick Dunn (Florida State),USF&G,Sugar Bowl
+1082,1993,1/1/1994,Sat,Florida,8,41,West Virginia,3,7,75437,RB Errict Rhett (Florida),USF&G,Sugar Bowl
+1083,1992,1/1/1993,Fri,Alabama,2,34,Miami,,13,76789,RB Derrick Lassic (Alabama),USF&G,Sugar Bowl
+1084,1991,1/1/1992,Wed,Notre Dame,18,39,Florida,3,28,76447,RB Jerome Bettis (Notre Dame),USF&G,Sugar Bowl
+1085,1990,1/1/1991,Tue,Tennessee,10,23,Virginia,,22,75132,QB Andy Kelly (Tennessee),USF&G,Sugar Bowl
+1086,1989,1/1/1990,Mon,Miami,,33,Alabama,7,25,77452,QB Craig Erickson (Miami (FL)),USF&G,Sugar Bowl
+1087,1988,1/2/1989,Mon,Florida State,4,13,Auburn,7,7,61934,RB Sammie Smith (Florida State),USF&G,Sugar Bowl
+1088,1987,1/1/1988,Fri,Syracuse,4,16,Auburn,6,16,75495,QB Don McPherson (Syracuse),USF&G,Sugar Bowl
+1089,1986,1/1/1987,Thu,Nebraska,6,30,Louisiana State,5,15,76234,QB Steve Taylor (Nebraska),USF&G,Sugar Bowl
+1090,1985,1/1/1986,Wed,Tennessee,8,35,Miami,,7,77432,QB Daryl Dickey (Tennessee),,Sugar Bowl
+1091,1984,1/1/1985,Tue,Nebraska,5,28,Louisiana State,11,10,75608,QB Craig Sundberg (Nebraska),,Sugar Bowl
+1092,1983,1/2/1984,Mon,Auburn,3,9,Michigan,8,7,77893,RB Bo Jackson (Auburn),,Sugar Bowl
+1093,1982,1/1/1983,Sat,Penn State,2,27,Georgia,1,23,78124,QB Todd Blackledge (Penn State),,Sugar Bowl
+1094,1981,1/1/1982,Fri,Pittsburgh,10,24,Georgia,2,20,77224,QB Dan Marino (Pittsburgh),,Sugar Bowl
+1095,1980,1/1/1981,Thu,Georgia,1,17,Notre Dame,7,10,77895,RB Herschel Walker (Georgia),,Sugar Bowl
+1096,1979,1/1/1980,Tue,Alabama,2,24,Arkansas,6,9,77486,RB Major Ogilvie (Alabama),,Sugar Bowl
+1097,1978,1/1/1979,Mon,Alabama,2,14,Penn State,1,7,76824,LB Barry Krauss (Alabama),,Sugar Bowl
+1098,1977,1/2/1978,Mon,Alabama,3,35,Ohio State,9,6,76811,QB Jeff Rutledge (Alabama),,Sugar Bowl
+1099,1976,1/1/1977,Sat,Pittsburgh,1,27,Georgia,5,3,76117,QB Matt Cavanaugh (Pittsburgh),,Sugar Bowl
+1100,1975,12/31/1975,Wed,Alabama,4,13,Penn State,8,6,75212,QB Richard Todd (Alabama),,Sugar Bowl
+1101,1974,12/31/1974,Tue,Nebraska,8,13,Florida,18,10,67890,RB Tony Davis (Nebraska),,Sugar Bowl
+1102,1973,12/31/1973,Mon,Notre Dame,3,24,Alabama,1,23,85161,QB Tom Clements (Notre Dame),,Sugar Bowl
+1103,1972,12/31/1972,Sun,Oklahoma,2,14,Penn State,5,0,80123,WR Tinker Owens (Oklahoma),,Sugar Bowl
+1104,1971,1/1/1972,Sat,Oklahoma,3,40,Auburn,5,22,84031,QB Jack Mildren (Oklahoma),,Sugar Bowl
+1105,1970,1/1/1971,Fri,Tennessee,4,34,Air Force,11,13,78655,QB Bobby Scott (Tennessee),,Sugar Bowl
+1106,1969,1/1/1970,Thu,Mississippi,13,27,Arkansas,3,22,82500,QB Archie Manning (Mississippi),,Sugar Bowl
+1107,1968,1/1/1969,Wed,Arkansas,9,16,Georgia,4,2,82113,WR Chuck Dicus (Arkansas),,Sugar Bowl
+1108,1967,1/1/1968,Mon,Louisiana State,,20,Wyoming,7,13,78963,RB Glenn Smith (Louisiana State),,Sugar Bowl
+1109,1966,1/2/1967,Mon,Alabama,3,34,Nebraska,6,7,82000,QB Ken Stabler (Alabama),,Sugar Bowl
+1110,1965,1/1/1966,Sat,Missouri,6,20,Florida,,18,67421,QB Steve Spurrier (Florida),,Sugar Bowl
+1111,1964,1/1/1965,Fri,Louisiana State,6,13,Syracuse,,10,65000,WR Doug Moreau (Louisiana State),,Sugar Bowl
+1112,1963,1/1/1964,Wed,Alabama,9,12,Mississippi,7,7,80785,K Tim Davis (Alabama),,Sugar Bowl
+1113,1962,1/1/1963,Tue,Mississippi,3,17,Arkansas,6,13,82900,QB Glynn Griffin (Mississippi),,Sugar Bowl
+1114,1961,1/1/1962,Mon,Alabama,1,10,Arkansas,9,3,82010,RB Mike Fracchia (Alabama),,Sugar Bowl
+1115,1960,1/2/1961,Mon,Mississippi,3,14,Rice,12,6,82851,QB Jake Gibbs (Mississippi),,Sugar Bowl
+1116,1959,1/1/1960,Fri,Mississippi,2,21,Louisiana State,3,0,83000,QB Bobby Franklin (Mississippi),,Sugar Bowl
+1117,1958,1/1/1959,Thu,Louisiana State,1,7,Clemson,12,0,82000,RB Billy Cannon (Louisiana State),,Sugar Bowl
+1118,1957,1/1/1958,Wed,Mississippi,7,39,Texas,,7,82000,QB Raymond Brown (Mississippi),,Sugar Bowl
+1119,1956,1/1/1957,Tue,Baylor,15,13,Tennessee,2,7,81000,RB Del Shofner (Baylor),,Sugar Bowl
+1120,1955,1/2/1956,Mon,Georgia Tech,9,7,Pittsburgh,13,0,80175,OL Franklin Brooks (Georgia Tech),,Sugar Bowl
+1121,1954,1/1/1955,Sat,Navy,6,21,Mississippi,7,0,82000,RB Joe Gattuso (Navy),,Sugar Bowl
+1122,1953,1/1/1954,Fri,Georgia Tech,10,42,West Virginia,11,19,76000,QB Pepper Rodgers (Georgia Tech),,Sugar Bowl
+1123,1952,1/1/1953,Thu,Georgia Tech,3,24,Mississippi,6,7,82000,RB Leon Hardemann (Georgia Tech),,Sugar Bowl
+1124,1951,1/1/1952,Tue,Maryland,3,28,Tennessee,1,13,82000,RB Ed Modzelewski (Maryland),,Sugar Bowl
+1125,1950,1/1/1951,Mon,Kentucky,3,13,Oklahoma,1,7,82000,OL Walt Yowarsky (Kentucky),,Sugar Bowl
+1126,1949,1/2/1950,Mon,Oklahoma,3,35,Louisiana State,13,0,82470,RB Leon Heath (Oklahoma),,Sugar Bowl
+1127,1948,1/1/1949,Sat,Oklahoma,6,14,North Carolina,4,6,82000,QB Jack Mitchell (Oklahoma),,Sugar Bowl
+1128,1947,1/1/1948,Thu,Texas,6,27,Alabama,7,7,72000,QB Bobby Layne (Texas),,Sugar Bowl
+1129,1946,1/1/1947,Wed,Georgia,3,20,North Carolina,11,10,73300,,,Sugar Bowl
+1130,1945,1/1/1946,Tue,Oklahoma State,6,33,Saint Mary's,,13,75000,,,Sugar Bowl
+1131,1944,1/1/1945,Mon,Duke,11,29,Alabama,16,26,72000,,,Sugar Bowl
+1132,1943,1/1/1944,Sat,Georgia Tech,14,20,Tulsa,20,18,69000,,,Sugar Bowl
+1133,1942,1/1/1943,Fri,Tennessee,10,14,Tulsa,6,7,70000,,,Sugar Bowl
+1134,1941,1/1/1942,Thu,Fordham,8,2,Missouri,7,0,72000,,,Sugar Bowl
+1135,1940,1/1/1941,Wed,Boston College,4,19,Tennessee,6,13,73181,,,Sugar Bowl
+1136,1939,1/1/1940,Mon,Texas A&M,1,14,Tulane,5,13,73000,,,Sugar Bowl
+1137,1938,1/2/1939,Mon,Texas Christian,2,15,Carnegie Mellon,6,7,50000,,,Sugar Bowl
+1138,1937,1/1/1938,Sat,Santa Clara,8,6,Louisiana State,10,0,45000,,,Sugar Bowl
+1139,1936,1/1/1937,Fri,Santa Clara,5,21,Louisiana State,2,14,41000,,,Sugar Bowl
+1140,1935,1/1/1936,Wed,Texas Christian,,3,Louisiana State,,2,35000,,,Sugar Bowl
+1141,1934,1/1/1935,Tue,Tulane,,20,Temple,,14,22026,,,Sugar Bowl
+1142,2021,12/31/2021,Fri,Central Michigan,,24,Washington State,,21,34540,Central Michigan RB Lew Nichols III,Tony the Tiger,Sun Bowl
+1143,2019,12/31/2019,Tue,Arizona State,,20,Florida State,,14,42412,Arizona State QB Jayden Daniels,Tony the Tiger,Sun Bowl
+1144,2018,12/31/2018,Mon,Stanford,,14,Pittsburgh,,13,40680,Stanford RB Cameron Scarlett,Hyundai,Sun Bowl
+1145,2017,12/29/2017,Fri,North Carolina State,,52,Arizona State,,31,39897,NC State RB Nyheim Hines,Hyundai,Sun Bowl
+1146,2016,12/30/2016,Fri,Stanford,16,25,North Carolina,,23,42166,Stanford DE Soloman Thomas,Hyundai,Sun Bowl
+1147,2015,12/26/2015,Sat,Washington State,,20,Miami,,14,41180,Washington St. QB Luke Falk,Hyundai,Sun Bowl
+1148,2014,12/27/2014,Sat,Arizona State,15,36,Duke,,31,47809,RB Demario Richard (Arizona State),Hyundai,Sun Bowl
+1149,2013,12/31/2013,Tue,UCLA,17,42,Virginia Tech,,12,47912,"QB Brett Hundley (UCLA), LB Jordan Zumwalt (UCLA)",Hyundai,Sun Bowl
+1150,2012,12/31/2012,Mon,Georgia Tech,,21,Southern California,,7,47922,DB Rod Sweeting (Georgia Tech),Hyundai,Sun Bowl
+1151,2011,12/31/2011,Sat,Utah,,30,Georgia Tech,,27,48123,DL Star Lotulelei (Utah),Hyundai,Sun Bowl
+1152,2010,12/31/2010,Fri,Notre Dame,,33,Miami,,17,54021,WR Michael Floyd (Notre Dame),Hyundai,Sun Bowl
+1153,2009,12/31/2009,Thu,Oklahoma,,31,Stanford,19,27,53713,"WR Ryan Broyles (Oklahoma), DL Gerlad McCoy (Oklahoma)",Brut,Sun Bowl
+1154,2008,12/31/2008,Wed,Oregon State,24,3,Pittsburgh,18,0,49037,DL Victor Strong-Butler (Oregon State),Brut,Sun Bowl
+1155,2007,12/31/2007,Mon,Oregon,,56,South Florida,23,21,49867,"OL Fenuki Tupou (Oregon), RB Jonathan Stewart (Oregon)",Brut,Sun Bowl
+1156,2006,12/29/2006,Fri,Oregon State,24,39,Missouri,,38,48732,"DL Xzavie Jackson (Missouri), QB Matt Moore (Oregon State)",Brut,Sun Bowl
+1157,2005,12/30/2005,Fri,UCLA,17,50,Northwestern,,38,50426,"DL Kevin Mims (Northwestern), RB Kahlil Bell (UCLA)",Vitalis,Sun Bowl
+1158,2004,12/31/2004,Fri,Arizona State,21,27,Purdue,,23,51288,"DL Brandon Villareal (Purdue), QB Sam Keller (Arizona State)",Vitalis,Sun Bowl
+1159,2003,12/31/2003,Wed,Minnesota,24,31,Oregon,,30,49894,"DL Junior Siavaii (Oregon), WR Samie Parker (Oregon)",Wells Fargo,Sun Bowl
+1160,2002,12/31/2002,Tue,Purdue,,34,Washington,,24,48917,"DL Shaun Phillips (Purdue), QB Kyle Orton (Purdue)",Wells Fargo,Sun Bowl
+1161,2001,12/31/2001,Mon,Washington State,13,33,Purdue,,27,47812,"DL Akin Ayodele (Purdue), DB Lamont Thompson (Washington State)",Wells Fargo,Sun Bowl
+1162,2000,12/29/2000,Fri,Wisconsin,,21,UCLA,,20,49093,"OL Oscar Cabrera (UCLA), WR Freddie Mitchell (UCLA)",Wells Fargo,Sun Bowl
+1163,1999,12/31/1999,Fri,Oregon,,24,Minnesota,12,20,48757,"DL Dyron Russ (Minnesota), QB Billy Cockerham (Minnesota)",Wells Fargo,Sun Bowl
+1164,1998,12/31/1998,Thu,Texas Christian,,28,Southern California,,19,46612,"DL London Dunlap (Texas Christian), RB Basil Mitchell (Texas Christian)",Norwest,Sun Bowl
+1165,1997,12/31/1997,Wed,Arizona State,16,17,Iowa,,7,49104,"DL Jeremy Staat (Arizona State), RB Mike Martin (Arizona State)",Norwest,Sun Bowl
+1166,1996,12/31/1996,Tue,Stanford,,38,Michigan State,,0,42721,"DL Kailee Wong (Stanford), QB Chad Hutchinson (Stanford)",Norwest,Sun Bowl
+1167,1995,12/29/1995,Fri,Iowa,,38,Washington,20,18,49116,"DL Jared DeVries (Iowa), RB Sedrick Shaw (Iowa)",,Sun Bowl
+1168,1994,12/30/1994,Fri,Texas,,35,North Carolina,19,31,50612,"OL Blake Brockermeyer (Texas), RB Priest Holmes (Texas)",,Sun Bowl
+1169,1993,12/24/1993,Fri,Oklahoma,19,41,Texas Tech,,10,43848,"DL Shawn Jackson (Texas Tech), RB Jerald Moore (Oklahoma)",John Hancock,Sun Bowl
+1170,1992,12/31/1992,Thu,Baylor,,20,Arizona,22,15,41622,"DL Rob Waldrop (Arizona), WR Melvin Bonner (Baylor)",John Hancock,Sun Bowl
+1171,1991,12/31/1991,Tue,UCLA,22,6,Illinois,,3,42281,"DL Mike Ploskey (Illinois), LB Arnold Ale (UCLA)",John Hancock,Sun Bowl
+1172,1990,12/31/1990,Mon,Michigan State,22,17,Southern California,21,16,50562,"LB Craig Hartsuyker (Southern California), WR Courtney Hawkins (Michigan State)",John Hancock,Sun Bowl
+1173,1989,12/30/1989,Sat,Pittsburgh,23,31,Texas A&M,16,28,44887,"LB Anthony Williams (Texas A&M), QB Alex Van Pelt (Pittsburgh)",John Hancock,Sun Bowl
+1174,1988,12/24/1988,Sat,Alabama,20,29,Army,,28,48719,"LB Derrick Thomas (Alabama), QB David Smith (Alabama)",John Hancock,Sun Bowl
+1175,1987,12/25/1987,Fri,Oklahoma State,11,35,West Virginia,,33,43240,"LB Darren Warren (West Virginia), RB Thurman Thomas (Oklahoma State)",John Hancock,Sun Bowl
+1176,1986,12/25/1986,Thu,Alabama,13,28,Washington,12,6,48722,"DL Steve Alvord (Washington), DL Cornelius Bennett (Alabama)",John Hancock,Sun Bowl
+1177,1985,12/28/1985,Sat,Georgia,,13,Arizona,,13,52203,"OL Peter Anderson (Georgia), K Max Zendejas (Arizona)",,Sun Bowl
+1178,1984,12/22/1984,Sat,Maryland,12,28,Tennessee,,27,50126,"LB Carl Zander (Tennessee), RB Rick Badanjek (Maryland)",,Sun Bowl
+1179,1983,12/24/1983,Sat,Alabama,,28,Southern Methodist,6,7,41412,"OL Wes Neighbors (Alabama), QB Walter Lewis (Alabama)",,Sun Bowl
+1180,1982,12/25/1982,Sat,North Carolina,,26,Texas,8,10,31359,"DB Ronnie Mullins (Texas), RB Ethan Horton (North Carolina)",,Sun Bowl
+1181,1981,12/26/1981,Sat,Oklahoma,,40,Houston,,14,33816,"DL Rick Bryan (Oklahoma), QB Darrell Shepard (Oklahoma)",,Sun Bowl
+1182,1980,12/27/1980,Sat,Nebraska,8,31,Mississippi State,17,17,34273,"DL Jimmy Williams (Nebraska), QB Jeff Quinn (Nebraska)",,Sun Bowl
+1183,1979,12/22/1979,Sat,Washington,13,14,Texas,11,7,33412,"WR Paul Skansi (Washington), DL Doug Martin (Washington)",,Sun Bowl
+1184,1978,12/23/1978,Sat,Texas,14,42,Maryland,13,0,33122,"RB Lam Jones (Texas), DL Dwight Jefferson (Texas)",,Sun Bowl
+1185,1977,12/31/1977,Sat,Stanford,,24,Louisiana State,,14,31318,"RB Charles Alexander (Louisiana State), LB Gordon Ceresino (Stanford)",,Sun Bowl
+1186,1976,1/2/1977,Sun,Texas A&M,10,37,Florida,,14,33122,"K Tony Franklin (Texas A&M), DL Edgar Fields (Texas A&M)",,Sun Bowl
+1187,1975,12/26/1975,Fri,Pittsburgh,20,33,Kansas,19,19,33240,"QB Robert Haygood (Pittsburgh), DL Al Romano (Pittsburgh)",,Sun Bowl
+1188,1974,12/28/1974,Sat,Mississippi State,,26,North Carolina,,24,30131,"RB Terry Vitrano (Mississippi State), DL Jimmy Webb (Mississippi State)",,Sun Bowl
+1189,1973,12/29/1973,Sat,Missouri,,34,Auburn,,17,30127,"RB Ray Bybee (Missouri), TE John Kelsey (Missouri)",,Sun Bowl
+1190,1972,12/30/1972,Sat,North Carolina,16,32,Texas Tech,,28,31312,"RB George Smith (Texas Tech), DL Ecomet Burley (Texas Tech)",,Sun Bowl
+1191,1971,12/18/1971,Sat,Louisiana State,11,33,Iowa State,,15,33503,"QB Bert Jones (Louisiana State), LB Matt Blair (Iowa State)",,Sun Bowl
+1192,1970,12/19/1970,Sat,Georgia Tech,13,17,Texas Tech,19,9,30512,"DL Rock Perdoni (Georgia Tech), LB Bill Flowers (Georgia Tech)",,Sun Bowl
+1193,1969,12/20/1969,Sat,Nebraska,14,45,Georgia,,6,29723,"RB Paul Rogers (Nebraska), LB Jerry Murtaugh (Nebraska)",,Sun Bowl
+1194,1968,12/28/1968,Sat,Auburn,,34,Arizona,,10,32307,"QB Buddy McClinton (Auburn), OL David Campbell (Auburn)",,Sun Bowl
+1195,1967,12/30/1967,Sat,Texas-El Paso,,14,Mississippi,,7,34685,"QB Billy Stevens (Texas-El Paso), LB Fred Carr (Texas-El Paso)",,Sun Bowl
+1196,1966,12/24/1966,Sat,Wyoming,,28,Florida State,,20,24381,"RB Jim Kiick (Wyoming), DL Jerry Durling (Wyoming)",,Sun Bowl
+1197,1965,12/31/1965,Fri,Texas-El Paso,,13,Texas Christian,,12,27450,"QB Billy Stevens (Texas-El Paso), OL Ronny Nixon (Texas Christian)",,Sun Bowl
+1198,1964,12/26/1964,Sat,Georgia,,7,Texas Tech,,0,28500,"QB Preston Ridlehuber (Georgia), OL Jim Wilson (Georgia)",,Sun Bowl
+1199,1963,12/31/1963,Tue,Oregon,,21,Southern Methodist,,14,26500,"QB Bob Berry (Oregon), OL Dun Hughes (Southern Methodist)",,Sun Bowl
+1200,1962,12/31/1962,Mon,West Texas A&M,,15,Ohio,,14,16000,"RB Jerry Logan (West Texas A&M), OL Don Hoovler (Ohio)",,Sun Bowl
+1201,1961,12/30/1961,Sat,Villanova,,17,Wichita State,,9,15000,"RB Billy Joe (Villanova), OL Rich Ross (Villanova)",,Sun Bowl
+1202,1960,12/31/1960,Sat,New Mexico State,15,20,Utah State,,13,16000,QB Charley Johnson (New Mexico State),,Sun Bowl
+1203,1959,12/31/1959,Thu,New Mexico State,,28,North Texas,,8,14000,QB Charley Johnson (New Mexico State),,Sun Bowl
+1204,1958,12/31/1958,Wed,Wyoming,,14,Hardin-Simmons,,6,13000,OL Leonard Kucewski (Wyoming),,Sun Bowl
+1205,1957,1/1/1958,Wed,Louisville,,34,Drake,,20,12000,RB Ken Porco (Louisville),,Sun Bowl
+1206,1956,1/1/1957,Tue,George Washington,16,13,Texas-El Paso,,0,13500,RB Claude Austin (George Washington),,Sun Bowl
+1207,1955,1/2/1956,Mon,Wyoming,,21,Texas Tech,,14,14500,RB Jim Crawford (Wyoming),,Sun Bowl
+1208,1954,1/1/1955,Sat,Texas-El Paso,,47,Florida State,,20,14000,QB Jesse Whittenton (Texas-El Paso),,Sun Bowl
+1209,1953,1/1/1954,Fri,Texas-El Paso,,37,Southern Mississippi,,14,9500,QB Dick Shinaut (Texas-El Paso),,Sun Bowl
+1210,1952,1/1/1953,Thu,Pacific,,26,Southern Mississippi,,7,11000,RB Tom McCormick (Pacific (Cal.)),,Sun Bowl
+1211,1951,1/1/1952,Tue,Texas Tech,,25,Pacific,,14,17000,QB Junior Arteburn (Texas Tech),,Sun Bowl
+1212,1950,1/1/1951,Mon,West Texas A&M,,14,Cincinnati,,13,16000,WR Bill Cross (West Texas A&M),,Sun Bowl
+1213,1949,1/2/1950,Mon,Texas-El Paso,,33,Georgetown,,20,15000,RB Harvey Gabrel (Texas-El Paso),,Sun Bowl
+1214,1948,1/1/1949,Sat,West Virginia,,21,Texas-El Paso,,12,13000,,,Sun Bowl
+1215,1947,1/1/1948,Thu,Miami,,13,Texas Tech,,12,18000,,,Sun Bowl
+1216,1946,1/1/1947,Wed,Cincinnati,,18,Virginia Tech,,6,10000,,,Sun Bowl
+1217,1945,1/1/1946,Tue,New Mexico,,34,Denver,,24,15000,,,Sun Bowl
+1218,1944,1/1/1945,Mon,Southwestern,,35,University of Mexico,,0,13000,,,Sun Bowl
+1219,1943,1/1/1944,Sat,Southwestern,,7,New Mexico,,0,18000,,,Sun Bowl
+1220,1942,1/1/1943,Fri,Second Air Force,,13,Hardin-Simmons,,7,16000,,,Sun Bowl
+1221,1941,1/1/1942,Thu,Tulsa,,6,Texas Tech,,0,14000,,,Sun Bowl
+1222,1940,1/1/1941,Wed,Western Reserve,,26,Arizona State,,13,14000,,,Sun Bowl
+1223,1939,1/1/1940,Mon,Catholic,,0,Arizona State,,0,12000,,,Sun Bowl
+1224,1938,1/2/1939,Mon,Utah,,26,New Mexico,,0,13000,,,Sun Bowl
+1225,1937,1/1/1938,Sat,West Virginia,,7,Texas Tech,,6,12000,,,Sun Bowl
+1226,1936,1/1/1937,Fri,Hardin-Simmons,,34,Texas-El Paso,,6,10000,,,Sun Bowl
+1227,1935,1/1/1936,Wed,New Mexico State,,14,Hardin-Simmons,,14,11000,,,Sun Bowl
+1228,1946,1/4/1947,Sat,Hardin-Simmons,,20,Denver,,0,3730,,,Alamo Bowl
+1229,1990,12/28/1990,Fri,North Carolina State,,31,Southern Mississippi,23,27,44000,QB Brett Favre (Southern Mississippi),,All-American Bowl
+1230,1989,12/28/1989,Thu,Texas Tech,24,49,Duke,20,21,47750,RB James Gray (Texas Tech),,All-American Bowl
+1231,1988,12/29/1988,Thu,Florida,,14,Illinois,,10,48218,RB Emmitt Smith (Florida),,All-American Bowl
+1232,1987,12/22/1987,Tue,Virginia,,22,Brigham Young,,16,37000,QB Scott Secules (Virginia),,All-American Bowl
+1233,1986,12/31/1986,Wed,Florida State,,27,Indiana,,13,30000,RB Sammie Smith (Florida State),,All-American Bowl
+1234,1985,12/31/1985,Tue,Georgia Tech,,17,Michigan State,,14,45000,WR Mark Ingram (Michigan State),,All-American Bowl
+1235,1984,12/29/1984,Sat,Kentucky,,20,Wisconsin,20,19,47300,,,All-American Bowl
+1236,1983,12/22/1983,Thu,West Virginia,18,20,Kentucky,,16,42000,,,All-American Bowl
+1237,1982,12/31/1982,Fri,Air Force,,36,Vanderbilt,,28,75000,,,All-American Bowl
+1238,1981,12/31/1981,Thu,Mississippi State,,10,Kansas,,0,41672,,,All-American Bowl
+1239,1980,12/27/1980,Sat,Arkansas,,34,Tulane,,15,30000,,,All-American Bowl
+1240,1979,12/29/1979,Sat,Missouri,,24,South Carolina,16,14,62785,,,All-American Bowl
+1241,1978,12/20/1978,Wed,Texas A&M,,28,Iowa State,19,12,41500,,,All-American Bowl
+1242,1977,12/22/1977,Thu,Maryland,,17,Minnesota,,7,47000,,,All-American Bowl
+1243,2000,12/25/2000,Mon,Boston College,,31,Arizona State,,17,24397,,Jeep,Aloha Classic
+1244,1999,12/25/1999,Sat,Wake Forest,,23,Arizona State,,3,40974,QB Ben Sankey (Wake Forest),Jeep,Aloha Classic
+1245,1998,12/25/1998,Fri,Colorado,,51,Oregon,21,43,46451,,Jeep,Aloha Classic
+1246,1997,12/25/1997,Thu,Washington,21,51,Michigan State,25,23,44598,RB Rashaan Shehee (Washington),Jeep,Aloha Classic
+1247,1996,12/25/1996,Wed,Navy,,42,California,,38,43380,QB Chris McCoy (Navy),Jeep,Aloha Classic
+1248,1995,12/25/1995,Mon,Kansas,11,51,UCLA,,30,41111,,Jeep,Aloha Classic
+1249,1994,12/25/1994,Sun,Boston College,,12,Kansas State,11,7,44862,LB Mike Mamula (Boston College),Jeep,Aloha Classic
+1250,1993,12/25/1993,Sat,Colorado,17,41,Fresno State,25,30,44009,,Jeep,Aloha Classic
+1251,1992,12/25/1992,Fri,Kansas,,23,Brigham Young,25,20,42933,,Jeep,Aloha Classic
+1252,1991,12/25/1991,Wed,Georgia Tech,,18,Stanford,17,17,34433,,Jeep,Aloha Classic
+1253,1990,12/25/1990,Tue,Syracuse,,28,Arizona,,0,14185,,Jeep,Aloha Classic
+1254,1989,12/25/1989,Mon,Michigan State,22,33,Hawaii,25,13,50000,RB Blake Ezor (Michigan State),Jeep,Aloha Classic
+1255,1988,12/25/1988,Sun,Washington State,18,24,Houston,14,22,35132,,Jeep,Aloha Classic
+1256,1987,12/25/1987,Fri,UCLA,10,20,Florida,,16,24839,,Jeep,Aloha Classic
+1257,1986,12/27/1986,Sat,Arizona,16,30,North Carolina,,21,26743,,Jeep,Aloha Classic
+1258,1985,12/28/1985,Sat,Alabama,15,24,Southern California,,3,35183,,Jeep,Aloha Classic
+1259,1984,12/29/1984,Sat,Southern Methodist,10,27,Notre Dame,17,20,41777,,Jeep,Aloha Classic
+1260,1983,12/26/1983,Mon,Penn State,,13,Washington,,10,37212,,Jeep,Aloha Classic
+1261,1982,12/25/1982,Sat,Washington,9,21,Maryland,16,20,30055,,Jeep,Aloha Classic
+1262,2020,12/31/2020,Thu,Ball State,,34,San Jose State,19,13,0,Ball State S Bryce Cosby,Offerpad,Arizona Bowl
+1263,2019,12/31/2019,Tue,Wyoming,,38,Georgia State,,17,36892,"Wyoming RB Xazavian Valladay, Wyoming S Alijah Halliburton",Nova Home Loans,Arizona Bowl
+1264,2018,12/29/2018,Sat,Nevada,,16,Arkansas State,,13,32368,"Nevada QB Ty Gangi, Arkansas State S BJ Edmonds",Nova Home Loans,Arizona Bowl
+1265,2017,12/29/2017,Fri,New Mexico State,,26,Utah State,,20,39132,"New Mexico State RB Larry Rose III, New Mexico State LB Leon McQuaker",Nova Home Loans,Arizona Bowl
+1266,2016,12/30/2016,Fri,Air Force,,45,South Alabama,,21,33868,"Air Force QB Arion Worthman, Air Force DB Weston Steelhammer",Nova Home Loans,Arizona Bowl
+1267,2015,12/29/2015,Tue,Nevada,,28,Colorado State,,23,20425,"Nevada RB James Butler, Nevada DE Ian Seau",Nova Home Loans,Arizona Bowl
+1268,1961,12/9/1961,Sat,New Mexico,,28,Western Michigan,,12,3694,,,Aviation Bowl
+1269,1936,1/1/1937,Fri,Villanova,,7,Auburn,,7,0,,,Bacardi Bowl
+1270,2013,1/6/2014,Mon,Florida State,1,34,Auburn,2,31,94208,"QB Jameis Winston (FSU), DB PJ Williams (FSU)",Vizio,BCS Championship
+1271,2012,1/7/2013,Mon,Alabama,2,42,Notre Dame,1,14,80120,"RB Eddie Lacy (Alabama), LB C.J. Mosley (Alabama)",Discover Financial,BCS Championship
+1272,2011,1/9/2012,Mon,Alabama,2,21,Louisiana State,1,0,78237,"QB AJ McCarron (Alabama), LB Courtney Upshaw (Alabama)",Allstate,BCS Championship
+1273,2010,1/10/2011,Mon,Auburn,1,22,Oregon,2,19,78603,"RB Michael Dyer (Auburn), DL Nick Fairley (Auburn)",Tostitos,BCS Championship
+1274,2009,1/7/2010,Thu,Alabama,1,37,Texas,2,21,94906,"RB Mark Ingram (Alabama), DL Marcell Dareus (Alabama)",Citi,BCS Championship
+1275,2008,1/8/2009,Thu,Florida,1,24,Oklahoma,2,14,78468,"QB Tim Tebow (Florida), DL Carlos Dunlap (Florida)",FedEx,BCS Championship
+1276,2007,1/7/2008,Mon,Louisiana State,2,38,Ohio State,1,24,79651,"DL Ricky Jean-Francois (Louisiana State), QB Matt Flynn (Louisiana State)",Allstate,BCS Championship
+1277,2006,1/8/2007,Mon,Florida,2,41,Ohio State,1,14,74628,"DL Derrick Harvey (Florida), QB Chris Leak (Florida)",Tostitos,BCS Championship
+1278,2019,12/31/2019,Tue,Kentucky,,37,Virginia Tech,,30,44138,Kentucky QB Lynn Bowden Jr.,Belk,Belk Bowl
+1279,2018,12/29/2018,Sat,Virginia,,28,South Carolina,,0,48263,Virginia WR Olamide Zaccheaus,Belk,Belk Bowl
+1280,2017,12/29/2017,Fri,Wake Forest,,55,Texas A&M,,52,32784,Wake Forest QB John Wolford,Belk,Belk Bowl
+1281,2016,12/29/2016,Thu,Virginia Tech,18,35,Arkansas,,24,73778,Va Tech WR Cam Phillips,Belk,Belk Bowl
+1282,2015,12/30/2015,Wed,Mississippi State,,51,North Carolina State,,28,46423,Mississipi State QB Dak Prescott,Belk,Belk Bowl
+1283,2014,12/30/2014,Tue,Georgia,13,37,Louisville,20,14,45671,RB Nick Chubb (Georgia),,Belk Bowl
+1284,2013,12/28/2013,Sat,North Carolina,,39,Cincinnati,,17,45211,PR Ryan Switzer (UNC),Belk,Belk Bowl
+1285,2012,12/27/2012,Thu,Cincinnati,,48,Duke,,34,48128,QB Brendon Kay (Cincinnati),Belk,Belk Bowl
+1286,2011,12/27/2011,Tue,North Carolina State,,31,Louisville,,24,58427,QB Mike Glennon (North Carolina State),Belk,Belk Bowl
+1287,2010,12/31/2010,Fri,South Florida,,31,Clemson,,26,41122,QB BJ Daniels (South Florida),Meineke Car Care Center,Belk Bowl
+1288,2009,12/26/2009,Sat,Pittsburgh,17,19,North Carolina,,17,50389,RB Dion Lewis (Pittsburgh),Meineke Car Care Center,Belk Bowl
+1289,2008,12/27/2008,Sat,West Virginia,,31,North Carolina,,30,73712,QB Pat White (West Virginia),Meineke Car Care Center,Belk Bowl
+1290,2007,12/29/2007,Sat,Wake Forest,,24,Connecticut,,10,53126,WR Kenneth Moore (Wake Forest),Meineke Car Care Center,Belk Bowl
+1291,2006,12/30/2006,Sat,Boston College,23,25,Navy,,24,52303,LB JoLonn Dunbar (Boston College),Meineke Car Care Center,Belk Bowl
+1292,2005,12/31/2005,Sat,North Carolina State,,14,South Florida,,0,57937,LB Stephen Tulloch (North Carolina State),Meineke Car Care Center,Belk Bowl
+1293,2004,12/30/2004,Thu,Boston College,25,37,North Carolina,,24,73238,QB Paul Peterson (Boston College),Continental,Belk Bowl
+1294,2003,12/27/2003,Sat,Virginia,,23,Pittsburgh,,16,51236,QB Matt Schaub (Virginia),Continental,Belk Bowl
+1295,2002,12/28/2002,Sat,Virginia,,48,West Virginia,15,22,73535,RB Wali Lundy (Virginia),Continental,Belk Bowl
+1296,1987,12/31/1987,Thu,Texas,,32,Pittsburgh,19,27,23282,,,Bluebonnet Bowl
+1297,1986,12/31/1986,Wed,Baylor,14,21,Colorado,,9,40476,,,Bluebonnet Bowl
+1298,1985,12/31/1985,Tue,Air Force,10,24,Texas,,16,42000,,,Bluebonnet Bowl
+1299,1984,12/31/1984,Mon,West Virginia,,31,Texas Christian,,14,43260,,,Bluebonnet Bowl
+1300,1983,12/31/1983,Sat,Oklahoma State,,24,Baylor,20,14,50090,,,Bluebonnet Bowl
+1301,1982,12/31/1982,Fri,Arkansas,14,28,Florida,,24,31557,,,Bluebonnet Bowl
+1302,1981,12/31/1981,Thu,Michigan,16,33,UCLA,19,14,40309,,,Bluebonnet Bowl
+1303,1980,12/31/1980,Wed,North Carolina,13,16,Texas,,7,30667,,,Bluebonnet Bowl
+1304,1979,12/31/1979,Mon,Purdue,12,27,Tennessee,,22,40542,,,Bluebonnet Bowl
+1305,1978,12/31/1978,Sun,Stanford,,25,Georgia,11,22,34084,,,Bluebonnet Bowl
+1306,1977,12/31/1977,Sat,Southern California,20,47,Texas A&M,17,28,52842,,,Bluebonnet Bowl
+1307,1976,12/31/1976,Fri,Nebraska,13,27,Texas Tech,9,24,48618,,,Bluebonnet Bowl
+1308,1975,12/27/1975,Sat,Texas,9,38,Colorado,10,21,52748,,,Bluebonnet Bowl
+1309,1974,12/23/1974,Mon,North Carolina State,13,31,Houston,,31,35122,,,Bluebonnet Bowl
+1310,1973,12/29/1973,Sat,Houston,14,47,Tulane,17,7,44358,,,Bluebonnet Bowl
+1311,1972,12/30/1972,Sat,Tennessee,11,24,Louisiana State,10,17,52961,,,Bluebonnet Bowl
+1312,1971,12/31/1971,Fri,Colorado,7,29,Houston,15,17,54720,,,Bluebonnet Bowl
+1313,1970,12/31/1970,Thu,Oklahoma,20,24,Alabama,,24,53289,,,Bluebonnet Bowl
+1314,1969,12/31/1969,Wed,Houston,17,36,Auburn,12,7,55203,,,Bluebonnet Bowl
+1315,1968,12/31/1968,Tue,Southern Methodist,20,28,Oklahoma,10,27,53543,,,Bluebonnet Bowl
+1316,1967,12/23/1967,Sat,Colorado,,31,Miami,,21,30156,,,Bluebonnet Bowl
+1317,1966,12/17/1966,Sat,Texas,,19,Mississippi,,0,67000,,,Bluebonnet Bowl
+1318,1965,12/18/1965,Sat,Tennessee,7,27,Tulsa,,6,40000,,,Bluebonnet Bowl
+1319,1964,12/19/1964,Sat,Tulsa,,14,Mississippi,,7,50000,,,Bluebonnet Bowl
+1320,1963,12/21/1963,Sat,Baylor,,14,Louisiana State,,7,50000,,,Bluebonnet Bowl
+1321,1962,12/22/1962,Sat,Missouri,,14,Georgia Tech,,10,55000,,,Bluebonnet Bowl
+1322,1961,12/16/1961,Sat,Kansas,,33,Rice,,7,52000,,,Bluebonnet Bowl
+1323,1960,12/17/1960,Sat,Texas,,3,Alabama,17,3,68000,,,Bluebonnet Bowl
+1324,1959,12/19/1959,Sat,Clemson,10,23,Texas Christian,7,7,55000,,,Bluebonnet Bowl
+1325,1958,12/13/1958,Sat,Oklahoma State,,15,Florida State,,6,7000,,,Bluegrass Bowl
+1326,1991,12/14/1991,Sat,Bowling Green,,28,Fresno State,,21,34825,,California Raisin Advisory Board,California Bowl
+1327,1990,12/8/1990,Sat,San Jose State,,48,Central Michigan,,24,25431,,California Raisin Advisory Board,California Bowl
+1328,1989,12/9/1989,Sat,Fresno State,,27,Ball State,,6,31610,,California Raisin Advisory Board,California Bowl
+1329,1988,12/10/1988,Sat,Fresno State,,35,Western Michigan,,30,31272,RB Darell Rosette (Fresno State),California Raisin Advisory Board,California Bowl
+1330,1987,12/12/1987,Sat,Eastern Michigan,,30,San Jose State,,27,24000,RB Gary Patton (Eastern Michigan),,California Bowl
+1331,1986,12/13/1986,Sat,San Jose State,,37,Miami,,7,10743,QB Mike Perez (San Jose State),,California Bowl
+1332,1985,12/14/1985,Sat,Fresno State,,51,Bowling Green,20,7,32554,P Mike Mancini (Fresno State),,California Bowl
+1333,1984,12/15/1984,Sat,Nevada-Las Vegas,,30,Toledo,,13,21741,,,California Bowl
+1334,1983,12/17/1983,Sat,Northern Illinois,,20,Cal State Fullerton,,13,20464,RB Lou Wicks (Northern Illinois),,California Bowl
+1335,1982,12/18/1982,Sat,Fresno State,,29,Bowling Green,,28,30000,QB Jeff Tedford (Fresno State),,California Bowl
+1336,1981,12/19/1981,Sat,Toledo,,27,San Jose State,,25,15565,,,California Bowl
+1337,1985,12/21/1985,Sat,Maryland,20,35,Syracuse,,18,51858,,,Cherry Bowl
+1338,1984,12/22/1984,Sat,Army,,10,Michigan State,,6,70332,,,Cherry Bowl
+1339,1948,1/1/1949,Sat,William & Mary,20,20,Oklahoma State,,0,15069,,,Delta Bowl
+1340,1947,1/1/1948,Thu,Mississippi,12,13,Texas Christian,,9,28120,,,Delta Bowl
+1341,1948,1/1/1949,Sat,Baylor,,20,Wake Forest,,7,22000,,,Dixie Bowl
+1342,1947,1/1/1948,Thu,Arkansas,,21,William & Mary,13,19,20000,,,Dixie Bowl
+1343,1933,1/1/1934,Mon,Centenary,,7,Arkansas,,7,12000,,,Dixie Classic
+1344,1924,1/1/1925,Thu,West Virginia Wesleyan,,9,Southern Methodist,,7,7000,,,Dixie Classic
+1345,1921,1/2/1922,Mon,Texas A&M,,22,Centre,,14,12000,,,Dixie Classic
+1346,2020,12/23/2020,Wed,Memphis,,25,Florida Atlantic,,10,2979,Memphis QB Brady White,,Montgomery Bowl
+1347,2019,12/30/2019,Mon,California,,35,Illinois,,20,34177,"California QB Chase Garbers, California DE Zeandae Johnson",Redbox,Redbox Bowl
+1348,2018,12/31/2018,Mon,Oregon,,7,Michigan State,,6,30212,"Oregon WR Dillon Mitchell, Michigan State CB Josiah Scott",Redbox,Redbox Bowl
+1349,2017,12/27/2017,Wed,Purdue,,38,Arizona,,35,28436,"Purdue QB Elijah Sindelar, Purdue LB Ja'Whaun Bentley",Foster Farms,Redbox Bowl
+1350,2016,12/28/2016,Wed,Utah,,26,Indiana,,24,27608,"Utah RB Joe Williams, Indiana LB Tegray Scales",,Redbox Bowl
+1351,2015,12/26/2015,Sat,Nebraska,,37,UCLA,,29,33527,"Nebraska QB Tommy Armstrong, Jr., UCLA DB Jaleel Wadood",,Redbox Bowl
+1352,2014,12/30/2014,Tue,Stanford,,45,Maryland,,21,34780,"QB Kevin Hogan (Stanford), LB James Vaughters (Stanford)",,Redbox Bowl
+1353,2013,12/27/2013,Fri,Washington,,31,Brigham Young,,16,34136,"RB Bishop Sankey (Washington), DE Hau'oli Kikaha (Washington)",Kraft,Redbox Bowl
+1354,2012,12/29/2012,Sat,Arizona State,,62,Navy,,28,34172,"RB Marion Grice (Arizona State), DL Will Sutton (Arizona State)",Kraft,Redbox Bowl
+1355,2011,12/31/2011,Sat,Illinois,,20,UCLA,,14,29878,"QB Nathan Scheelhasse (Illinois), DB Terry Hawthorne (Illinois)",Kraft,Redbox Bowl
+1356,2010,1/9/2011,Sun,Nevada,13,20,Boston College,,13,41063,"WR Rishard Matthews (Nevada), LB Luke Kuechly (Boston College)",Kraft,Redbox Bowl
+1357,2009,12/26/2009,Sat,Southern California,,24,Boston College,,13,40121,WR Damian Williams (Southern California),Diamond Foods,Redbox Bowl
+1358,2008,12/27/2008,Sat,California,,24,Miami,,17,42268,"RB Jahvid Best (California), LB Zack Follett (California)",Diamond Foods,Redbox Bowl
+1359,2007,12/28/2007,Fri,Oregon State,,21,Maryland,,14,32517,"RB Yvenson Bernard (Oregon State), LB Derrick Doggett (Oregon State)",Diamond Foods,Redbox Bowl
+1360,2006,12/27/2006,Wed,Florida State,,44,UCLA,,27,40331,"RB Lorenzo Booker (Florida State), DB Tony Carter (Florida State)",Diamond Foods,Redbox Bowl
+1361,2005,12/29/2005,Thu,Utah,,38,Georgia Tech,24,10,25742,"WR Travis LaTendresse (Utah), DB Eric Weddle (Utah)",Diamond Foods,Redbox Bowl
+1362,2004,12/30/2004,Thu,Navy,,34,New Mexico,,19,30563,"QB Aaron Polanco (Navy), DB Vaughn Keley (Navy)",Diamond Foods,Redbox Bowl
+1363,2003,12/31/2003,Wed,Boston College,,35,Colorado State,,21,25621,"RB Derrick Knight (Boston College), DB T. J. Stancil (Boston College)",Diamond Foods,Redbox Bowl
+1364,2002,12/31/2002,Tue,Virginia Tech,21,20,Air Force,,13,25966,"QB Bryan Randall (Virginia Tech), LB Anthony Schiegel (Air Force)",Diamond Foods,Redbox Bowl
+1365,1920,1/1/1921,Sat,Centre,,63,Texas Christian,,7,9000,,,Fort Worth Classic
+1366,1994,12/27/1994,Tue,Utah,14,16,Arizona,15,13,27477,"LB Tedy Bruschi (Arizona), KR Cal Beck (Utah)",,Freedom Bowl
+1367,1993,12/30/1993,Thu,Southern California,,28,Utah,,21,37203,"WR Johnnie Morton (Southern California), TE Henry Lusk (Utah)",,Freedom Bowl
+1368,1992,12/29/1992,Tue,Fresno State,,24,Southern California,23,7,50745,,,Freedom Bowl
+1369,1991,12/30/1991,Mon,Tulsa,23,28,San Diego State,,17,34217,,,Freedom Bowl
+1370,1990,12/29/1990,Sat,Colorado State,,32,Oregon,,31,41450,QB Bill Musgrave (Oregon),,Freedom Bowl
+1371,1989,12/30/1989,Sat,Washington,,34,Florida,,7,33858,,,Freedom Bowl
+1372,1988,12/29/1988,Thu,Brigham Young,,20,Colorado,,17,35941,,,Freedom Bowl
+1373,1987,12/30/1987,Wed,Arizona State,,33,Air Force,,28,33261,,,Freedom Bowl
+1374,1986,12/30/1986,Tue,UCLA,15,31,Brigham Young,,10,55422,,,Freedom Bowl
+1375,1985,12/30/1985,Mon,Washington,,20,Colorado,,17,30961,,,Freedom Bowl
+1376,1984,12/26/1984,Wed,Iowa,,55,Texas,19,17,24093,,,Freedom Bowl
+1377,1981,12/13/1981,Sun,Tennessee,,28,Wisconsin,,21,38782,,,Garden State Bowl
+1378,1980,12/14/1980,Sun,Houston,,35,Navy,,0,41417,,,Garden State Bowl
+1379,1979,12/15/1979,Sat,Temple,20,28,California,,17,55493,,,Garden State Bowl
+1380,1978,12/16/1978,Sat,Arizona State,,34,Rutgers,,18,33402,,,Garden State Bowl
+1381,1962,12/15/1962,Sat,Nebraska,,36,Miami,,34,6166,,,Gotham Bowl
+1382,1961,12/9/1961,Sat,Baylor,,24,Utah State,,9,15123,,,Gotham Bowl
+1383,1947,12/6/1947,Sat,Kentucky,,24,Villanova,,14,14908,,,Great Lakes Bowl
+1384,1948,1/1/1949,Sat,Villanova,,27,Nevada,,7,20000,,,Harbor Bowl
+1385,1947,1/1/1948,Thu,Hardin-Simmons,,53,San Diego State,,0,12000,,,Harbor Bowl
+1386,1946,1/1/1947,Wed,New Mexico,,13,Montana State,,13,7000,,,Harbor Bowl
+1387,2019,12/24/2019,Tue,Hawaii,,38,Brigham Young,,34,21582,"Hawaii QB Cole McDonald, BYU QB Zach Wilson",SoFi,Hawaii Bowl
+1388,2018,12/22/2018,Sat,Louisiana Tech,,31,Hawaii,,14,30911,"Louisiana Tech DE Jaylon Ferguson, Hawaii DE Kendall Hune",SoFi,Hawaii Bowl
+1389,2017,12/24/2017,Sun,Fresno State,,33,Houston,,27,20546,"Fresno State QB Marcus McMaryion, Houston WR Steven Dunbar",,Hawaii Bowl
+1390,2016,12/24/2016,Sat,Hawaii,,52,Middle Tennessee State,,35,23175,"Hawaii QB Dru Brown, Middle Tennessee WR Richie James",,Hawaii Bowl
+1391,2015,12/24/2015,Thu,San Diego State,,42,Cincinnati,,7,22793,San Diego State FB Dakota Gordon,,Hawaii Bowl
+1392,2014,12/24/2014,Wed,Rice,,30,Fresno State,,6,25365,"QB Driphus Jackson (Rice), DE Brian Nordstrom (Rice), LB Carl Mickelsen (Fresno State)",,Hawaii Bowl
+1393,2013,12/24/2013,Tue,Oregon State,,38,Boise State,,23,29106,"CB Rashaad Reynolds (Oregon State), WR Matt Miller (Boise State)",Sheraton Hotels and Resorts,Hawaii Bowl
+1394,2012,12/24/2012,Mon,Southern Methodist,,43,Fresno State,,10,30024,"WR Davante Adams (Fresno State), DL Margus Hunt (Southern Methodist)",Sheraton Hotels and Resorts,Hawaii Bowl
+1395,2011,12/24/2011,Sat,Southern Mississippi,22,24,Nevada,,17,32630,"DL Cordarro Law (Southern Mississippi), RB Lampford Mark (Nevada)",Sheraton Hotels and Resorts,Hawaii Bowl
+1396,2010,12/24/2010,Fri,Tulsa,,62,Hawaii,24,35,43673,"WR Damaris Johnson (Tulsa), WR Greg Sales (Hawaii)",Sheraton Hotels and Resorts,Hawaii Bowl
+1397,2009,12/24/2009,Thu,Southern Methodist,,45,Nevada,,10,32650,QB Kyle Padron (Southern Methodist),Sheraton Hotels and Resorts,Hawaii Bowl
+1398,2008,12/24/2008,Wed,Notre Dame,,49,Hawaii,,21,45718,"QB Jimmy Clausen (Notre Dame), WR Golden Tate (Notre Dame)",Sheraton Hotels and Resorts,Hawaii Bowl
+1399,2007,12/23/2007,Sun,East Carolina,,41,Boise State,24,38,30467,"RB Chris Johnson (East Carolina), RB James Avery (Boise State)",Sheraton Hotels and Resorts,Hawaii Bowl
+1400,2006,12/24/2006,Sun,Hawaii,,41,Arizona State,,24,43435,"WR Jason Rivers (Hawaii), QB Colt Brennan (Hawaii)",Sheraton Hotels and Resorts,Hawaii Bowl
+1401,2005,12/24/2005,Sat,Nevada,,49,Central Florida,,48,26254,"WR Brandon Marshall (Central Florida), RB BJ Mitchell (Nevada)",Sheraton Hotels and Resorts,Hawaii Bowl
+1402,2004,12/24/2004,Fri,Hawaii,,59,Alabama-Birmingham,,40,39662,"QB Timmy Chang (Hawaii), WR Chad Owens (Hawaii)",Sheraton Hotels and Resorts,Hawaii Bowl
+1403,2003,12/25/2003,Thu,Hawaii,,54,Houston,,48,29005,QB Timmy Chang (Hawaii),Sheraton Hotels and Resorts,Hawaii Bowl
+1404,2002,12/25/2002,Wed,Tulane,,36,Hawaii,,28,31535,DB Lynaris Elpheage (Tulane),ConAgra Foods,Hawaii Bowl
+1405,2019,12/27/2019,Fri,Iowa,19,49,Southern California,22,24,50123,"Iowa WR Ihmir Smith-Marsette, Iowa DE A.J. Epenesa",San Diego County Credit Union,Holiday Bowl
+1406,2018,12/31/2018,Mon,Northwestern,,31,Utah,20,20,47007,"Northwestern QB Clayton Thorson, Northwestern S JR Pace",San Diego County Credit Union,Holiday Bowl
+1407,2017,12/28/2017,Thu,Michigan State,18,42,Washington State,21,17,47092,"Michigan State QB Brian Lewerke, Michigan State LB Chris Frey Jr.",San Diego County Credit Union,Holiday Bowl
+1408,2016,12/27/2016,Tue,Minnesota,,17,Washington State,,12,48704,"Minnesota RB Rodney Smith, Minnesota LB Blake Cashman",National Funding,Holiday Bowl
+1409,2015,12/30/2015,Wed,Wisconsin,23,23,Southern California,,21,48329,"Wisconsin QB Jole Stave, Wisconsin LB Jack Cichy",National Funding,Holiday Bowl
+1410,2014,12/27/2014,Sat,Southern California,24,45,Nebraska,25,42,55789,"QB Cody Kessler (USC), DE Leonard Williams (USC)",National University,Holiday Bowl
+1411,2013,12/30/2013,Mon,Texas Tech,,37,Arizona State,16,23,52930,"QB Davis Webb (Texas Tech), LB Will Smith (Texas Tech)",National University,Holiday Bowl
+1412,2012,12/27/2012,Thu,Baylor,,49,UCLA,17,26,55507,"RB Lache Seastrunk (Baylor), DL Chris McAllister (Baylor)",Bridgepoint Education,Holiday Bowl
+1413,2011,12/28/2011,Wed,Texas,,21,California,,10,56313,"QB David Ash (Texas), LB Keenan Robinson (Texas)",Bridgepoint Education,Holiday Bowl
+1414,2010,12/30/2010,Thu,Washington,,19,Nebraska,17,7,57291,"RB Chris Polk (Washington), LB Mason Foster (Washington)",Bridgepoint Education,Holiday Bowl
+1415,2009,12/30/2009,Wed,Nebraska,20,33,Arizona,22,0,64607,"WR Niles Paul (Nebraska), DB Matt O'Hanlon (Nebraska)",Pacific Life Insurance,Holiday Bowl
+1416,2008,12/30/2008,Tue,Oregon,15,42,Oklahoma State,13,31,59106,QB Jeremiah Masoli (Oregon),Pacific Life Insurance,Holiday Bowl
+1417,2007,12/27/2007,Thu,Texas,17,52,Arizona State,12,34,64020,"QB Colt McCoy (Texas), DL Brian Orakpo (Texas)",Pacific Life Insurance,Holiday Bowl
+1418,2006,12/28/2006,Thu,California,20,45,Texas A&M,21,10,62395,"RB Marshawn Lynch (California), LB Desmond Bishop (California)",Pacific Life Insurance,Holiday Bowl
+1419,2005,12/29/2005,Thu,Oklahoma,,17,Oregon,6,14,65416,"QB Rhett Bomar (Oklahoma), DB Anthony Trucks (Oregon)",Pacific Life Insurance,Holiday Bowl
+1420,2004,12/30/2004,Thu,Texas Tech,23,45,California,4,31,66222,"QB Sonny Cumbie (Texas Tech), DB Vincent Meeks (Texas Tech)",Pacific Life Insurance,Holiday Bowl
+1421,2003,12/30/2003,Tue,Washington State,15,28,Texas,5,20,61102,"WR Sammy Moore (Washington State), P Kyle Basler (Washington State)",Pacific Life Insurance,Holiday Bowl
+1422,2002,12/27/2002,Fri,Kansas State,6,34,Arizona State,,27,58717,"QB Ell Roberson (Kansas State), DL Terrell Suggs (Arizona State)",Pacific Life Insurance,Holiday Bowl
+1423,2001,12/28/2001,Fri,Texas,9,47,Washington,21,43,60548,"QB Major Applewhite (Texas), LB Derrick Johnson (Texas)",Culligan,Holiday Bowl
+1424,2000,12/29/2000,Fri,Oregon,8,35,Texas,12,30,63278,"QB Joey Harrington (Oregon), DB Rashad Bauman (Oregon)",Culligan,Holiday Bowl
+1425,1999,12/29/1999,Wed,Kansas State,7,24,Washington,,20,57118,"QB Jonathan Beasley (Kansas State), DL Darren Howard (Kansas State)",Culligan,Holiday Bowl
+1426,1998,12/30/1998,Wed,Arizona,5,23,Nebraska,14,20,65354,"QB Keith Smith (Arizona), DL Mike Rucker (Nebraska)",Culligan,Holiday Bowl
+1427,1997,12/29/1997,Mon,Colorado State,18,35,Missouri,19,24,50761,"QB Moses Moreno (Colorado State), WR Darran Hall (Colorado State)",Plymouth,Holiday Bowl
+1428,1996,12/30/1996,Mon,Colorado,8,33,Washington,13,21,54749,"QB Koy Detmer (Colorado), DL Nick Ziegler (Colorado)",Plymouth,Holiday Bowl
+1429,1995,12/29/1995,Fri,Kansas State,10,54,Colorado State,,21,51051,"QB Brian Kavanagh (Kansas State), DB Mario Smith (Kansas State)",Plymouth,Holiday Bowl
+1430,1994,12/30/1994,Fri,Michigan,20,24,Colorado State,10,14,59453,"QB Todd Collins (Michigan), QB Anthoney Hill (Colorado State)",Thrifty Car Rental,Holiday Bowl
+1431,1993,12/30/1993,Thu,Ohio State,11,28,Brigham Young,,21,52108,"RB Raymont Harris (Ohio State), QB John Walsh (Brigham Young)",Thrifty Car Rental,Holiday Bowl
+1432,1992,12/30/1992,Wed,Hawaii,,27,Illinois,,17,44457,"QB Michael Carter (Hawaii), DL Junior Tagoai (Hawaii)",Thrifty Car Rental,Holiday Bowl
+1433,1991,12/30/1991,Mon,Iowa,7,13,Brigham Young,,13,60646,"QB Ty Detmer (Brigham Young), DB Carlos James (Iowa)",Thrifty Car Rental,Holiday Bowl
+1434,1990,12/29/1990,Sat,Texas A&M,,65,Brigham Young,13,14,61441,"QB Bucky Richardson (Texas A&M), LB William Thomas (Texas A&M)",SeaWorld,Holiday Bowl
+1435,1989,12/29/1989,Fri,Penn State,18,50,Brigham Young,19,39,61113,"RB Blair Thomas (Penn State), QB Ty Detmer (Brigham Young)",SeaWorld,Holiday Bowl
+1436,1988,12/30/1988,Fri,Oklahoma State,12,62,Wyoming,15,14,60718,"RB Barry Sanders (Oklahoma State), LB Sim Drain (Oklahoma State)",SeaWorld,Holiday Bowl
+1437,1987,12/30/1987,Wed,Iowa,18,20,Wyoming,,19,61892,"QB Craig Burnett (Wyoming), DB Anthony Wright (Iowa)",SeaWorld,Holiday Bowl
+1438,1986,12/30/1986,Tue,Iowa,19,39,San Diego State,,38,59473,"QB Mark Vlasic (Iowa), LB Richard Brown (San Diego State)",SeaWorld,Holiday Bowl
+1439,1985,12/22/1985,Sun,Arkansas,14,18,Arizona State,,17,42324,"RB Bobby Joe Edmonds (Arkansas), LB Greg Battle (Arizona State)",,Holiday Bowl
+1440,1984,12/21/1984,Fri,Brigham Young,1,24,Michigan,,17,61243,"QB Robbie Bosco (Brigham Young), LB Leon White (Brigham Young)",,Holiday Bowl
+1441,1983,12/23/1983,Fri,Brigham Young,9,21,Missouri,,17,51480,"QB Steve Young (Brigham Young), DL Bobby Bell (Missouri)",,Holiday Bowl
+1442,1982,12/17/1982,Fri,Ohio State,17,47,Brigham Young,,17,52533,"RB Tim Spencer (Ohio State), DB Garcia Lane (Ohio State)",,Holiday Bowl
+1443,1981,12/18/1981,Fri,Brigham Young,14,38,Washington State,20,36,52419,"QB Jim McMahon (Brigham Young), LB Kyle Whittingham (Brigham Young)",,Holiday Bowl
+1444,1980,12/19/1980,Fri,Brigham Young,14,46,Southern Methodist,19,45,50214,"QB Jim McMahon (Brigham Young), RB Craig James (Southern Methodist)",,Holiday Bowl
+1445,1979,12/21/1979,Fri,Indiana,,38,Brigham Young,9,37,52200,"QB Marc Wilson (Brigham Young), DB Tim Wilbur (Indiana)",,Holiday Bowl
+1446,1978,12/22/1978,Fri,Navy,,23,Brigham Young,,16,52500,"WR Phil McConkey (Navy), LB Tom Enlow (Brigham Young)",,Holiday Bowl
+1447,2005,12/31/2005,Sat,Texas Christian,14,27,Iowa State,,24,37280,"QB Jeff Ballard (Texas Christian), DL Jason Berryman (Iowa State)",EV1.net,Houston Bowl
+1448,2004,12/29/2004,Wed,Colorado,,33,Texas-El Paso,,28,27235,"QB Joel Klatt (Colorado), DB Tom Hubbard (Colorado)",EV1.net,Houston Bowl
+1449,2003,12/30/2003,Tue,Texas Tech,,38,Navy,,14,51068,"QB B.J. Symons (Texas Tech), DL Adell Duckett (Texas Tech)",EV1.net,Houston Bowl
+1450,2002,12/27/2002,Fri,Oklahoma State,,33,Southern Mississippi,,23,44687,"WR Rashaun Woods (Oklahoma State), DL Kevin Williams (Oklahoma State)",EV1.net,Houston Bowl
+1451,2001,12/28/2001,Fri,Texas A&M,,28,Texas Christian,,9,53480,"DB Byron Jones (Texas A&M), RB Joe Weber (Texas A&M)",Gallery Furniture,Houston Bowl
+1452,2000,12/27/2000,Wed,East Carolina,,40,Texas Tech,,27,33899,"QB David Garrard (East Carolina), DL Bernard Williams (East Carolina)",Gallery Furniture,Houston Bowl
+1453,2009,1/2/2010,Sat,South Florida,,27,Northern Illinois,,3,22185,RB Mike Ford (South Florida),,International Bowl
+1454,2008,1/3/2009,Sat,Connecticut,,38,Buffalo,,20,40184,RB Donald Brown (Connecticut),,International Bowl
+1455,2007,1/5/2008,Sat,Rutgers,,52,Ball State,,30,31455,RB Ray Rice (Rutgers),,International Bowl
+1456,2006,1/6/2007,Sat,Cincinnati,,27,Western Michigan,,24,26717,WR Dominick Goodman (Cincinnati),,International Bowl
+1457,2013,12/26/2013,Thu,Pittsburgh,,30,Bowling Green,,27,26259,RB James Conner (Pitt),Little Caesars,Little Caesars Bowl
+1458,2012,12/26/2012,Wed,Central Michigan,,24,Western Kentucky,,21,23310,QB Ryan Radcliff (Central Michigan),Little Caesars,Little Caesars Bowl
+1459,2011,12/27/2011,Tue,Purdue,,37,Western Michigan,,32,46177,RB Akeem Shavers (Purdue),Little Caesars,Little Caesars Bowl
+1460,2010,12/26/2010,Sun,Florida International,,34,Toledo,,32,32431,WR T. Y. Hilton (Florida International),Little Caesars,Little Caesars Bowl
+1461,2009,12/26/2009,Sat,Marshall,,21,Ohio,,17,30331,RB Martin Ward (Marshall),Little Caesars,Little Caesars Bowl
+1462,2008,12/26/2008,Fri,Florida Atlantic,,24,Central Michigan,,21,41399,QB Rusty Smith (Florida Atlantic),,Little Caesars Bowl
+1463,2007,12/26/2007,Wed,Purdue,,51,Central Michigan,,48,60624,QB Curtis Painter (Purdue),,Little Caesars Bowl
+1464,2006,12/26/2006,Tue,Central Michigan,,31,Middle Tennessee State,,14,54113,QB Dan LeFevour (Central Michigan),,Little Caesars Bowl
+1465,2005,12/26/2005,Mon,Memphis,,38,Akron,,31,50616,RB DeAngelo Williams (Memphis),,Little Caesars Bowl
+1466,2004,12/27/2004,Mon,Connecticut,,39,Toledo,,10,52552,QB Dan Orlovsky (Connecticut),,Little Caesars Bowl
+1467,2003,12/26/2003,Fri,Bowling Green,,28,Northwestern,,24,51286,"QB Josh Harris (Bowling Green State), RB Jason Wright (Northwestern)",,Little Caesars Bowl
+1468,2002,12/26/2002,Thu,Boston College,,51,Toledo,,25,51872,QB Brian St. Pierre (Boston College),,Little Caesars Bowl
+1469,2001,12/29/2001,Sat,Toledo,25,23,Cincinnati,,16,44164,RB Chester Taylor (Toledo),,Little Caesars Bowl
+1470,2000,12/27/2000,Wed,Marshall,,25,Cincinnati,,14,52911,QB Byron Leftwich (Marshall),,Little Caesars Bowl
+1471,1999,12/27/1999,Mon,Marshall,11,21,Brigham Young,,3,44863,RB Doug Chapman (Marshall),,Little Caesars Bowl
+1472,1998,12/23/1998,Wed,Marshall,,48,Louisville,,29,32206,QB Chad Pennington (Marshall),,Little Caesars Bowl
+1473,1997,12/26/1997,Fri,Mississippi,,34,Marshall,,31,43340,QB Stewart Patridge (Mississippi),,Little Caesars Bowl
+1474,1924,12/25/1924,Thu,Southern California,,20,Missouri,,7,47000,,,Los Angeles Christmas Festival
+1475,2016,12/19/2016,Mon,Tulsa,,55,Central Michigan,,10,15262,Tulsa QB Dane Evans,,Miami Beach Bowl
+1476,2015,12/21/2015,Mon,Western Kentucky,25,45,South Florida,,35,21712,Western Kentucky QB Brandon Doughty,,Miami Beach Bowl
+1477,2014,12/22/2014,Mon,Memphis,,55,Brigham Young,,48,36742,QB Paxton Lynch (Memphis),,Miami Beach Bowl
+1478,2019,12/27/2019,Fri,North Carolina,,55,Temple,,13,24242,North Carolina QB Sam Howell,Northrop Grumman,Military Bowl
+1479,2018,12/31/2018,Mon,Cincinnati,,35,Virginia Tech,,31,32832,Cincinnati RB Mike Warren,Northrop Grumman,Military Bowl
+1480,2017,12/28/2017,Thu,Navy,,49,Virginia,,7,35921,Navy QB Zach Abey,Northrop Grumman,Military Bowl
+1481,2016,12/27/2016,Tue,Wake Forest,,34,Temple,23,26,26656,Wake Forest LB Thomas Brown,Northrop Grumman,Military Bowl
+1482,2015,12/28/2015,Mon,Navy,21,44,Pittsburgh,,28,36352,Navy QB Keenan Reynolds,Northrop Grumman,Military Bowl
+1483,2014,12/27/2014,Sat,Virginia Tech,,33,Cincinnati,,17,34277,RB J.C. Coleman (Virginia Tech),Northrop Grumman,Military Bowl
+1484,2013,12/27/2013,Fri,Marshall,,31,Maryland,,20,30163,QB Rakeem Cato (Marshall),Northrop Grumman,Military Bowl
+1485,2012,12/27/2012,Thu,San Jose State,24,29,Bowling Green,,20,17835,QB David Fales (San Jose State),Northrop Grumman,Military Bowl
+1486,2011,12/28/2011,Wed,Toledo,,42,Air Force,,41,25042,WR Bernard Reedy (Toledo),Northrop Grumman,Military Bowl
+1487,2010,12/29/2010,Wed,Maryland,,51,East Carolina,,20,38062,RB Da'Rel Scott (Maryland),Northrop Grumman,Military Bowl
+1488,2009,12/29/2009,Tue,UCLA,,30,Temple,,21,23072,LB Akeem Ayers (UCLA),EagleBank,Military Bowl
+1489,2008,12/20/2008,Sat,Wake Forest,,29,Navy,,19,28777,QB Riley Skinner (Wake Forest),EagleBank,Military Bowl
+1490,1946,1/1/1947,Wed,Georgia Tech,7,41,Saint Mary's,,19,23000,,,Oil Bowl
+1491,1945,1/1/1946,Tue,Georgia,,20,Tulsa,14,6,27000,,,Oil Bowl
+1492,1971,12/18/1971,Sat,Memphis,,28,San Jose State,,9,,,,Pasadena Bowl
+1493,1970,12/19/1970,Sat,Louisville,,24,Long Beach State,,24,,,,Pasadena Bowl
+1494,1969,12/6/1969,Sat,San Diego State,,28,Boston University,,7,,,,Pasadena Bowl
+1495,1968,12/7/1968,Sat,Grambling State,,34,Sacramento State,,7,,,,Pasadena Bowl
+1496,1967,12/2/1967,Sat,West Texas A&M,,35,Cal State Northridge,,13,,,,Pasadena Bowl
+1497,2016,12/21/2016,Wed,Brigham Young,,24,Wyoming,,21,28114,"BYU RB Jamaal Williams, BYU LB Harvey Lang",San Diego County Credit Union,Poinsettia Bowl
+1498,2015,12/23/2015,Wed,Boise State,,55,Northern Illinois,,7,21501,"Boise State QB Brett Rypien, Boise State DE Kamalei Correa",San Diego County Credit Union,Poinsettia Bowl
+1499,2014,12/23/2014,Tue,Navy,,17,San Diego State,,16,33077,"QB Keenan Reynolds (Navy), LB Jordan Drake (Navy)",San Diego County Credit Union,Poinsettia Bowl
+1500,2013,12/26/2013,Thu,Utah State,,21,Northern Illinois,24,14,23408,"RB Joey DeMartino (Utah State), LB Jake Doughty (Utah State)",San Diego County Credit Union,Poinsettia Bowl
+1501,2012,12/20/2012,Thu,Brigham Young,,23,San Diego State,,6,35442,"WR Cody Hoffman (Brigham Young), LB Kyle Van Noy (Brigham Young)",San Diego County Credit Union,Poinsettia Bowl
+1502,2011,12/21/2011,Wed,Texas Christian,16,31,Louisiana Tech,,24,24607,"WR Skye Dawson (Texas Christian), DB Greg McCoy (Texas Christian)",San Diego County Credit Union,Poinsettia Bowl
+1503,2010,12/23/2010,Thu,San Diego State,,35,Navy,,14,48049,"RB Ronnie Hillman (San Diego State), WR Vincent Brown (San Diego State)",San Diego County Credit Union,Poinsettia Bowl
+1504,2009,12/23/2009,Wed,Utah,23,37,California,,27,32665,"QB Jordan Wynn (Utah), LB Stevenson Sylvester (Utah)",San Diego County Credit Union,Poinsettia Bowl
+1505,2008,12/23/2008,Tue,Texas Christian,11,17,Boise State,9,16,34628,"QB Andy Dalton (Texas Christian), DB Stephen Hodge (Texas Christian)",San Diego County Credit Union,Poinsettia Bowl
+1506,2007,12/20/2007,Thu,Utah,,35,Navy,,32,39129,"QB Brian Johnson (Utah), DB Joe Dale (Utah)",San Diego County Credit Union,Poinsettia Bowl
+1507,2006,12/19/2006,Tue,Texas Christian,25,37,Northern Illinois,,7,29709,"QB Jeff Ballard (Texas Christian), DL Tommy Blake (Texas Christian)",San Diego County Credit Union,Poinsettia Bowl
+1508,2005,12/22/2005,Thu,Navy,,51,Colorado State,,30,36842,"RB Reggie Campbell (Navy), LB Tyler Tidwell (Navy)",San Diego County Credit Union,Poinsettia Bowl
+1509,1950,12/9/1950,Sat,Texas A&M,,40,Georgia,,20,12245,,,Presidential Cup
+1510,1951,1/1/1952,Tue,Houston,,26,Dayton,,21,17000,,,Salad Bowl
+1511,1950,1/1/1951,Mon,Miami,,34,Arizona State,,21,23000,,,Salad Bowl
+1512,1949,1/1/1950,Sun,Xavier,,33,Arizona State,,21,18500,,,Salad Bowl
+1513,1948,1/1/1949,Sat,Drake,,14,Arizona,,13,17500,,,Salad Bowl
+1514,1947,1/1/1948,Thu,Nevada,,13,North Texas,,6,12500,,,Salad Bowl
+1515,1922,12/25/1922,Mon,West Virginia,,21,Gonzaga,,13,5000,,,San Diego East-West Christmas Classic
+1516,1921,12/26/1921,Mon,Centre,,38,Arizona,,0,5000,,,San Diego East-West Christmas Classic
+1517,2002,12/30/2002,Mon,Wake Forest,,38,Oregon,,17,38241,,,Seattle Bowl
+1518,2001,12/27/2001,Thu,Georgia Tech,,24,Stanford,11,14,30144,,Jeep,Seattle Bowl
+1519,2000,12/24/2000,Sun,Georgia,24,37,Virginia,,14,24187,,Jeep,Seattle Bowl
+1520,1999,12/25/1999,Sat,Hawaii,,23,Oregon State,,17,40974,,Jeep,Seattle Bowl
+1521,1998,12/25/1998,Fri,Air Force,16,45,Washington,,25,46451,,Jeep,Seattle Bowl
+1522,1948,12/18/1948,Sat,Hardin-Simmons,,40,Ouachita,,12,,,,Shrine Bowl
+1523,2004,12/30/2004,Thu,Northern Illinois,,34,Troy,,21,21456,"RB Dewhitt Betterson (Troy), DB Lionel Hickenbottom (Northern Illinois)",,Silicon Valley Bowl
+1524,2003,12/30/2003,Tue,Fresno State,,17,UCLA,,9,20126,"RB Rodney Davis (Fresno State), DL Garrett McIntyre (Fresno State)",,Silicon Valley Bowl
+1525,2002,12/31/2002,Tue,Fresno State,,30,Georgia Tech,,21,10132,"RB Rodney Davis (Fresno State), DL Jason Stewart (Fresno State)",,Silicon Valley Bowl
+1526,2001,12/31/2001,Mon,Michigan State,,44,Fresno State,20,35,30456,"WR Charles Rogers (Michigan State), DL Nick Myers (Michigan State)",,Silicon Valley Bowl
+1527,2000,12/31/2000,Sun,Air Force,,37,Fresno State,,34,26542,"QB Mike Thiessen (Air Force), LB Tim Skipper (Fresno State)",,Silicon Valley Bowl

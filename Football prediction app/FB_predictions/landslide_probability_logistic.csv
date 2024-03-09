@@ -1,0 +1,147 @@
+team_name,prob_landslide_winning,prob_landslide_losing
+Akron,0.0,0.0
+Alabama,0.21951219512195122,0.3333333333333333
+Alabama-Birmingham,0.0,0.0
+Appalachian State,0.0,0.0
+Arizona,0.0,0.1111111111111111
+Arizona State,0.0,0.0
+Arkansas,0.23076923076923078,0.23076923076923078
+Arkansas State,0.0,0.25
+Army,0.0,0.0
+Auburn,0.08695652173913043,0.15789473684210525
+Ball State,0.0,0.0
+Baylor,0.1,0.2
+Boise State,0.0,0.0
+Boston College,0.0,0.08333333333333333
+Bowling Green,0.0,0.0
+Bowling Green State,0.0,0.0
+Brigham Young,0.0,0.0
+Buffalo,0.0,1.0
+California,0.16666666666666666,0.0
+Central Florida,0.0,0.0
+Central Michigan,0.0,0.5454545454545454
+Charleston,1.0,0.0
+Cincinnati,0.0,0.0
+Citadel,1.0,0.0
+Clemson,0.08333333333333333,0.09090909090909091
+Coastal Carolina,0.0,0.09523809523809523
+Colorado,0.14285714285714285,1.0
+Colorado State,0.0,0.0
+Columbia,1.0,0.07692307692307693
+Connecticut,0.0,0.0
+Duke,0.25,0.0
+East Carolina,0.25,1.0
+Eastern Michigan,0.0,1.0
+Florida,0.20833333333333334,0.2857142857142857
+Florida Atlantic,0.0,0.0
+Florida International,0.0,1.0
+Florida State,0.03571428571428571,0.0
+Fresno State,0.0,1.0
+George Washington,1.0,0.1
+Georgia,0.12121212121212122,0.0
+Georgia Southern,0.0,0.0
+Georgia State,0.0,0.2222222222222222
+Georgia Tech,0.3888888888888889,1.0
+Harvard,1.0,0.0
+Hawaii,0.0,1.0
+Houston,0.125,0.21052631578947367
+Idaho,0.0,0.0
+Illinois,0.375,0.0
+Indiana,0.0,0.2222222222222222
+Iowa,0.11764705882352941,1.0
+Iowa State,0.0,0.0
+Kansas,0.0,0.0
+Kansas State,0.0,0.0
+Kent State,0.0,0.1
+Kentucky,0.2,0.0
+Lamar,1.0,0.0
+Liberty,0.0,1.0
+Louisiana,0.0,0.25
+Louisiana State,0.25925925925925924,0.0
+Louisiana Tech,0.0,0.0
+Louisville,0.09090909090909091,0.0
+Marshall,0.0,0.0
+Maryland,0.25,0.10526315789473684
+McNeese State,0.0,0.0
+Memphis,0.0,0.0
+Miami,0.08333333333333333,0.0
+Michigan,0.2,1.0
+Michigan State,0.14285714285714285,1.0
+Middle Tennessee State,0.25,0.0
+Minnesota,0.1,0.0
+Mississippi,0.3333333333333333,1.0
+Mississippi State,0.08333333333333333,0.0
+Missouri,0.16666666666666666,0.0
+Missouri Valley,1.0,0.08333333333333333
+Morgan State,1.0,0.0
+Navy,0.16666666666666666,0.07142857142857142
+Nebraska,0.043478260869565216,0.14285714285714285
+Nebraska-Omaha,1.0,0.1
+Nevada,0.0,0.45454545454545453
+Nevada-Las Vegas,0.0,0.0
+New Mexico,0.0,0.2
+New Mexico State,0.6666666666666666,1.0
+North Carolina,0.07142857142857142,1.0
+North Carolina State,0.058823529411764705,0.2
+North Texas,0.0,0.15384615384615385
+Northern Illinois,0.0,0.0
+Northwestern,0.16666666666666666,0.0
+Notre Dame,0.05263157894736842,0.0
+Ohio,0.0,0.10526315789473684
+Ohio State,0.14814814814814814,0.13333333333333333
+Oklahoma,0.14814814814814814,0.1111111111111111
+Oklahoma State,0.05555555555555555,0.0
+Old Dominion,0.0,0.0
+Oregon,0.13333333333333333,0.0
+Oregon State,0.2222222222222222,0.25
+Pacific,1.0,0.037037037037037035
+Penn State,0.1935483870967742,0.1
+Pittsburgh,0.07142857142857142,0.0
+Purdue,0.1,0.0
+Rice,0.5,0.2222222222222222
+Richmond,1.0,0.3333333333333333
+Rutgers,0.0,1.0
+Saint Mary's,1.0,0.10526315789473684
+San Diego State,0.0,1.0
+San Jose State,0.0,0.23809523809523808
+South Carolina,0.0,1.0
+South Florida,0.0,0.0
+Southern California,0.3333333333333333,1.0
+Southern Methodist,0.2,0.5
+Southern Mississippi,0.0,0.0
+St. Vincent's,1.0,0.0
+Stanford,0.26666666666666666,0.0
+Stetson,1.0,0.0
+Sul Ross State,1.0,0.0
+Syracuse,0.13333333333333333,0.15384615384615385
+Tampa,0.0,0.0
+Temple,0.0,0.2777777777777778
+Tennessee,0.125,0.4444444444444444
+Tennessee-Martin,1.0,0.26666666666666666
+Texas,0.32142857142857145,0.4166666666666667
+Texas A&M,0.125,0.5
+Texas A&M-Commerce,1.0,0.0
+Texas Christian,0.13333333333333333,0.36363636363636365
+Texas Tech,0.13333333333333333,1.0
+Texas-El Paso,1.0,0.19047619047619047
+Toledo,0.1111111111111111,0.1
+Troy,0.0,0.46153846153846156
+Tulane,0.0,0.21052631578947367
+Tulsa,0.0,0.125
+UCLA,0.06666666666666667,0.0
+Utah,0.0625,0.0
+Utah State,0.0,0.0
+Vanderbilt,0.2,0.2
+Villanova,1.0,0.125
+Virginia,0.0,0.29411764705882354
+Virginia Tech,0.0,0.0
+Wake Forest,0.1111111111111111,0.16666666666666666
+Washington,0.1875,0.0
+Washington & Jefferson,1.0,1.0
+Washington State,0.14285714285714285,0.0
+West Texas A&M,1.0,0.1
+West Virginia,0.09090909090909091,0.0
+Western Kentucky,0.16666666666666666,0.2222222222222222
+Western Michigan,0.0,1.0
+Wisconsin,0.0,0.1111111111111111
+Wyoming,0.4444444444444444,1.0
