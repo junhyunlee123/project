@@ -2,10 +2,6 @@
 ; character, the table uses 16 memory locations, each of which contains
 ; 8 bits (the high 8 bits, for your convenience) marking pixels in the
 ; line for that character.
-; The table below represents an 8x16 font.  For each 8-bit extended ASCII
-; character, the table uses 16 memory locations, each of which contains
-; 8 bits (the high 8 bits, for your convenience) marking pixels in the
-; line for that character.
 
 ;the program accomplishes its goal by having 3 loops. On each iteration of the line loop, we print each line. 
 ;Inside the line loop, we have character loop that prints multiple characters specified starting from 
